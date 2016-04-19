@@ -27,39 +27,39 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
   });
   $scope.chartConfig = {
     options: {
-        chart: {
-            zoomType: 'x'
+      chart: {
+        zoomType: 'x'
+      },
+      rangeSelector: {
+        enabled: true,
+        buttons: [
+          {
+            type:'second',
+            count: 900,
+            text: '15m'
+          },
+          {
+            type:'second',
+            count: 1800,
+            text: '30m'
+          },
+          {
+            type: 'minute',
+            count: 60,
+            text: '1h'
+          },
+          {
+            type: 'all',
+            text: 'All'
+          }]
         },
-        rangeSelector: {
-          enabled: true,
-          buttons: [
-            {
-              type:'second',
-              count: 900,
-              text: '15m'
-            },
-            {
-              type:'second',
-              count: 1800,
-              text: '30m'
-            },
-            {
-              type: 'minute',
-              count: 60,
-              text: '1h'
-            },
-            {
-              type: 'all',
-              text: 'All'
-            }]
-        },
-        navigator: {
-            enabled: true
-        },
-        legend: {
-          enabled: true,
-          align: 'right'
-        }
+      navigator: {
+        enabled: true
+      },
+      legend: {
+        enabled: true,
+        align: 'right'
+      }
     },
     series: [],
     title: {
@@ -69,11 +69,9 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
   };
 
   $scope.scollToLog = function(time){
-    console.log(time.toString().slice(0,-3));
+    // console.log(time.toString().slice(0,-3));
     var timeMinutes = time.toString().slice(0,-3);
-    console.log('time', timeMinutes);
-    // angular.element.find()
-    // var x = $document.find('1401981552533');
+    // console.log('time', timeMinutes);
     var container = $('.log'),
         scrollTo = $('.'+timeMinutes);
 
@@ -131,7 +129,6 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
           events: {
             click: function () {
               $scope.scollToLog(this.x);
-              // alert('Test' + Date(this.x) + ' ' + this.y);
             }
           }
         }
@@ -160,7 +157,6 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
           events: {
             click: function () {
               $scope.scollToLog(this.x);
-              // alert('Test' + Date(this.x) + ' ' + this.y);
             }
           }
         }
@@ -179,7 +175,6 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
       var dataArr = [];
       // console.log('resp', resp);
       resp.data.forEach(function(ping){
-        // var tuple = [Date.parse(ping.time), ping.val];
         var obj = {
           x: Date.parse(ping.time),
           title: 'A',
@@ -195,7 +190,6 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
           events: {
             click: function () {
               $scope.scollToLog(this.x);
-              // alert('Test' + Date(this.x) + ' ' + this.y);
             }
           }
         },
@@ -227,7 +221,6 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
           events: {
             click: function () {
               $scope.scollToLog(this.x);
-              // alert('Test' + Date(this.x) + ' ' + this.y);
             }
           }
         }
