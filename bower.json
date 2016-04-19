@@ -1,0 +1,24 @@
+{
+  "name": "badgelog",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Byron Rau <byronrau@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highcharts-ng": "~0.0.11"
+  }
+}

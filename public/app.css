@@ -1,0 +1,18 @@
+.ping {
+  color: blue;
+}
+.ack {
+  color: blue;
+}
+.assoc {
+  color: #00FF00;
+}
+.snr {
+  color: orange;
+}
+.disassoc {
+  color: red;
+}
+.scan {
+  color: #EEB211;
+}

@@ -1,0 +1,60 @@
+  PID  Uid     VmSize Stat Command
+    1 root        372 S   init       
+    2 root            RWN [ksoftirqd/0]
+    3 root            SW  [watchdog/0]
+    4 root            SW< [events/0]
+    5 root            SW< [khelper]
+    6 root            SW< [kthread]
+   18 root            SW< [kblockd/0]
+   60 root            SWN [pdflush]
+   61 root            RWN [pdflush]
+   63 root            SW< [aio/0]
+   62 root            SW  [kswapd0]
+  609 root            SW  [mtdblockd]
+  671 root            SWN [jffs2_gcd_mtd9]
+  759 root            Z   [S99setarpdefaul]
+  764 root        344 S   /g3/badge/bin/dhcpmon.out 
+  771 root            Z   [wait-n-disable-]
+  772 root            Z   [S53atd]
+  786 root        556 S   /g3/badge/bin/watcher.out 0 
+  791 root        556 S   /g3/badge/bin/watcher.out 0 
+  792 root        556 S   /g3/badge/bin/watcher.out 0 
+  797 root            Z   [reinit_syssrv.o]
+  811 root        180 S   init       
+  812 root        748 S   /bin/sh /g3/badge/bin/start_vbl.sh 
+  816 root        560 S   /g3/badge/bin/start_vbl.out 
+  817 root        736 S   /bin/sh /g3/badge/bin/check_n_start_vbl.sh 
+  828 root        800 S   /g3/badge/bin/vbl.out -skip-countdown 
+  829 root        800 S   /g3/badge/bin/vbl.out -skip-countdown 
+  830 root        800 S   /g3/badge/bin/vbl.out -skip-countdown 
+  835 root        800 S   /g3/badge/bin/vbl.out -skip-countdown 
+  840 root        800 S   /g3/badge/bin/vbl.out -skip-countdown 
+  841 root        800 S   /g3/badge/bin/vbl.out -skip-countdown 
+  842 root        800 S   /g3/badge/bin/vbl.out -skip-countdown 
+  843 root        800 R   /g3/badge/bin/vbl.out -skip-countdown 
+  947 root        800 S   /g3/badge/bin/vbl.out -skip-countdown 
+  948 root        740 S   /bin/sh /g3/badge/bin/sendlogs.sh autosendlogs 
+  972 root            RW< [wlan_main_servi]
+  973 root            SW< [wlan_reassoc_se]
+  975 root            Z   [S99setarpdefaul]
+  981 root        720 S   /bin/sh /sbin/start-udhcpc 
+  986 root        396 S   /sbin/udhcpc -f -i eth0 -p /mnt/ram/udhcpc.pid -T 100
+  991 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+  992 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+  994 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+  995 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+  996 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1002 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1003 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1004 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1005 root       3248 R   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1006 root       3248 R   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1011 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1012 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1013 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1014 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1015 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1016 root       3248 S   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1017 root       3248 R   /g3/badge/bin/vcb.out -uniconnect -autosendlogs 
+ 1027 root        704 R   sh -c ps -ef > /g3/badge/data/ps_output.txt 
+ 1028 root        356 R   ps -ef 

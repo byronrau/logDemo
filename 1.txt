@@ -1,0 +1,3345 @@
+06/05/14 08:19:12:533 ------------------------------- badge ----------------------------------------
+06/05/14 08:19:12:533
+06/05/14 08:19:12:533 Current date and time: Mon Nov 30 00:00:22 2037
+06/05/14 08:19:12:533 App Name badge Build 172 ERBits 00ffffff
+06/05/14 08:19:12:533
+06/05/14 08:19:12:533 Writing to log file enabled.
+06/05/14 08:19:12:533
+06/05/14 08:19:12:533 Console output will be disabled, as 'EnableConsoleLog' is not available or set to 'False'
+06/05/14 08:19:12:533 WARNING: setting 'EnableConsoleLog' to 'True' might result in performance degradation.
+06/05/14 08:19:12:533 *** Start Important App Data ***
+06/05/14 08:19:12:533 App Name badge Build 172 ERBits 00ffffff
+06/05/14 08:19:12:533 .erbin #: 61:
+06/05/14 08:19:12:533 WLAN mac addr: 00 09 ef 13 ce 8e
+06/05/14 08:19:12:533 Sys Log Active: false
+06/05/14 08:19:12:533 BP B3.SSID: sbmvocera
+06/05/14 08:19:12:533 BP B3.ServerIPAddr: 10.21.56.10,10.21.56.11
+06/05/14 08:19:12:533 BP B3.SubnetRoaming: FALSE
+06/05/14 08:19:12:533 BP B3.RoamingPolicy: 2
+06/05/14 08:19:12:533 BP B3.EnableAPSD: false
+06/05/14 08:19:12:533 *** End Important App Data ***
+06/05/14 08:19:12:533 BT: DoublePressMillis = 350, HoldTimeMillis = 450
+06/05/14 08:19:12:534 HW Revision 11
+06/05/14 08:19:12:725
+06/05/14 08:19:12:728 SC: AP Table. # of Entries: 0
+06/05/14 08:19:12:729
+06/05/14 08:19:12:729 SC: IP Table. # of entries: 0
+06/05/14 08:19:12:729
+06/05/14 08:19:12:733 COD: Setting nominal front end Tx and Rx gains
+06/05/14 08:19:12:739 DSP: MicCal: M1 4096, M2 4193, M3 3545, M4 3168
+06/05/14 08:19:12:739 DSP: PLC status: 0
+06/05/14 08:19:12:740 DSP: TableTopFactor: 8192
+06/05/14 08:19:12:740 Headset: Initial state of headset is: not detected
+06/05/14 08:19:12:742 Headset: Button support disabled
+06/05/14 08:19:12:742 COM: Opening tb.raw
+06/05/14 08:19:12:802 CM: Set phase 0
+06/05/14 08:19:12:807 DRV: WLAN driver is up
+06/05/14 08:19:12:810 L2P: retry enabled - timeout 100ms, tot cnt 15
+06/05/14 08:19:12:813 SS: DeepSleep event '1' received!
+06/05/14 08:19:12:816 DSP: Version Table Identifier: 0xffff9741
+06/05/14 08:19:12:817 DSP: Product Major Version: 4
+06/05/14 08:19:12:817 DSP: Version Minor: 39
+06/05/14 08:19:12:817 DSP: Product Minor Version: 0
+06/05/14 08:19:12:817 DSP: Product Revision: 0
+06/05/14 08:19:12:818 DSP: SE VERSION HIGH BYTE: 29
+06/05/14 08:19:12:818 DSP: SE VERSION LOW BYTE: 5
+06/05/14 08:19:12:839 DRV: Loading only WLAN module
+06/05/14 08:19:12:842 DRV: WLAN chip: moduletype = 1
+06/05/14 08:19:12:845 RM: Set phase 0
+06/05/14 08:19:14:136 Headset: No mode change for handset
+06/05/14 08:19:14:142 BV: Battery calibration offset = 0
+06/05/14 08:19:14:144 UI: state set to 1 (OffCampus)
+06/05/14 08:19:14:145 AM: SetHeadsetModeAndVolume: bFSFP=0 bFS=0 bCodec=0 bSpeech=0 bPrompt=0 iHeadsetMode=0
+06/05/14 08:19:14:149 UI: state set to 1 (OffCampus)
+06/05/14 08:19:14:149 CM: Set phase 1
+06/05/14 08:19:14:150 RM: Set phase 1
+06/05/14 08:19:14:151 RM: Set phase 2
+06/05/14 08:19:14:156 In PSK_Init
+06/05/14 08:19:14:157 FWH: init
+06/05/14 08:19:14:157 FWH: reset
+06/05/14 08:19:14:158 FWH: timeout 3 seconds
+06/05/14 08:19:14:159 DRV: exit deep sleep success
+06/05/14 08:19:14:163 RM: 802.11d disabled
+06/05/14 08:19:14:180 RM: WMM disabled
+06/05/14 08:19:14:184 RM: Roam policy = 2
+06/05/14 08:19:14:185 RM: SNR threshold = 20
+06/05/14 08:19:14:188 RM: Set phase 3
+06/05/14 08:19:14:188 RM: Scanning ...
+06/05/14 08:19:14:189 CM: Set phase 2
+06/05/14 08:19:14:250 DRE: scan results event
+06/05/14 08:19:14:363 DRE: scan results event
+06/05/14 08:19:14:464 DRE: scan results event
+06/05/14 08:19:14:469 RM: Found 6 APs. Top AP(s) - 00 1a 30 31 ba e4 (11,37) - 00 15 c7 28 0c 24 (6,33) - 00 1e be a7 07 54 (11,31)
+06/05/14 08:19:14:471 Chosen AP is 00 1a 30 31 ba e4 in channel 11
+06/05/14 08:19:14:471 RM: SNR: 37 (RSSI -59, NF -96)
+06/05/14 08:19:14:472 RM: Set phase 4
+06/05/14 08:19:14:472 RM: Associating
+06/05/14 08:19:14:472 FWH: reset
+06/05/14 08:19:14:474 RM: Enabling Rate Power Control for channel 11 ...
+06/05/14 08:19:14:478 DRV: AP to associate with: 001a3031bae4
+06/05/14 08:19:14:497 RM: Associated with AP 00 1a 30 31 ba e4 on channel 11. AID is 5 [0x5].
+06/05/14 08:19:14:498 CM: Set phase 3
+06/05/14 08:19:14:500 RM: Set phase 6
+06/05/14 08:19:14:501 RM: Authenticating
+06/05/14 08:19:14:501 PSK_Start
+06/05/14 08:19:14:502 DRE: association information elements event
+06/05/14 08:19:14:513 FWH: Pairwise 1 received.
+06/05/14 08:19:14:521 FWH: pairwise 2 sent.
+06/05/14 08:19:14:528 FWH: pairwise 3 received.
+06/05/14 08:19:14:528 FWH: pairwise 4 sent.
+06/05/14 08:19:14:538 FWH: group 1 received.
+06/05/14 08:19:14:542 FWH: group key 2 sent
+06/05/14 08:19:14:542 CM: Set phase 4
+06/05/14 08:19:14:544 RM: Set phase 7
+06/05/14 08:19:14:545 RM: Requesting IP Address
+06/05/14 08:19:14:545 IC: static IP is false
+06/05/14 08:19:14:546 IC: Configuring interface with DHCP
+06/05/14 08:19:14:845 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:15:118 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:15:392 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:15:665 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:15:938 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:16:212 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:16:485 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:16:759 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:17:032 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:17:306 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:17:603 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:17:891 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:18:165 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:18:317 RM: Low SNR while configuring interface
+06/05/14 08:19:18:419 RM: Low SNR while configuring interface
+06/05/14 08:19:18:462 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:18:522 RM: Low SNR while configuring interface
+06/05/14 08:19:18:624 RM: Low SNR while configuring interface
+06/05/14 08:19:18:727 RM: Low SNR while configuring interface
+06/05/14 08:19:18:736 IC: Waiting for an IP address to be assigned...
+06/05/14 08:19:18:879 IC: Interface configured with IP address 10.21.57.173
+06/05/14 08:19:18:880 RM: dhcpc: DOM sbhcs.com, DNS1 10.25.110.250, IP 10.21.57.173, NM 255.255.252.0, GW1 10.21.56.1,
+06/05/14 08:19:18:881 RM: Total roam time: 4492 ms
+06/05/14 08:19:18:881 CM: Set phase 5
+06/05/14 08:19:18:882 UI: state set to 2 (1stPing)
+06/05/14 08:19:18:887 CLM: Changing master server ip addr to 10.21.56.11
+06/05/14 08:19:18:888 CLM: No. of servers in cluster: 2, Servers: 10.21.56.11,10.21.56.10
+06/05/14 08:19:18:890 SM: 1stPing: 10.21.56.11: TX [1] Ping
+06/05/14 08:19:18:892 AM: StartPrompt: bCodec=0 bSpeech=0 bPrompt=0
+06/05/14 08:19:18:892 PP: about to play back_in_range.wav
+06/05/14 08:19:18:900 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=0 bSpeech=0 bPrompt=1 iHeadsetMode=0
+06/05/14 08:19:18:912 RM: Set phase 8
+06/05/14 08:19:18:917 RM: Low SNR Event
+06/05/14 08:19:18:918 RM: Scan triggered
+06/05/14 08:19:18:938 RM: Low SNR Event
+06/05/14 08:19:18:973 DRE: scan results event
+06/05/14 08:19:18:985 SM: 1stPing: 10.21.56.11: RX [1] Ack
+06/05/14 08:19:18:987 UI: state set to 3 (Standby)
+06/05/14 08:19:18:988 UI: WriteInventoryRecord: iVoltage=0 sText=0:3:001a3031bae4:G5DH1313CE8E:704b20ac
+06/05/14 08:19:18:999
+06/05/14 08:19:19:000 UI: Server's Date & Time: Thu Jun 5 08:19:19 2014
+06/05/14 08:19:19:027 SM: Standby: 10.21.56.11: RX [1] APName
+06/05/14 08:19:19:028 UI: AP Name: 'O R-AP288'
+06/05/14 08:19:19:031 SM: Standby: 10.21.56.11: TX [1] Ack
+06/05/14 08:19:19:055 RM: Low SNR Event
+06/05/14 08:19:19:084 DRE: scan results event
+06/05/14 08:19:19:196 AM: StopPrompt: bCodec=1 bSpeech=0 bPrompt=1
+06/05/14 08:19:19:574 DRE: scan results event
+06/05/14 08:19:19:578 RM: Found 5 APs. Top AP(s) - 00 1a 30 31 ba e4 (11,28) - 00 1a 30 33 80 b4 (6,27) - 00 15 c7 28 0c 24 (6,25)
+06/05/14 08:19:19:580 RM: current AP found to be best
+06/05/14 08:19:19:580 RM: SNR: 28 (RSSI -68, NF -96)
+06/05/14 08:19:20:730 RM: Low SNR Event
+06/05/14 08:19:21:192 RM: Low SNR Event
+06/05/14 08:19:21:192 RM: Scan triggered
+06/05/14 08:19:21:735 DRE: scan results event
+06/05/14 08:19:21:769 DRE: scan results event
+06/05/14 08:19:21:801 DRE: scan results event
+06/05/14 08:19:21:805 RM: Found 4 APs. Top AP(s) - 00 15 c7 28 0c 24 (6,38) - 00 1a 30 33 80 b4 (6,32) - 00 1e be a7 07 54 (11,26)
+06/05/14 08:19:21:807 Chosen AP is 00 15 c7 28 0c 24 in channel 6
+06/05/14 08:19:21:808 RM: SNR: 38 (RSSI -58, NF -96)
+06/05/14 08:19:21:808 RM: Set phase 4
+06/05/14 08:19:21:808 RM: Associating
+06/05/14 08:19:21:809 FWH: reset
+06/05/14 08:19:21:811 RM: Enabling Rate Power Control for channel 11 ...
+06/05/14 08:19:21:817 DRV: AP to associate with: 0015c7280c24
+06/05/14 08:19:21:854 FWH: out of turn msg buffered
+06/05/14 08:19:21:861 RM: Associated with AP 00 15 c7 28 0c 24 on channel 6. AID is 28 [0x1c].
+06/05/14 08:19:21:861 CM: Set phase 6
+06/05/14 08:19:21:863 RM: Set phase 6
+06/05/14 08:19:21:863 RM: Authenticating
+06/05/14 08:19:21:864 PSK_Start
+06/05/14 08:19:21:864 FWH: Using buffered msg ...
+06/05/14 08:19:21:865 FWH: Pairwise 1 received.
+06/05/14 08:19:21:871 FWH: pairwise 2 sent.
+06/05/14 08:19:21:871 DRE: association information elements event
+06/05/14 08:19:21:877 FWH: pairwise 3 received.
+06/05/14 08:19:21:878 FWH: pairwise 4 sent.
+06/05/14 08:19:21:887 FWH: group 1 received.
+06/05/14 08:19:21:891 FWH: group key 2 sent
+06/05/14 08:19:21:892 RM: Set phase 7
+06/05/14 08:19:21:892 RM: Requesting IP Address
+06/05/14 08:19:21:893 RM: Total roam time: 500 ms
+06/05/14 08:19:21:894 CM: Set phase 9
+06/05/14 08:19:21:894 CM: Set phase 5
+06/05/14 08:19:21:895 SM: Standby: 10.21.56.11: TX [2] Ping
+06/05/14 08:19:21:899 RM: Set phase 8
+06/05/14 08:19:21:928 SM: Standby: 10.21.56.11: RX [2] Ack
+06/05/14 08:19:21:929 SM: Standby: 10.21.56.11: TX [3] Log
+06/05/14 08:19:21:933 SM: Standby: 10.21.56.11: RX [2] APName
+06/05/14 08:19:21:933 UI: AP Name: 'O R Hold-AP6'
+06/05/14 08:19:21:935 SM: Standby: 10.21.56.11: TX [2] Ack
+06/05/14 08:19:21:940 SM: Standby: 10.21.56.11: RX [3] Ack
+06/05/14 08:19:21:940 SM: Standby: 10.21.56.11: TX [4] Log
+06/05/14 08:19:21:945 SM: Standby: 10.21.56.11: RX [4] Ack
+06/05/14 08:19:31:233 RM: Low SNR Event
+06/05/14 08:19:31:234 RM: Scan triggered
+06/05/14 08:19:31:745 RM: Low SNR Event
+06/05/14 08:19:31:770 DRE: scan results event
+06/05/14 08:19:31:792 DRE: scan results event
+06/05/14 08:19:31:818 DRE: scan results event
+06/05/14 08:19:31:822 RM: Found 4 APs. Top AP(s) - 00 1a 30 7e 6f 34 (1,44) - 00 1a 30 33 80 b4 (6,27) - 00 1a 30 c0 da f4 (11,26)
+06/05/14 08:19:31:824 Chosen AP is 00 1a 30 7e 6f 34 in channel 1
+06/05/14 08:19:31:824 RM: SNR: 44 (RSSI -52, NF -96)
+06/05/14 08:19:31:824 RM: Set phase 4
+06/05/14 08:19:31:825 RM: Associating
+06/05/14 08:19:31:825 FWH: reset
+06/05/14 08:19:31:827 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 08:19:31:832 DRV: AP to associate with: 001a307e6f34
+06/05/14 08:19:31:853 RM: Associated with AP 00 1a 30 7e 6f 34 on channel 1. AID is 19 [0x13].
+06/05/14 08:19:31:854 CM: Set phase 6
+06/05/14 08:19:31:855 RM: Set phase 6
+06/05/14 08:19:31:856 RM: Authenticating
+06/05/14 08:19:31:856 PSK_Start
+06/05/14 08:19:31:857 DRE: association information elements event
+06/05/14 08:19:31:859 FWH: Pairwise 1 received.
+06/05/14 08:19:31:865 FWH: pairwise 2 sent.
+06/05/14 08:19:31:870 FWH: pairwise 3 received.
+06/05/14 08:19:31:871 FWH: pairwise 4 sent.
+06/05/14 08:19:31:883 FWH: group 1 received.
+06/05/14 08:19:31:887 FWH: group key 2 sent
+06/05/14 08:19:31:887 RM: Set phase 7
+06/05/14 08:19:31:888 RM: Requesting IP Address
+06/05/14 08:19:31:888 RM: Total roam time: 454 ms
+06/05/14 08:19:31:889 CM: Set phase 9
+06/05/14 08:19:31:889 CM: Set phase 5
+06/05/14 08:19:31:890 SM: Standby: 10.21.56.11: TX [5] Ping
+06/05/14 08:19:31:894 RM: Set phase 8
+06/05/14 08:19:31:900 SM: Standby: 10.21.56.11: RX [5] Ack
+06/05/14 08:19:31:902 SM: Standby: 10.21.56.11: RX [3] APName
+06/05/14 08:19:31:903 UI: AP Name: 'O R-AP282'
+06/05/14 08:19:31:905 SM: Standby: 10.21.56.11: TX [3] Ack
+06/05/14 08:19:32:046 SS: DeepSleep event '0' received!
+06/05/14 08:19:41:084 RM: Low SNR Event
+06/05/14 08:19:41:084 RM: Scan triggered
+06/05/14 08:19:41:107 DRE: scan results event
+06/05/14 08:19:41:617 DRE: scan results event
+06/05/14 08:19:41:644 DRE: scan results event
+06/05/14 08:19:41:648 RM: Found 3 APs. Top AP(s) - 00 1a 30 32 24 94 (1,40) - 00 1e be a7 07 54 (11,20) - 00 1a 30 7e 6f 34 (1,13)
+06/05/14 08:19:41:650 Chosen AP is 00 1a 30 32 24 94 in channel 1
+06/05/14 08:19:41:650 RM: SNR: 40 (RSSI -56, NF -96)
+06/05/14 08:19:41:651 RM: Set phase 4
+06/05/14 08:19:41:651 RM: Associating
+06/05/14 08:19:41:651 FWH: reset
+06/05/14 08:19:41:653 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 08:19:41:658 DRV: AP to associate with: 001a30322494
+06/05/14 08:19:41:677 RM: Associated with AP 00 1a 30 32 24 94 on channel 1. AID is 58 [0x3a].
+06/05/14 08:19:41:678 CM: Set phase 6
+06/05/14 08:19:41:680 RM: Set phase 6
+06/05/14 08:19:41:680 RM: Authenticating
+06/05/14 08:19:41:680 PSK_Start
+06/05/14 08:19:41:681 DRE: association information elements event
+06/05/14 08:19:41:683 FWH: Pairwise 1 received.
+06/05/14 08:19:41:689 FWH: pairwise 2 sent.
+06/05/14 08:19:41:694 FWH: pairwise 3 received.
+06/05/14 08:19:41:695 FWH: pairwise 4 sent.
+06/05/14 08:19:41:706 FWH: group 1 received.
+06/05/14 08:19:41:710 FWH: group key 2 sent
+06/05/14 08:19:41:710 RM: Set phase 7
+06/05/14 08:19:41:711 RM: Requesting IP Address
+06/05/14 08:19:41:712 RM: Total roam time: 427 ms
+06/05/14 08:19:41:712 CM: Set phase 9
+06/05/14 08:19:41:712 CM: Set phase 5
+06/05/14 08:19:41:713 SM: Standby: 10.21.56.11: TX [6] Ping
+06/05/14 08:19:41:717 RM: Set phase 8
+06/05/14 08:19:41:723 SM: Standby: 10.21.56.11: RX [6] Ack
+06/05/14 08:19:41:725 SM: Standby: 10.21.56.11: RX [4] APName
+06/05/14 08:19:41:726 UI: AP Name: 'O R-AP274'
+06/05/14 08:19:41:726 SM: Standby: 10.21.56.11: TX [4] Ack
+06/05/14 08:20:11:753 SM: Standby: 10.21.56.11: TX [7] Ping
+06/05/14 08:20:11:759 SM: Standby: 10.21.56.11: RX [7] Ack
+06/05/14 08:20:11:760 SM: Standby: 10.21.56.11: TX [8] BinaryLog
+06/05/14 08:20:11:766 SM: Standby: 10.21.56.11: RX [8] Ack
+06/05/14 08:20:42:064 SM: Standby: 10.21.56.11: TX [9] Ping
+06/05/14 08:20:42:081 SM: Standby: 10.21.56.11: RX [9] Ack
+06/05/14 08:20:42:081 SM: Standby: 10.21.56.11: TX [10] BinaryLog
+06/05/14 08:20:42:086 SM: Standby: 10.21.56.11: RX [10] Ack
+06/05/14 08:20:43:090 SM: Standby: 10.21.56.11: TX [11] BinaryLog
+06/05/14 08:20:43:696 SM: Standby: 10.21.56.11: TX [11] BinaryLog
+06/05/14 08:20:44:113 SM: Standby: 10.21.56.11: RX [11] Ack
+06/05/14 08:20:44:115 SM: Standby: 10.21.56.11: RX [11] Ack
+06/05/14 08:21:12:375 SM: Standby: 10.21.56.11: TX [12] Ping
+06/05/14 08:21:12:381 SM: Standby: 10.21.56.11: RX [12] Ack
+06/05/14 08:21:42:687 SM: Standby: 10.21.56.11: TX [13] Ping
+06/05/14 08:21:43:200 SM: Standby: 10.21.56.11: RX [13] Ack
+06/05/14 08:22:12:896 SM: Standby: 10.21.56.11: TX [14] Ping
+06/05/14 08:22:13:501 SM: Standby: 10.21.56.11: TX [14] Ping
+06/05/14 08:22:13:924 SM: Standby: 10.21.56.11: RX [14] Ack
+06/05/14 08:22:13:926 SM: Standby: 10.21.56.11: RX [14] Ack
+06/05/14 08:22:43:104 SM: Standby: 10.21.56.11: TX [15] Ping
+06/05/14 08:22:43:617 SM: Standby: 10.21.56.11: RX [15] Ack
+06/05/14 08:23:13:313 SM: Standby: 10.21.56.11: TX [16] Ping
+06/05/14 08:23:13:319 SM: Standby: 10.21.56.11: RX [16] Ack
+06/05/14 08:23:43:522 SM: Standby: 10.21.56.11: TX [17] Ping
+06/05/14 08:23:43:530 SM: Standby: 10.21.56.11: RX [17] Ack
+06/05/14 08:24:01:957 FWH: group 1 received.
+06/05/14 08:24:01:961 FWH: group key 2 sent
+06/05/14 08:24:13:733 SM: Standby: 10.21.56.11: TX [18] Ping
+06/05/14 08:24:14:244 SM: Standby: 10.21.56.11: RX [18] Ack
+06/05/14 08:24:14:245 SM: Standby: 10.21.56.11: TX [19] BinaryLog
+06/05/14 08:24:14:249 SM: Standby: 10.21.56.11: RX [19] Ack
+06/05/14 08:24:43:940 SM: Standby: 10.21.56.11: TX [20] Ping
+06/05/14 08:24:44:453 SM: Standby: 10.21.56.11: RX [20] Ack
+06/05/14 08:25:14:148 SM: Standby: 10.21.56.11: TX [21] Ping
+06/05/14 08:25:14:162 SM: Standby: 10.21.56.11: RX [21] Ack
+06/05/14 08:25:44:460 SM: Standby: 10.21.56.11: TX [22] Ping
+06/05/14 08:25:44:973 SM: Standby: 10.21.56.11: RX [22] Ack
+06/05/14 08:26:14:873 SM: Standby: 10.21.56.11: TX [23] Ping
+06/05/14 08:26:14:881 SM: Standby: 10.21.56.11: RX [23] Ack
+06/05/14 08:26:34:434 RM: Low SNR Event
+06/05/14 08:26:34:434 RM: Scan triggered
+06/05/14 08:26:34:944 RM: Low SNR Event
+06/05/14 08:26:34:964 DRE: scan results event
+06/05/14 08:26:34:990 DRE: scan results event
+06/05/14 08:26:35:015 DRE: scan results event
+06/05/14 08:26:35:018 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,29) - 00 1a 30 32 24 94 (1,20)
+06/05/14 08:26:35:020 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 08:26:35:020 RM: SNR: 29 (RSSI -67, NF -96)
+06/05/14 08:26:35:020 RM: Set phase 4
+06/05/14 08:26:35:021 RM: Associating
+06/05/14 08:26:35:021 FWH: reset
+06/05/14 08:26:35:023 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 08:26:35:028 DRV: AP to associate with: 001a30c0e224
+06/05/14 08:26:35:050 RM: Associated with AP 00 1a 30 c0 e2 24 on channel 6. AID is 100 [0x64].
+06/05/14 08:26:35:051 CM: Set phase 6
+06/05/14 08:26:35:052 RM: Set phase 6
+06/05/14 08:26:35:053 RM: Authenticating
+06/05/14 08:26:35:053 PSK_Start
+06/05/14 08:26:35:054 DRE: association information elements event
+06/05/14 08:26:35:056 FWH: Pairwise 1 received.
+06/05/14 08:26:35:062 FWH: pairwise 2 sent.
+06/05/14 08:26:35:067 FWH: pairwise 3 received.
+06/05/14 08:26:35:068 FWH: pairwise 4 sent.
+06/05/14 08:26:35:079 FWH: group 1 received.
+06/05/14 08:26:35:083 FWH: group key 2 sent
+06/05/14 08:26:35:083 RM: Set phase 7
+06/05/14 08:26:35:084 RM: Requesting IP Address
+06/05/14 08:26:35:084 RM: Total roam time: 450 ms
+06/05/14 08:26:35:085 CM: Set phase 9
+06/05/14 08:26:35:085 CM: Set phase 5
+06/05/14 08:26:35:086 SM: Standby: 10.21.56.11: TX [24] Ping
+06/05/14 08:26:35:090 RM: Set phase 8
+06/05/14 08:26:35:100 SM: Standby: 10.21.56.11: RX [24] Ack
+06/05/14 08:26:35:101 SM: Standby: 10.21.56.11: TX [25] BinaryLog
+06/05/14 08:26:35:104 SM: Standby: 10.21.56.11: RX [5] APName
+06/05/14 08:26:35:105 UI: AP Name: 'O R-AP275'
+06/05/14 08:26:35:105 SM: Standby: 10.21.56.11: TX [5] Ack
+06/05/14 08:26:35:108 SM: Standby: 10.21.56.11: RX [25] Ack
+06/05/14 08:27:05:268 SM: Standby: 10.21.56.11: TX [26] Ping
+06/05/14 08:27:05:273 SM: Standby: 10.21.56.11: RX [26] Ack
+06/05/14 08:27:05:274 SM: Standby: 10.21.56.11: TX [27] BinaryLog
+06/05/14 08:27:05:278 SM: Standby: 10.21.56.11: RX [27] Ack
+06/05/14 08:27:35:476 SM: Standby: 10.21.56.11: TX [28] Ping
+06/05/14 08:27:35:487 SM: Standby: 10.21.56.11: RX [28] Ack
+06/05/14 08:28:05:685 SM: Standby: 10.21.56.11: TX [29] Ping
+06/05/14 08:28:05:693 SM: Standby: 10.21.56.11: RX [29] Ack
+06/05/14 08:28:35:894 SM: Standby: 10.21.56.11: TX [30] Ping
+06/05/14 08:28:36:408 SM: Standby: 10.21.56.11: RX [30] Ack
+06/05/14 08:29:06:110 SM: Standby: 10.21.56.11: TX [31] Ping
+06/05/14 08:29:06:616 SM: Standby: 10.21.56.11: RX [31] Ack
+06/05/14 08:29:36:311 SM: Standby: 10.21.56.11: TX [32] Ping
+06/05/14 08:29:36:319 SM: Standby: 10.21.56.11: RX [32] Ack
+06/05/14 08:30:06:622 SM: Standby: 10.21.56.11: TX [33] Ping
+06/05/14 08:30:06:627 SM: Standby: 10.21.56.11: RX [33] Ack
+06/05/14 08:30:36:831 SM: Standby: 10.21.56.11: TX [34] Ping
+06/05/14 08:30:37:345 SM: Standby: 10.21.56.11: RX [34] Ack
+06/05/14 08:31:07:039 SM: Standby: 10.21.56.11: TX [35] Ping
+06/05/14 08:31:07:053 SM: Standby: 10.21.56.11: RX [35] Ack
+06/05/14 08:31:37:248 SM: Standby: 10.21.56.11: TX [36] Ping
+06/05/14 08:31:37:254 SM: Standby: 10.21.56.11: RX [36] Ack
+06/05/14 08:32:07:457 SM: Standby: 10.21.56.11: TX [37] Ping
+06/05/14 08:32:07:463 SM: Standby: 10.21.56.11: RX [37] Ack
+06/05/14 08:32:37:665 SM: Standby: 10.21.56.11: TX [38] Ping
+06/05/14 08:32:37:678 SM: Standby: 10.21.56.11: RX [38] Ack
+06/05/14 08:33:07:874 SM: Standby: 10.21.56.11: TX [39] Ping
+06/05/14 08:33:07:880 SM: Standby: 10.21.56.11: RX [39] Ack
+06/05/14 08:33:38:083 SM: Standby: 10.21.56.11: TX [40] Ping
+06/05/14 08:33:38:596 SM: Standby: 10.21.56.11: RX [40] Ack
+06/05/14 08:34:08:295 SM: Standby: 10.21.56.11: TX [41] Ping
+06/05/14 08:34:08:302 SM: Standby: 10.21.56.11: RX [41] Ack
+06/05/14 08:34:38:500 UI: WriteInventoryRecord: iVoltage=3772 sText=3772:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 08:34:38:501 SM: Standby: 10.21.56.11: TX [42] Ping
+06/05/14 08:34:38:506 SM: Standby: 10.21.56.11: RX [42] Ack
+06/05/14 08:34:38:507 SM: Standby: 10.21.56.11: TX [43] Log
+06/05/14 08:34:38:512 SM: Standby: 10.21.56.11: RX [43] Ack
+06/05/14 08:34:59:503 SM: Standby: 10.21.56.11: TX [44] BinaryLog
+06/05/14 08:35:00:110 SM: Standby: 10.21.56.11: TX [44] BinaryLog
+06/05/14 08:35:00:520 SM: Standby: 10.21.56.11: RX [44] Ack
+06/05/14 08:35:00:522 SM: Standby: 10.21.56.11: RX [44] Ack
+06/05/14 08:35:08:709 SM: Standby: 10.21.56.11: TX [45] Ping
+06/05/14 08:35:08:714 SM: Standby: 10.21.56.11: RX [45] Ack
+06/05/14 08:35:38:918 SM: Standby: 10.21.56.11: TX [46] Ping
+06/05/14 08:35:39:431 SM: Standby: 10.21.56.11: RX [46] Ack
+06/05/14 08:36:09:126 SM: Standby: 10.21.56.11: TX [47] Ping
+06/05/14 08:36:09:138 SM: Standby: 10.21.56.11: RX [47] Ack
+06/05/14 08:36:39:335 SM: Standby: 10.21.56.11: TX [48] Ping
+06/05/14 08:36:39:340 SM: Standby: 10.21.56.11: RX [48] Ack
+06/05/14 08:37:09:543 SM: Standby: 10.21.56.11: TX [49] Ping
+06/05/14 08:37:09:549 SM: Standby: 10.21.56.11: RX [49] Ack
+06/05/14 08:37:39:752 SM: Standby: 10.21.56.11: TX [50] Ping
+06/05/14 08:37:39:765 SM: Standby: 10.21.56.11: RX [50] Ack
+06/05/14 08:38:09:960 SM: Standby: 10.21.56.11: TX [51] Ping
+06/05/14 08:38:10:477 SM: Standby: 10.21.56.11: RX [51] Ack
+06/05/14 08:38:40:169 SM: Standby: 10.21.56.11: TX [52] Ping
+06/05/14 08:38:40:682 SM: Standby: 10.21.56.11: RX [52] Ack
+06/05/14 08:39:10:382 SM: Standby: 10.21.56.11: TX [53] Ping
+06/05/14 08:39:10:391 SM: Standby: 10.21.56.11: RX [53] Ack
+06/05/14 08:39:40:689 SM: Standby: 10.21.56.11: TX [54] Ping
+06/05/14 08:39:40:694 SM: Standby: 10.21.56.11: RX [54] Ack
+06/05/14 08:40:10:898 SM: Standby: 10.21.56.11: TX [55] Ping
+06/05/14 08:40:11:411 SM: Standby: 10.21.56.11: RX [55] Ack
+06/05/14 08:40:41:106 SM: Standby: 10.21.56.11: TX [56] Ping
+06/05/14 08:40:41:118 SM: Standby: 10.21.56.11: RX [56] Ack
+06/05/14 08:41:11:315 SM: Standby: 10.21.56.11: TX [57] Ping
+06/05/14 08:41:11:324 SM: Standby: 10.21.56.11: RX [57] Ack
+06/05/14 08:41:27:701 RM: Low SNR Event
+06/05/14 08:41:27:702 RM: Scan triggered
+06/05/14 08:41:28:235 DRE: scan results event
+06/05/14 08:41:28:257 DRE: scan results event
+06/05/14 08:41:28:282 DRE: scan results event
+06/05/14 08:41:28:285 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,16) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:41:28:287 RM: current AP found to be best
+06/05/14 08:41:28:287 RM: SNR: 16 (RSSI -80, NF -96)
+06/05/14 08:41:28:314 RM: Low SNR Event
+06/05/14 08:41:28:416 RM: Low SNR Event
+06/05/14 08:41:28:932 RM: Low SNR Event
+06/05/14 08:41:29:442 RM: Low SNR Event
+06/05/14 08:41:29:955 RM: Low SNR Event
+06/05/14 08:41:29:955 RM: Scan triggered
+06/05/14 08:41:30:490 DRE: scan results event
+06/05/14 08:41:30:513 DRE: scan results event
+06/05/14 08:41:30:539 DRE: scan results event
+06/05/14 08:41:30:542 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,15)
+06/05/14 08:41:30:544 RM: current AP found to be best
+06/05/14 08:41:30:544 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:41:30:567 RM: Low SNR Event
+06/05/14 08:41:41:319 SM: Standby: 10.21.56.11: TX [58] Ping
+06/05/14 08:41:41:832 SM: Standby: 10.21.56.11: RX [58] Ack
+06/05/14 08:41:41:833 SM: Standby: 10.21.56.11: TX [59] BinaryLog
+06/05/14 08:41:41:837 SM: Standby: 10.21.56.11: RX [59] Ack
+06/05/14 08:42:11:528 SM: Standby: 10.21.56.11: TX [60] Ping
+06/05/14 08:42:11:537 SM: Standby: 10.21.56.11: RX [60] Ack
+06/05/14 08:42:41:737 SM: Standby: 10.21.56.11: TX [61] Ping
+06/05/14 08:42:41:743 SM: Standby: 10.21.56.11: RX [61] Ack
+06/05/14 08:43:12:048 SM: Standby: 10.21.56.11: TX [62] Ping
+06/05/14 08:43:12:061 SM: Standby: 10.21.56.11: RX [62] Ack
+06/05/14 08:43:42:282 SM: Standby: 10.21.56.11: TX [63] Ping
+06/05/14 08:43:42:287 SM: Standby: 10.21.56.11: RX [63] Ack
+06/05/14 08:44:12:465 SM: Standby: 10.21.56.11: TX [64] Ping
+06/05/14 08:44:12:983 SM: Standby: 10.21.56.11: RX [64] Ack
+06/05/14 08:44:42:673 SM: Standby: 10.21.56.11: TX [65] Ping
+06/05/14 08:44:43:186 SM: Standby: 10.21.56.11: RX [65] Ack
+06/05/14 08:45:12:882 SM: Standby: 10.21.56.11: TX [66] Ping
+06/05/14 08:45:12:890 SM: Standby: 10.21.56.11: RX [66] Ack
+06/05/14 08:45:43:090 SM: Standby: 10.21.56.11: TX [67] Ping
+06/05/14 08:45:43:696 SM: Standby: 10.21.56.11: TX [67] Ping
+06/05/14 08:45:44:116 SM: Standby: 10.21.56.11: RX [67] Ack
+06/05/14 08:46:07:668 RM: Low SNR Event
+06/05/14 08:46:07:669 RM: Scan triggered
+06/05/14 08:46:07:698 DRE: scan results event
+06/05/14 08:46:08:179 RM: Low SNR Event
+06/05/14 08:46:08:199 DRE: scan results event
+06/05/14 08:46:08:224 DRE: scan results event
+06/05/14 08:46:08:228 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,18) - 00 1a 30 c0 e2 24 (6,18)
+06/05/14 08:46:08:229 RM: current AP found to be best
+06/05/14 08:46:08:229 RM: SNR: 18 (RSSI -78, NF -96)
+06/05/14 08:46:08:692 RM: Low SNR Event
+06/05/14 08:46:09:204 RM: Low SNR Event
+06/05/14 08:46:09:717 RM: Low SNR Event
+06/05/14 08:46:09:717 RM: Scan triggered
+06/05/14 08:46:09:744 DRE: scan results event
+06/05/14 08:46:10:227 RM: Low SNR Event
+06/05/14 08:46:10:247 DRE: scan results event
+06/05/14 08:46:10:272 DRE: scan results event
+06/05/14 08:46:10:276 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,17) - 00 1a 30 32 24 94 (1,16)
+06/05/14 08:46:10:277 RM: current AP found to be best
+06/05/14 08:46:10:277 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:46:10:743 RM: Low SNR Event
+06/05/14 08:46:11:253 RM: Low SNR Event
+06/05/14 08:46:11:764 RM: Low SNR Event
+06/05/14 08:46:11:765 RM: Scan triggered
+06/05/14 08:46:12:275 RM: Low SNR Event
+06/05/14 08:46:12:299 DRE: scan results event
+06/05/14 08:46:12:321 DRE: scan results event
+06/05/14 08:46:12:346 DRE: scan results event
+06/05/14 08:46:12:350 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,13) - 00 1a 30 c0 e2 24 (6,13)
+06/05/14 08:46:12:351 RM: current AP found to be best
+06/05/14 08:46:12:351 RM: SNR: 13 (RSSI -83, NF -96)
+06/05/14 08:46:12:789 RM: Low SNR Event
+06/05/14 08:46:13:299 SM: Standby: 10.21.56.11: TX [68] Ping
+06/05/14 08:46:13:302 RM: Low SNR Event
+06/05/14 08:46:13:811 RM: Low SNR Event
+06/05/14 08:46:13:811 RM: Scan triggered
+06/05/14 08:46:13:821 SM: Standby: 10.21.56.11: RX [68] Ack
+06/05/14 08:46:13:822 SM: Standby: 10.21.56.11: TX [69] BinaryLog
+06/05/14 08:46:13:848 DRE: scan results event
+06/05/14 08:46:13:855 SM: Standby: 10.21.56.11: RX [69] Ack
+06/05/14 08:46:14:323 RM: Low SNR Event
+06/05/14 08:46:14:343 DRE: scan results event
+06/05/14 08:46:14:368 DRE: scan results event
+06/05/14 08:46:14:371 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:46:14:372 RM: current AP found to be best
+06/05/14 08:46:14:373 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:46:14:837 RM: Low SNR Event
+06/05/14 08:46:15:348 RM: Low SNR Event
+06/05/14 08:46:15:862 RM: Low SNR Event
+06/05/14 08:46:15:863 RM: Scan triggered
+06/05/14 08:46:16:371 RM: Low SNR Event
+06/05/14 08:46:16:395 DRE: scan results event
+06/05/14 08:46:16:417 DRE: scan results event
+06/05/14 08:46:16:441 DRE: scan results event
+06/05/14 08:46:16:444 RM: Found 1 APs. Top AP(s) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:46:16:446 Chosen AP is 00 1a 30 32 24 94 in channel 1
+06/05/14 08:46:16:446 RM: SNR: 14 (RSSI -82, NF -96)
+06/05/14 08:46:16:446 RM: Set phase 4
+06/05/14 08:46:16:447 RM: Associating
+06/05/14 08:46:16:447 FWH: reset
+06/05/14 08:46:16:449 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 08:46:16:454 DRV: AP to associate with: 001a30322494
+06/05/14 08:46:16:474 RM: Associated with AP 00 1a 30 32 24 94 on channel 1. AID is 102 [0x66].
+06/05/14 08:46:16:475 CM: Set phase 6
+06/05/14 08:46:16:476 RM: Set phase 6
+06/05/14 08:46:16:477 RM: Authenticating
+06/05/14 08:46:16:477 PSK_Start
+06/05/14 08:46:16:478 DRE: association information elements event
+06/05/14 08:46:16:480 FWH: Pairwise 1 received.
+06/05/14 08:46:16:486 FWH: pairwise 2 sent.
+06/05/14 08:46:16:491 FWH: pairwise 3 received.
+06/05/14 08:46:16:492 FWH: pairwise 4 sent.
+06/05/14 08:46:16:502 FWH: group 1 received.
+06/05/14 08:46:16:506 FWH: group key 2 sent
+06/05/14 08:46:16:506 RM: Set phase 7
+06/05/14 08:46:16:507 RM: Requesting IP Address
+06/05/14 08:46:16:507 RM: Total roam time: 444 ms
+06/05/14 08:46:16:508 CM: Set phase 9
+06/05/14 08:46:16:508 CM: Set phase 5
+06/05/14 08:46:16:509 SM: Standby: 10.21.56.11: TX [70] Ping
+06/05/14 08:46:16:513 RM: Set phase 8
+06/05/14 08:46:16:522 SM: Standby: 10.21.56.11: RX [70] Ack
+06/05/14 08:46:16:526 SM: Standby: 10.21.56.11: RX [6] APName
+06/05/14 08:46:16:527 UI: AP Name: 'O R-AP274'
+06/05/14 08:46:16:527 SM: Standby: 10.21.56.11: TX [6] Ack
+06/05/14 08:46:16:979 RM: Low SNR Event
+06/05/14 08:46:17:490 RM: Low SNR Event
+06/05/14 08:46:18:003 RM: Low SNR Event
+06/05/14 08:46:18:003 RM: Scan triggered
+06/05/14 08:46:18:513 RM: Low SNR Event
+06/05/14 08:46:18:533 DRE: scan results event
+06/05/14 08:46:18:559 DRE: scan results event
+06/05/14 08:46:18:583 DRE: scan results event
+06/05/14 08:46:18:587 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,18) - 00 1a 30 32 24 94 (1,16)
+06/05/14 08:46:18:588 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 08:46:18:588 RM: SNR: 18 (RSSI -78, NF -96)
+06/05/14 08:46:18:589 RM: Set phase 4
+06/05/14 08:46:18:589 RM: Associating
+06/05/14 08:46:18:589 FWH: reset
+06/05/14 08:46:18:591 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 08:46:18:596 DRV: AP to associate with: 001a30c0e224
+06/05/14 08:46:18:615 RM: Associated with AP 00 1a 30 c0 e2 24 on channel 6. AID is 109 [0x6d].
+06/05/14 08:46:18:616 CM: Set phase 6
+06/05/14 08:46:18:618 RM: Set phase 6
+06/05/14 08:46:18:618 RM: Authenticating
+06/05/14 08:46:18:619 PSK_Start
+06/05/14 08:46:18:619 DRE: association information elements event
+06/05/14 08:46:18:622 FWH: Pairwise 1 received.
+06/05/14 08:46:18:628 FWH: pairwise 2 sent.
+06/05/14 08:46:18:630 RM: Low SNR while Authenticating
+06/05/14 08:46:18:633 FWH: pairwise 3 received.
+06/05/14 08:46:18:634 FWH: pairwise 4 sent.
+06/05/14 08:46:18:646 FWH: group 1 received.
+06/05/14 08:46:18:650 FWH: group key 2 sent
+06/05/14 08:46:18:650 RM: Set phase 7
+06/05/14 08:46:18:650 RM: Requesting IP Address
+06/05/14 08:46:18:651 RM: Total roam time: 447 ms
+06/05/14 08:46:18:652 CM: Set phase 9
+06/05/14 08:46:18:652 CM: Set phase 5
+06/05/14 08:46:18:653 SM: Standby: 10.21.56.11: TX [71] Ping
+06/05/14 08:46:18:656 RM: Set phase 8
+06/05/14 08:46:18:664 SM: Standby: 10.21.56.11: RX [71] Ack
+06/05/14 08:46:18:666 SM: Standby: 10.21.56.11: RX [7] APName
+06/05/14 08:46:18:667 UI: AP Name: 'O R-AP275'
+06/05/14 08:46:18:667 SM: Standby: 10.21.56.11: TX [7] Ack
+06/05/14 08:46:19:138 RM: Low SNR Event
+06/05/14 08:46:19:650 RM: Low SNR Event
+06/05/14 08:46:20:673 RM: Low SNR Event
+06/05/14 08:46:20:673 RM: Scan triggered
+06/05/14 08:46:20:700 DRE: scan results event
+06/05/14 08:46:21:184 RM: Low SNR Event
+06/05/14 08:46:21:204 DRE: scan results event
+06/05/14 08:46:21:229 DRE: scan results event
+06/05/14 08:46:21:232 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,19) - 00 1a 30 c0 e2 24 (6,18)
+06/05/14 08:46:21:234 RM: current AP found to be best
+06/05/14 08:46:21:234 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:46:21:699 RM: Low SNR Event
+06/05/14 08:46:22:210 RM: Low SNR Event
+06/05/14 08:46:22:722 RM: Low SNR Event
+06/05/14 08:46:22:722 RM: Scan triggered
+06/05/14 08:46:23:232 RM: Low SNR Event
+06/05/14 08:46:23:257 DRE: scan results event
+06/05/14 08:46:23:278 DRE: scan results event
+06/05/14 08:46:23:303 DRE: scan results event
+06/05/14 08:46:23:307 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,20) - 00 1a 30 c0 e2 24 (6,19)
+06/05/14 08:46:23:308 RM: current AP found to be best
+06/05/14 08:46:23:308 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:46:23:745 RM: Low SNR Event
+06/05/14 08:46:24:258 RM: Low SNR Event
+06/05/14 08:46:24:770 RM: Low SNR Event
+06/05/14 08:46:24:771 RM: Scan triggered
+06/05/14 08:46:24:799 DRE: scan results event
+06/05/14 08:46:25:280 RM: Low SNR Event
+06/05/14 08:46:25:301 DRE: scan results event
+06/05/14 08:46:25:325 DRE: scan results event
+06/05/14 08:46:25:329 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,15)
+06/05/14 08:46:25:330 RM: current AP found to be best
+06/05/14 08:46:25:330 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:46:25:793 RM: Low SNR Event
+06/05/14 08:46:26:308 RM: Low SNR Event
+06/05/14 08:46:26:818 RM: Low SNR Event
+06/05/14 08:46:26:818 RM: Scan triggered
+06/05/14 08:46:26:847 DRE: scan results event
+06/05/14 08:46:27:328 RM: Low SNR Event
+06/05/14 08:46:27:348 DRE: scan results event
+06/05/14 08:46:27:373 DRE: scan results event
+06/05/14 08:46:27:377 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,17) - 00 1a 30 c0 e2 24 (6,16)
+06/05/14 08:46:27:378 RM: current AP found to be best
+06/05/14 08:46:27:378 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:46:27:841 RM: Low SNR Event
+06/05/14 08:46:28:354 RM: Low SNR Event
+06/05/14 08:46:28:866 RM: Low SNR Event
+06/05/14 08:46:28:866 RM: Scan triggered
+06/05/14 08:46:29:376 RM: Low SNR Event
+06/05/14 08:46:29:402 DRE: scan results event
+06/05/14 08:46:29:424 DRE: scan results event
+06/05/14 08:46:29:448 DRE: scan results event
+06/05/14 08:46:29:452 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:46:29:453 RM: current AP found to be best
+06/05/14 08:46:29:454 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:46:29:890 RM: Low SNR Event
+06/05/14 08:46:30:402 RM: Low SNR Event
+06/05/14 08:46:30:914 RM: Low SNR Event
+06/05/14 08:46:30:914 RM: Scan triggered
+06/05/14 08:46:31:424 RM: Low SNR Event
+06/05/14 08:46:31:449 DRE: scan results event
+06/05/14 08:46:31:472 DRE: scan results event
+06/05/14 08:46:31:496 DRE: scan results event
+06/05/14 08:46:31:500 RM: Found 1 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,16)
+06/05/14 08:46:31:501 RM: current AP found to be best
+06/05/14 08:46:31:501 RM: SNR: 16 (RSSI -80, NF -96)
+06/05/14 08:46:31:937 RM: Low SNR Event
+06/05/14 08:46:32:450 RM: Low SNR Event
+06/05/14 08:46:32:962 RM: Low SNR Event
+06/05/14 08:46:32:963 RM: Scan triggered
+06/05/14 08:46:33:472 RM: Low SNR Event
+06/05/14 08:46:33:496 DRE: scan results event
+06/05/14 08:46:33:518 DRE: scan results event
+06/05/14 08:46:33:543 DRE: scan results event
+06/05/14 08:46:33:547 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,22) - 00 1a 30 32 24 94 (1,20)
+06/05/14 08:46:33:548 RM: current AP found to be best
+06/05/14 08:46:33:549 RM: SNR: 22 (RSSI -74, NF -96)
+06/05/14 08:46:33:986 RM: Low SNR Event
+06/05/14 08:46:34:498 RM: Low SNR Event
+06/05/14 08:46:35:010 RM: Low SNR Event
+06/05/14 08:46:35:011 RM: Scan triggered
+06/05/14 08:46:35:520 RM: Low SNR Event
+06/05/14 08:46:35:545 DRE: scan results event
+06/05/14 08:46:35:568 DRE: scan results event
+06/05/14 08:46:35:592 DRE: scan results event
+06/05/14 08:46:35:596 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,17) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:46:35:597 RM: current AP found to be best
+06/05/14 08:46:35:598 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:46:36:034 RM: Low SNR Event
+06/05/14 08:46:48:833 SM: Standby: 10.21.56.11: TX [72] Ping
+06/05/14 08:46:48:839 SM: Standby: 10.21.56.11: RX [72] Ack
+06/05/14 08:46:48:840 SM: Standby: 10.21.56.11: TX [73] BinaryLog
+06/05/14 08:46:48:846 SM: Standby: 10.21.56.11: RX [73] Ack
+06/05/14 08:47:19:041 SM: Standby: 10.21.56.11: TX [74] Ping
+06/05/14 08:47:19:055 SM: Standby: 10.21.56.11: RX [74] Ack
+06/05/14 08:47:19:056 SM: Standby: 10.21.56.11: TX [75] BinaryLog
+06/05/14 08:47:19:061 SM: Standby: 10.21.56.11: RX [75] Ack
+06/05/14 08:47:49:250 SM: Standby: 10.21.56.11: TX [76] Ping
+06/05/14 08:47:49:763 SM: Standby: 10.21.56.11: RX [76] Ack
+06/05/14 08:48:19:459 SM: Standby: 10.21.56.11: TX [77] Ping
+06/05/14 08:48:19:467 SM: Standby: 10.21.56.11: RX [77] Ack
+06/05/14 08:48:45:573 RM: Low SNR Event
+06/05/14 08:48:45:573 RM: Scan triggered
+06/05/14 08:48:46:083 RM: Low SNR Event
+06/05/14 08:48:46:108 DRE: scan results event
+06/05/14 08:48:46:129 DRE: scan results event
+06/05/14 08:48:46:154 DRE: scan results event
+06/05/14 08:48:46:158 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,23) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:48:46:159 RM: current AP found to be best
+06/05/14 08:48:46:160 RM: SNR: 23 (RSSI -73, NF -96)
+06/05/14 08:48:46:597 RM: Low SNR Event
+06/05/14 08:48:47:109 RM: Low SNR Event
+06/05/14 08:48:49:678 SM: Standby: 10.21.56.11: TX [78] Ping
+06/05/14 08:48:50:181 SM: Standby: 10.21.56.11: RX [78] Ack
+06/05/14 08:48:50:182 SM: Standby: 10.21.56.11: TX [79] BinaryLog
+06/05/14 08:48:50:186 SM: Standby: 10.21.56.11: RX [79] Ack
+06/05/14 08:48:53:765 RM: Low SNR Event
+06/05/14 08:48:53:765 RM: Scan triggered
+06/05/14 08:48:54:275 RM: Low SNR Event
+06/05/14 08:48:54:301 DRE: scan results event
+06/05/14 08:48:54:324 DRE: scan results event
+06/05/14 08:48:54:349 DRE: scan results event
+06/05/14 08:48:54:352 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,15) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:48:54:354 RM: current AP found to be best
+06/05/14 08:48:54:354 RM: SNR: 15 (RSSI -81, NF -96)
+06/05/14 08:48:54:791 RM: Low SNR Event
+06/05/14 08:48:55:301 RM: Low SNR Event
+06/05/14 08:48:55:813 RM: Low SNR Event
+06/05/14 08:48:55:814 RM: Scan triggered
+06/05/14 08:48:56:323 RM: Low SNR Event
+06/05/14 08:48:56:350 DRE: scan results event
+06/05/14 08:48:56:372 DRE: scan results event
+06/05/14 08:48:56:396 DRE: scan results event
+06/05/14 08:48:56:400 RM: Found 3 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,13) - 00 1a 30 7e 83 f4 (11,6)
+06/05/14 08:48:56:402 RM: current AP found to be best
+06/05/14 08:48:56:402 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:48:56:837 RM: Low SNR Event
+06/05/14 08:48:57:348 RM: Low SNR Event
+06/05/14 08:48:57:862 RM: Low SNR Event
+06/05/14 08:48:57:862 RM: Scan triggered
+06/05/14 08:48:57:890 DRE: scan results event
+06/05/14 08:48:58:371 RM: Low SNR Event
+06/05/14 08:48:58:392 DRE: scan results event
+06/05/14 08:48:58:417 DRE: scan results event
+06/05/14 08:48:58:420 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:48:58:421 RM: current AP found to be best
+06/05/14 08:48:58:422 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:48:58:886 RM: Low SNR Event
+06/05/14 08:48:59:397 RM: Low SNR Event
+06/05/14 08:48:59:915 RM: Low SNR Event
+06/05/14 08:48:59:916 RM: Scan triggered
+06/05/14 08:49:00:420 RM: Low SNR Event
+06/05/14 08:49:00:444 DRE: scan results event
+06/05/14 08:49:00:466 DRE: scan results event
+06/05/14 08:49:00:491 DRE: scan results event
+06/05/14 08:49:00:494 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:49:00:496 RM: current AP found to be best
+06/05/14 08:49:00:496 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:49:00:933 RM: Low SNR Event
+06/05/14 08:49:01:444 RM: Low SNR Event
+06/05/14 08:49:19:876 SM: Standby: 10.21.56.11: TX [80] Ping
+06/05/14 08:49:19:889 SM: Standby: 10.21.56.11: RX [80] Ack
+06/05/14 08:49:50:085 UI: WriteInventoryRecord: iVoltage=3771 sText=3771:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 08:49:50:086 SM: Standby: 10.21.56.11: TX [81] Ping
+06/05/14 08:49:50:092 SM: Standby: 10.21.56.11: RX [81] Ack
+06/05/14 08:49:50:093 SM: Standby: 10.21.56.11: TX [82] Log
+06/05/14 08:49:50:101 SM: Standby: 10.21.56.11: RX [82] Ack
+06/05/14 08:49:50:101 SM: Standby: 10.21.56.11: TX [83] BinaryLog
+06/05/14 08:49:50:106 SM: Standby: 10.21.56.11: RX [83] Ack
+06/05/14 08:50:01:368 SM: Standby: 10.21.56.11: TX [84] BinaryLog
+06/05/14 08:50:01:969 SM: Standby: 10.21.56.11: TX [84] BinaryLog
+06/05/14 08:50:02:377 SM: Standby: 10.21.56.11: RX [84] Ack
+06/05/14 08:50:02:379 SM: Standby: 10.21.56.11: RX [84] Ack
+06/05/14 08:50:20:293 SM: Standby: 10.21.56.11: TX [85] Ping
+06/05/14 08:50:20:806 SM: Standby: 10.21.56.11: RX [85] Ack
+06/05/14 08:50:50:502 SM: Standby: 10.21.56.11: TX [86] Ping
+06/05/14 08:50:50:508 SM: Standby: 10.21.56.11: RX [86] Ack
+06/05/14 08:51:20:200 RM: Low SNR Event
+06/05/14 08:51:20:201 RM: Scan triggered
+06/05/14 08:51:20:508 SM: Standby: 10.21.56.11: TX [87] Ping
+06/05/14 08:51:20:733 DRE: scan results event
+06/05/14 08:51:20:741 SM: Standby: 10.21.56.11: RX [87] Ack
+06/05/14 08:51:20:742 SM: Standby: 10.21.56.11: TX [88] BinaryLog
+06/05/14 08:51:20:746 SM: Standby: 10.21.56.11: RX [88] Ack
+06/05/14 08:51:20:755 DRE: scan results event
+06/05/14 08:51:20:780 DRE: scan results event
+06/05/14 08:51:20:783 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,29) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:51:20:785 RM: current AP found to be best
+06/05/14 08:51:20:785 RM: SNR: 29 (RSSI -67, NF -96)
+06/05/14 08:51:28:395 RM: Low SNR Event
+06/05/14 08:51:28:395 RM: Scan triggered
+06/05/14 08:51:28:423 DRE: scan results event
+06/05/14 08:51:28:902 RM: Low SNR Event
+06/05/14 08:51:28:923 DRE: scan results event
+06/05/14 08:51:28:948 DRE: scan results event
+06/05/14 08:51:28:951 RM: Found 1 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,18)
+06/05/14 08:51:28:952 RM: current AP found to be best
+06/05/14 08:51:28:953 RM: SNR: 18 (RSSI -78, NF -96)
+06/05/14 08:51:29:417 RM: Low SNR Event
+06/05/14 08:51:29:928 RM: Low SNR Event
+06/05/14 08:51:30:441 RM: Low SNR Event
+06/05/14 08:51:30:441 RM: Scan triggered
+06/05/14 08:51:30:950 RM: Low SNR Event
+06/05/14 08:51:30:974 DRE: scan results event
+06/05/14 08:51:30:996 DRE: scan results event
+06/05/14 08:51:31:022 DRE: scan results event
+06/05/14 08:51:31:025 RM: Found 1 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,15)
+06/05/14 08:51:31:026 RM: current AP found to be best
+06/05/14 08:51:31:026 RM: SNR: 15 (RSSI -81, NF -96)
+06/05/14 08:51:31:464 RM: Low SNR Event
+06/05/14 08:51:31:976 RM: Low SNR Event
+06/05/14 08:51:32:489 RM: Low SNR Event
+06/05/14 08:51:32:489 RM: Scan triggered
+06/05/14 08:51:32:518 DRE: scan results event
+06/05/14 08:51:33:018 DRE: scan results event
+06/05/14 08:51:33:043 DRE: scan results event
+06/05/14 08:51:33:046 RM: Found 1 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,30)
+06/05/14 08:51:33:047 RM: current AP found to be best
+06/05/14 08:51:33:047 RM: SNR: 30 (RSSI -66, NF -96)
+06/05/14 08:51:33:101 RM: Low SNR Event
+06/05/14 08:51:33:203 RM: Low SNR Event
+06/05/14 08:51:33:725 RM: Low SNR Event
+06/05/14 08:51:34:229 RM: Low SNR Event
+06/05/14 08:51:50:612 SM: Standby: 10.21.56.11: TX [89] Ping
+06/05/14 08:51:51:125 SM: Standby: 10.21.56.11: RX [89] Ack
+06/05/14 08:51:51:126 SM: Standby: 10.21.56.11: TX [90] BinaryLog
+06/05/14 08:51:51:131 SM: Standby: 10.21.56.11: RX [90] Ack
+06/05/14 08:52:04:950 RM: Low SNR Event
+06/05/14 08:52:04:950 RM: Scan triggered
+06/05/14 08:52:04:978 DRE: scan results event
+06/05/14 08:52:05:479 DRE: scan results event
+06/05/14 08:52:05:504 DRE: scan results event
+06/05/14 08:52:05:507 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,22) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:52:05:509 RM: current AP found to be best
+06/05/14 08:52:05:509 RM: SNR: 22 (RSSI -74, NF -96)
+06/05/14 08:52:14:680 RM: Low SNR Event
+06/05/14 08:52:14:680 RM: Scan triggered
+06/05/14 08:52:14:707 DRE: scan results event
+06/05/14 08:52:15:188 RM: Low SNR Event
+06/05/14 08:52:15:208 DRE: scan results event
+06/05/14 08:52:15:233 DRE: scan results event
+06/05/14 08:52:15:237 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,21) - 00 1a 30 32 24 94 (1,15)
+06/05/14 08:52:15:238 RM: current AP found to be best
+06/05/14 08:52:15:238 RM: SNR: 21 (RSSI -75, NF -96)
+06/05/14 08:52:15:702 RM: Low SNR Event
+06/05/14 08:52:16:214 RM: Low SNR Event
+06/05/14 08:52:20:821 SM: Standby: 10.21.56.11: TX [91] Ping
+06/05/14 08:52:20:834 SM: Standby: 10.21.56.11: RX [91] Ack
+06/05/14 08:52:51:029 SM: Standby: 10.21.56.11: TX [92] Ping
+06/05/14 08:52:51:035 SM: Standby: 10.21.56.11: RX [92] Ack
+06/05/14 08:52:51:036 SM: Standby: 10.21.56.11: TX [93] BinaryLog
+06/05/14 08:52:51:040 SM: Standby: 10.21.56.11: RX [93] Ack
+06/05/14 08:52:56:150 RM: Low SNR Event
+06/05/14 08:52:56:151 RM: Scan triggered
+06/05/14 08:52:56:661 RM: Low SNR Event
+06/05/14 08:52:56:686 DRE: scan results event
+06/05/14 08:52:56:709 DRE: scan results event
+06/05/14 08:52:56:733 DRE: scan results event
+06/05/14 08:52:56:737 RM: Found 1 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24)
+06/05/14 08:52:56:738 RM: current AP found to be best
+06/05/14 08:52:56:738 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:52:57:174 RM: Low SNR Event
+06/05/14 08:52:57:687 RM: Low SNR Event
+06/05/14 08:52:58:199 RM: Low SNR Event
+06/05/14 08:52:58:199 RM: Scan triggered
+06/05/14 08:52:58:232 DRE: scan results event
+06/05/14 08:52:58:709 RM: Low SNR Event
+06/05/14 08:52:58:729 DRE: scan results event
+06/05/14 08:52:58:754 DRE: scan results event
+06/05/14 08:52:58:757 RM: Found 1 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,21)
+06/05/14 08:52:58:759 RM: current AP found to be best
+06/05/14 08:52:58:759 RM: SNR: 21 (RSSI -75, NF -96)
+06/05/14 08:53:00:247 RM: Low SNR Event
+06/05/14 08:53:00:248 RM: Scan triggered
+06/05/14 08:53:00:276 DRE: scan results event
+06/05/14 08:53:00:758 RM: Low SNR Event
+06/05/14 08:53:00:778 DRE: scan results event
+06/05/14 08:53:00:803 DRE: scan results event
+06/05/14 08:53:00:807 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,11)
+06/05/14 08:53:00:808 RM: current AP found to be best
+06/05/14 08:53:00:808 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:53:01:271 RM: Low SNR Event
+06/05/14 08:53:21:244 SM: Standby: 10.21.56.11: TX [94] Ping
+06/05/14 08:53:21:755 SM: Standby: 10.21.56.11: RX [94] Ack
+06/05/14 08:53:21:756 SM: Standby: 10.21.56.11: TX [95] BinaryLog
+06/05/14 08:53:21:761 SM: Standby: 10.21.56.11: RX [95] Ack
+06/05/14 08:53:51:446 SM: Standby: 10.21.56.11: TX [96] Ping
+06/05/14 08:53:51:960 SM: Standby: 10.21.56.11: RX [96] Ack
+06/05/14 08:54:21:655 SM: Standby: 10.21.56.11: TX [97] Ping
+06/05/14 08:54:21:664 SM: Standby: 10.21.56.11: RX [97] Ack
+06/05/14 08:54:46:233 RM: Low SNR Event
+06/05/14 08:54:46:234 RM: Scan triggered
+06/05/14 08:54:46:261 DRE: scan results event
+06/05/14 08:54:46:744 RM: Low SNR Event
+06/05/14 08:54:46:764 DRE: scan results event
+06/05/14 08:54:46:789 DRE: scan results event
+06/05/14 08:54:46:792 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,26) - 00 1a 30 32 24 94 (1,16)
+06/05/14 08:54:46:794 RM: current AP found to be best
+06/05/14 08:54:46:794 RM: SNR: 26 (RSSI -70, NF -96)
+06/05/14 08:54:51:864 SM: Standby: 10.21.56.11: TX [98] Ping
+06/05/14 08:54:51:870 SM: Standby: 10.21.56.11: RX [98] Ack
+06/05/14 08:54:51:871 SM: Standby: 10.21.56.11: TX [99] BinaryLog
+06/05/14 08:54:51:875 SM: Standby: 10.21.56.11: RX [99] Ack
+06/05/14 08:55:10:810 RM: Low SNR Event
+06/05/14 08:55:10:810 RM: Scan triggered
+06/05/14 08:55:10:838 DRE: scan results event
+06/05/14 08:55:11:320 RM: Low SNR Event
+06/05/14 08:55:11:341 DRE: scan results event
+06/05/14 08:55:11:366 DRE: scan results event
+06/05/14 08:55:11:370 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,23) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:55:11:371 RM: current AP found to be best
+06/05/14 08:55:11:371 RM: SNR: 23 (RSSI -73, NF -96)
+06/05/14 08:55:11:834 RM: Low SNR Event
+06/05/14 08:55:12:345 RM: Low SNR Event
+06/05/14 08:55:12:858 RM: Low SNR Event
+06/05/14 08:55:12:859 RM: Scan triggered
+06/05/14 08:55:12:886 DRE: scan results event
+06/05/14 08:55:13:368 RM: Low SNR Event
+06/05/14 08:55:13:389 DRE: scan results event
+06/05/14 08:55:13:414 DRE: scan results event
+06/05/14 08:55:13:417 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,18) - 00 1a 30 32 24 94 (1,17)
+06/05/14 08:55:13:419 RM: current AP found to be best
+06/05/14 08:55:13:419 RM: SNR: 18 (RSSI -78, NF -96)
+06/05/14 08:55:13:884 RM: Low SNR Event
+06/05/14 08:55:14:394 RM: Low SNR Event
+06/05/14 08:55:14:906 RM: Low SNR Event
+06/05/14 08:55:14:906 RM: Scan triggered
+06/05/14 08:55:15:416 RM: Low SNR Event
+06/05/14 08:55:15:441 DRE: scan results event
+06/05/14 08:55:15:463 DRE: scan results event
+06/05/14 08:55:15:488 DRE: scan results event
+06/05/14 08:55:15:491 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,17) - 00 1a 30 32 24 94 (1,16)
+06/05/14 08:55:15:493 RM: current AP found to be best
+06/05/14 08:55:15:493 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:55:15:930 RM: Low SNR Event
+06/05/14 08:55:16:442 RM: Low SNR Event
+06/05/14 08:55:16:955 RM: Low SNR Event
+06/05/14 08:55:16:955 RM: Scan triggered
+06/05/14 08:55:17:464 RM: Low SNR Event
+06/05/14 08:55:17:488 DRE: scan results event
+06/05/14 08:55:17:510 DRE: scan results event
+06/05/14 08:55:17:535 DRE: scan results event
+06/05/14 08:55:17:539 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,19)
+06/05/14 08:55:17:540 RM: current AP found to be best
+06/05/14 08:55:17:540 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:55:17:978 RM: Low SNR Event
+06/05/14 08:55:18:490 RM: Low SNR Event
+06/05/14 08:55:19:009 RM: Low SNR Event
+06/05/14 08:55:19:009 RM: Scan triggered
+06/05/14 08:55:19:512 RM: Low SNR Event
+06/05/14 08:55:19:536 DRE: scan results event
+06/05/14 08:55:19:558 DRE: scan results event
+06/05/14 08:55:19:583 DRE: scan results event
+06/05/14 08:55:19:587 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:55:19:588 RM: current AP found to be best
+06/05/14 08:55:19:588 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:55:20:026 RM: Low SNR Event
+06/05/14 08:55:20:538 RM: Low SNR Event
+06/05/14 08:55:21:051 RM: Low SNR Event
+06/05/14 08:55:21:051 RM: Scan triggered
+06/05/14 08:55:21:081 DRE: scan results event
+06/05/14 08:55:21:560 RM: Low SNR Event
+06/05/14 08:55:21:581 DRE: scan results event
+06/05/14 08:55:21:605 DRE: scan results event
+06/05/14 08:55:21:609 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,15)
+06/05/14 08:55:21:610 RM: current AP found to be best
+06/05/14 08:55:21:611 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:55:22:073 SM: Standby: 10.21.56.11: TX [100] Ping
+06/05/14 08:55:22:076 RM: Low SNR Event
+06/05/14 08:55:22:084 SM: Standby: 10.21.56.11: RX [100] Ack
+06/05/14 08:55:22:085 SM: Standby: 10.21.56.11: TX [101] BinaryLog
+06/05/14 08:55:22:090 SM: Standby: 10.21.56.11: RX [101] Ack
+06/05/14 08:55:22:586 RM: Low SNR Event
+06/05/14 08:55:28:730 RM: Low SNR Event
+06/05/14 08:55:28:730 RM: Scan triggered
+06/05/14 08:55:29:241 RM: Low SNR Event
+06/05/14 08:55:29:266 DRE: scan results event
+06/05/14 08:55:29:288 DRE: scan results event
+06/05/14 08:55:29:312 DRE: scan results event
+06/05/14 08:55:29:316 RM: Found 1 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20)
+06/05/14 08:55:29:317 RM: current AP found to be best
+06/05/14 08:55:29:317 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:55:29:754 RM: Low SNR Event
+06/05/14 08:55:30:267 RM: Low SNR Event
+06/05/14 08:55:30:778 RM: Low SNR Event
+06/05/14 08:55:30:779 RM: Scan triggered
+06/05/14 08:55:31:288 RM: Low SNR Event
+06/05/14 08:55:31:313 DRE: scan results event
+06/05/14 08:55:31:335 DRE: scan results event
+06/05/14 08:55:31:360 DRE: scan results event
+06/05/14 08:55:31:363 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,17) - 00 1a 30 c0 e2 24 (6,14)
+06/05/14 08:55:31:365 Chosen AP is 00 1a 30 32 24 94 in channel 1
+06/05/14 08:55:31:365 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:55:31:365 RM: Set phase 4
+06/05/14 08:55:31:366 RM: Associating
+06/05/14 08:55:31:366 FWH: reset
+06/05/14 08:55:31:368 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 08:55:31:373 DRV: AP to associate with: 001a30322494
+06/05/14 08:55:31:393 RM: Associated with AP 00 1a 30 32 24 94 on channel 1. AID is 118 [0x76].
+06/05/14 08:55:31:394 CM: Set phase 6
+06/05/14 08:55:31:395 RM: Set phase 6
+06/05/14 08:55:31:396 RM: Authenticating
+06/05/14 08:55:31:396 PSK_Start
+06/05/14 08:55:31:397 DRE: association information elements event
+06/05/14 08:55:31:399 FWH: Pairwise 1 received.
+06/05/14 08:55:31:405 FWH: pairwise 2 sent.
+06/05/14 08:55:31:410 FWH: pairwise 3 received.
+06/05/14 08:55:31:411 FWH: pairwise 4 sent.
+06/05/14 08:55:31:424 FWH: group 1 received.
+06/05/14 08:55:31:428 FWH: group key 2 sent
+06/05/14 08:55:31:428 RM: Set phase 7
+06/05/14 08:55:31:428 RM: Requesting IP Address
+06/05/14 08:55:31:429 RM: Total roam time: 450 ms
+06/05/14 08:55:31:430 CM: Set phase 9
+06/05/14 08:55:31:430 CM: Set phase 5
+06/05/14 08:55:31:431 SM: Standby: 10.21.56.11: TX [102] Ping
+06/05/14 08:55:31:435 RM: Set phase 8
+06/05/14 08:55:31:444 SM: Standby: 10.21.56.11: RX [102] Ack
+06/05/14 08:55:31:447 SM: Standby: 10.21.56.11: RX [8] APName
+06/05/14 08:55:31:448 UI: AP Name: 'O R-AP274'
+06/05/14 08:55:31:448 SM: Standby: 10.21.56.11: TX [8] Ack
+06/05/14 08:55:32:510 RM: Low SNR Event
+06/05/14 08:55:33:024 RM: Low SNR Event
+06/05/14 08:55:33:024 RM: Scan triggered
+06/05/14 08:55:33:534 RM: Low SNR Event
+06/05/14 08:55:33:554 DRE: scan results event
+06/05/14 08:55:33:580 DRE: scan results event
+06/05/14 08:55:33:606 DRE: scan results event
+06/05/14 08:55:33:609 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:55:33:611 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 08:55:33:611 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:55:33:611 RM: Set phase 4
+06/05/14 08:55:33:612 RM: Associating
+06/05/14 08:55:33:612 FWH: reset
+06/05/14 08:55:33:614 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 08:55:33:619 DRV: AP to associate with: 001a30c0e224
+06/05/14 08:55:34:147 RM: Set phase 12
+06/05/14 08:55:34:158 DRE: disassociation event
+06/05/14 08:55:34:159
+06/05/14 08:55:34:161 CM: Set phase 7
+06/05/14 08:55:34:162 In PSK_Init
+06/05/14 08:55:34:162 FWH: init
+06/05/14 08:55:34:162 FWH: reset
+06/05/14 08:55:34:163 FWH: timeout 3 seconds
+06/05/14 08:55:34:167 RM: 802.11d disabled
+06/05/14 08:55:34:178 RM: WMM disabled
+06/05/14 08:55:34:183 RM: Roam policy = 2
+06/05/14 08:55:34:183 RM: SNR threshold = 20
+06/05/14 08:55:34:186 RM: Set phase 3
+06/05/14 08:55:34:186 RM: Scanning ...
+06/05/14 08:55:34:210 DRE: scan results event
+06/05/14 08:55:34:401 DRE: scan results event
+06/05/14 08:55:34:502 DRE: scan results event
+06/05/14 08:55:34:506 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,23) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:55:34:507 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 08:55:34:507 RM: SNR: 23 (RSSI -73, NF -96)
+06/05/14 08:55:34:508 RM: Set phase 4
+06/05/14 08:55:34:508 RM: Associating
+06/05/14 08:55:34:508 FWH: reset
+06/05/14 08:55:34:510 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 08:55:34:513 DRV: AP to associate with: 001a30c0e224
+06/05/14 08:55:34:532 RM: Associated with AP 00 1a 30 c0 e2 24 on channel 6. AID is 114 [0x72].
+06/05/14 08:55:34:532 CM: Set phase 6
+06/05/14 08:55:34:533 RM: Set phase 6
+06/05/14 08:55:34:533 RM: Authenticating
+06/05/14 08:55:34:534 PSK_Start
+06/05/14 08:55:34:534 DRE: association information elements event
+06/05/14 08:55:34:538 FWH: Pairwise 1 received.
+06/05/14 08:55:34:543 FWH: pairwise 2 sent.
+06/05/14 08:55:34:548 FWH: pairwise 3 received.
+06/05/14 08:55:34:549 FWH: pairwise 4 sent.
+06/05/14 08:55:34:560 FWH: group 1 received.
+06/05/14 08:55:34:564 FWH: group key 2 sent
+06/05/14 08:55:34:565 RM: Set phase 7
+06/05/14 08:55:34:565 RM: Requesting IP Address
+06/05/14 08:55:34:566 IC: static IP is false
+06/05/14 08:55:34:566 IC: Configuring interface with DHCP
+06/05/14 08:55:34:837 IC: Waiting for an IP address to be assigned...
+06/05/14 08:55:35:110 IC: Waiting for an IP address to be assigned...
+06/05/14 08:55:35:384 IC: Waiting for an IP address to be assigned...
+06/05/14 08:55:35:657 IC: Waiting for an IP address to be assigned...
+06/05/14 08:55:35:712 IC: Interface configured with IP address 10.21.57.173
+06/05/14 08:55:35:713 RM: dhcpc: DOM sbhcs.com, DNS1 10.25.110.250, IP 10.21.57.173, NM 255.255.252.0, GW1 10.21.56.1,
+06/05/14 08:55:35:714 RM: Total roam time: 1327 ms
+06/05/14 08:55:35:714 CM: Set phase 9
+06/05/14 08:55:35:715 CM: Set phase 5
+06/05/14 08:55:35:715 SM: Standby: 10.21.56.11: TX [103] Ping
+06/05/14 08:55:35:719 RM: Set phase 8
+06/05/14 08:55:35:731 SM: Standby: 10.21.56.11: RX [103] Ack
+06/05/14 08:55:35:733 SM: Standby: 10.21.56.11: RX [9] APName
+06/05/14 08:55:35:733 UI: AP Name: 'O R-AP275'
+06/05/14 08:55:35:734 SM: Standby: 10.21.56.11: TX [9] Ack
+06/05/14 08:55:46:958 RM: Low SNR Event
+06/05/14 08:55:46:958 RM: Scan triggered
+06/05/14 08:55:46:987 DRE: scan results event
+06/05/14 08:55:47:468 RM: Low SNR Event
+06/05/14 08:55:47:488 DRE: scan results event
+06/05/14 08:55:47:512 DRE: scan results event
+06/05/14 08:55:47:516 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,18) - 00 1a 30 c0 e2 24 (6,13)
+06/05/14 08:55:47:517 Chosen AP is 00 1a 30 32 24 94 in channel 1
+06/05/14 08:55:47:518 RM: SNR: 18 (RSSI -78, NF -96)
+06/05/14 08:55:47:518 RM: Set phase 4
+06/05/14 08:55:47:518 RM: Associating
+06/05/14 08:55:47:519 FWH: reset
+06/05/14 08:55:47:521 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 08:55:47:526 DRV: AP to associate with: 001a30322494
+06/05/14 08:55:47:546 RM: Associated with AP 00 1a 30 32 24 94 on channel 1. AID is 119 [0x77].
+06/05/14 08:55:47:547 CM: Set phase 6
+06/05/14 08:55:47:548 RM: Set phase 6
+06/05/14 08:55:47:549 RM: Authenticating
+06/05/14 08:55:47:549 PSK_Start
+06/05/14 08:55:47:550 DRE: association information elements event
+06/05/14 08:55:47:552 FWH: Pairwise 1 received.
+06/05/14 08:55:47:558 FWH: pairwise 2 sent.
+06/05/14 08:55:47:563 FWH: pairwise 3 received.
+06/05/14 08:55:47:563 FWH: pairwise 4 sent.
+06/05/14 08:55:47:568 RM: Low SNR while Authenticating
+06/05/14 08:55:47:573 FWH: group 1 received.
+06/05/14 08:55:47:576 FWH: group key 2 sent
+06/05/14 08:55:47:577 RM: Set phase 7
+06/05/14 08:55:47:577 RM: Requesting IP Address
+06/05/14 08:55:47:578 RM: Total roam time: 419 ms
+06/05/14 08:55:47:578 CM: Set phase 9
+06/05/14 08:55:47:579 CM: Set phase 5
+06/05/14 08:55:47:579 SM: Standby: 10.21.56.11: TX [104] Ping
+06/05/14 08:55:47:583 RM: Set phase 8
+06/05/14 08:55:47:590 SM: Standby: 10.21.56.11: RX [104] Ack
+06/05/14 08:55:47:592 SM: Standby: 10.21.56.11: RX [10] APName
+06/05/14 08:55:47:592 UI: AP Name: 'O R-AP274'
+06/05/14 08:55:47:593 SM: Standby: 10.21.56.11: TX [10] Ack
+06/05/14 08:55:48:280 RM: Low SNR Event
+06/05/14 08:55:48:794 RM: Low SNR Event
+06/05/14 08:55:49:306 RM: Low SNR Event
+06/05/14 08:55:49:307 RM: Scan triggered
+06/05/14 08:55:49:835 DRE: scan results event
+06/05/14 08:55:49:862 DRE: scan results event
+06/05/14 08:55:49:889 DRE: scan results event
+06/05/14 08:55:49:893 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,18) - 00 1a 30 c0 e2 24 (6,13)
+06/05/14 08:55:49:894 RM: current AP found to be best
+06/05/14 08:55:49:894 RM: SNR: 18 (RSSI -78, NF -96)
+06/05/14 08:55:49:930 RM: Low SNR Event
+06/05/14 08:55:50:432 RM: Low SNR Event
+06/05/14 08:55:50:945 RM: Low SNR Event
+06/05/14 08:55:51:457 RM: Low SNR Event
+06/05/14 08:55:51:457 RM: Scan triggered
+06/05/14 08:55:51:967 RM: Low SNR Event
+06/05/14 08:55:51:987 DRE: scan results event
+06/05/14 08:55:52:014 DRE: scan results event
+06/05/14 08:55:52:038 DRE: scan results event
+06/05/14 08:55:52:042 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,9)
+06/05/14 08:55:52:043 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 08:55:52:044 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:55:52:044 RM: Set phase 4
+06/05/14 08:55:52:044 RM: Associating
+06/05/14 08:55:52:045 FWH: reset
+06/05/14 08:55:52:047 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 08:55:52:052 DRV: AP to associate with: 001a30c0e224
+06/05/14 08:55:52:071 RM: Associated with AP 00 1a 30 c0 e2 24 on channel 6. AID is 116 [0x74].
+06/05/14 08:55:52:072 CM: Set phase 6
+06/05/14 08:55:52:074 RM: Set phase 6
+06/05/14 08:55:52:074 RM: Authenticating
+06/05/14 08:55:52:074 PSK_Start
+06/05/14 08:55:52:075 DRE: association information elements event
+06/05/14 08:55:52:077 FWH: Pairwise 1 received.
+06/05/14 08:55:52:083 FWH: pairwise 2 sent.
+06/05/14 08:55:52:085 RM: Low SNR while Authenticating
+06/05/14 08:55:52:089 FWH: pairwise 3 received.
+06/05/14 08:55:52:090 FWH: pairwise 4 sent.
+06/05/14 08:55:52:100 FWH: group 1 received.
+06/05/14 08:55:52:103 FWH: group key 2 sent
+06/05/14 08:55:52:104 RM: Set phase 7
+06/05/14 08:55:52:104 RM: Requesting IP Address
+06/05/14 08:55:52:105 RM: Total roam time: 447 ms
+06/05/14 08:55:52:105 CM: Set phase 9
+06/05/14 08:55:52:106 CM: Set phase 5
+06/05/14 08:55:52:106 SM: Standby: 10.21.56.11: TX [105] Ping
+06/05/14 08:55:52:110 RM: Set phase 8
+06/05/14 08:55:52:118 SM: Standby: 10.21.56.11: RX [105] Ack
+06/05/14 08:55:52:120 SM: Standby: 10.21.56.11: TX [106] BinaryLog
+06/05/14 08:55:52:123 SM: Standby: 10.21.56.11: RX [11] APName
+06/05/14 08:55:52:123 UI: AP Name: 'O R-AP275'
+06/05/14 08:55:52:124 SM: Standby: 10.21.56.11: TX [11] Ack
+06/05/14 08:55:52:128 SM: Standby: 10.21.56.11: RX [106] Ack
+06/05/14 08:55:52:589 RM: Low SNR Event
+06/05/14 08:55:53:101 RM: Low SNR Event
+06/05/14 08:55:53:615 RM: Low SNR Event
+06/05/14 08:55:53:616 RM: Scan triggered
+06/05/14 08:55:53:643 DRE: scan results event
+06/05/14 08:55:54:124 RM: Low SNR Event
+06/05/14 08:55:54:145 DRE: scan results event
+06/05/14 08:55:54:169 DRE: scan results event
+06/05/14 08:55:54:172 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,25) - 00 1a 30 32 24 94 (1,17)
+06/05/14 08:55:54:174 RM: current AP found to be best
+06/05/14 08:55:54:174 RM: SNR: 25 (RSSI -71, NF -96)
+06/05/14 08:55:54:637 RM: Low SNR Event
+06/05/14 08:55:55:152 RM: Low SNR Event
+06/05/14 08:55:55:663 RM: Low SNR Event
+06/05/14 08:55:55:664 RM: Scan triggered
+06/05/14 08:55:56:172 RM: Low SNR Event
+06/05/14 08:55:56:197 DRE: scan results event
+06/05/14 08:55:56:219 DRE: scan results event
+06/05/14 08:55:56:244 DRE: scan results event
+06/05/14 08:55:56:247 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,12)
+06/05/14 08:55:56:249 RM: current AP found to be best
+06/05/14 08:55:56:249 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:55:56:685 RM: Low SNR Event
+06/05/14 08:55:57:197 RM: Low SNR Event
+06/05/14 08:55:57:711 RM: Low SNR Event
+06/05/14 08:55:57:711 RM: Scan triggered
+06/05/14 08:55:58:220 RM: Low SNR Event
+06/05/14 08:55:58:245 DRE: scan results event
+06/05/14 08:55:58:267 DRE: scan results event
+06/05/14 08:55:58:292 DRE: scan results event
+06/05/14 08:55:58:295 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,25) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:55:58:297 RM: current AP found to be best
+06/05/14 08:55:58:297 RM: SNR: 25 (RSSI -71, NF -96)
+06/05/14 08:55:58:834 RM: Low SNR Event
+06/05/14 08:55:59:348 RM: Low SNR Event
+06/05/14 08:55:59:861 RM: Low SNR Event
+06/05/14 08:55:59:862 RM: Scan triggered
+06/05/14 08:56:00:370 RM: Low SNR Event
+06/05/14 08:56:00:396 DRE: scan results event
+06/05/14 08:56:00:418 DRE: scan results event
+06/05/14 08:56:00:443 DRE: scan results event
+06/05/14 08:56:00:446 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,13) - 00 1a 30 c0 e2 24 (6,12)
+06/05/14 08:56:00:448 RM: current AP found to be best
+06/05/14 08:56:00:448 RM: SNR: 13 (RSSI -83, NF -96)
+06/05/14 08:56:00:884 RM: Low SNR Event
+06/05/14 08:56:01:396 RM: Low SNR Event
+06/05/14 08:56:01:910 RM: Low SNR Event
+06/05/14 08:56:01:910 RM: Scan triggered
+06/05/14 08:56:01:937 DRE: scan results event
+06/05/14 08:56:02:419 RM: Low SNR Event
+06/05/14 08:56:02:439 DRE: scan results event
+06/05/14 08:56:02:463 DRE: scan results event
+06/05/14 08:56:02:467 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,15) - 00 1a 30 32 24 94 (1,12)
+06/05/14 08:56:02:468 RM: current AP found to be best
+06/05/14 08:56:02:468 RM: SNR: 15 (RSSI -81, NF -96)
+06/05/14 08:56:02:932 RM: Low SNR Event
+06/05/14 08:56:03:444 RM: Low SNR Event
+06/05/14 08:56:03:957 RM: Low SNR Event
+06/05/14 08:56:03:958 RM: Scan triggered
+06/05/14 08:56:04:466 RM: Low SNR Event
+06/05/14 08:56:04:491 DRE: scan results event
+06/05/14 08:56:04:513 DRE: scan results event
+06/05/14 08:56:04:538 DRE: scan results event
+06/05/14 08:56:04:541 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,15)
+06/05/14 08:56:04:543 RM: current AP found to be best
+06/05/14 08:56:04:543 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:56:04:980 RM: Low SNR Event
+06/05/14 08:56:05:494 RM: Low SNR Event
+06/05/14 08:56:06:005 RM: Low SNR Event
+06/05/14 08:56:06:006 RM: Scan triggered
+06/05/14 08:56:06:537 DRE: scan results event
+06/05/14 08:56:06:559 DRE: scan results event
+06/05/14 08:56:06:584 DRE: scan results event
+06/05/14 08:56:06:587 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,14) - 00 1a 30 c0 e2 24 (6,8)
+06/05/14 08:56:06:589 Chosen AP is 00 1a 30 32 24 94 in channel 1
+06/05/14 08:56:06:589 RM: SNR: 14 (RSSI -82, NF -96)
+06/05/14 08:56:06:590 RM: Set phase 4
+06/05/14 08:56:06:590 RM: Associating
+06/05/14 08:56:06:590 FWH: reset
+06/05/14 08:56:06:592 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 08:56:06:597 DRV: AP to associate with: 001a30322494
+06/05/14 08:56:06:617 RM: Associated with AP 00 1a 30 32 24 94 on channel 1. AID is 121 [0x79].
+06/05/14 08:56:06:618 CM: Set phase 6
+06/05/14 08:56:06:619 RM: Set phase 6
+06/05/14 08:56:06:620 RM: Authenticating
+06/05/14 08:56:06:620 PSK_Start
+06/05/14 08:56:06:621 DRE: association information elements event
+06/05/14 08:56:06:623 FWH: Pairwise 1 received.
+06/05/14 08:56:06:629 FWH: pairwise 2 sent.
+06/05/14 08:56:06:635 FWH: pairwise 3 received.
+06/05/14 08:56:06:636 FWH: pairwise 4 sent.
+06/05/14 08:56:06:651 FWH: group 1 received.
+06/05/14 08:56:06:654 FWH: group key 2 sent
+06/05/14 08:56:06:655 RM: Set phase 7
+06/05/14 08:56:06:655 RM: Requesting IP Address
+06/05/14 08:56:06:656 RM: Total roam time: 450 ms
+06/05/14 08:56:06:656 CM: Set phase 9
+06/05/14 08:56:06:657 CM: Set phase 5
+06/05/14 08:56:06:658 SM: Standby: 10.21.56.11: TX [107] Ping
+06/05/14 08:56:06:661 RM: Set phase 8
+06/05/14 08:56:06:669 SM: Standby: 10.21.56.11: RX [107] Ack
+06/05/14 08:56:06:671 SM: Standby: 10.21.56.11: TX [108] BinaryLog
+06/05/14 08:56:06:675 SM: Standby: 10.21.56.11: RX [12] APName
+06/05/14 08:56:06:676 UI: AP Name: 'O R-AP274'
+06/05/14 08:56:06:676 SM: Standby: 10.21.56.11: TX [12] Ack
+06/05/14 08:56:06:679 SM: Standby: 10.21.56.11: RX [108] Ack
+06/05/14 08:56:06:713 RM: Low SNR Event
+06/05/14 08:56:06:815 RM: Low SNR Event
+06/05/14 08:56:07:329 RM: Low SNR Event
+06/05/14 08:56:07:841 RM: Low SNR Event
+06/05/14 08:56:08:354 RM: Low SNR Event
+06/05/14 08:56:08:354 RM: Scan triggered
+06/05/14 08:56:08:863 RM: Low SNR Event
+06/05/14 08:56:08:883 DRE: scan results event
+06/05/14 08:56:08:909 DRE: scan results event
+06/05/14 08:56:08:935 DRE: scan results event
+06/05/14 08:56:08:938 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,22) - 00 1a 30 32 24 94 (1,15)
+06/05/14 08:56:08:940 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 08:56:08:940 RM: SNR: 22 (RSSI -74, NF -96)
+06/05/14 08:56:08:940 RM: Set phase 4
+06/05/14 08:56:08:941 RM: Associating
+06/05/14 08:56:08:941 FWH: reset
+06/05/14 08:56:08:943 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 08:56:08:948 DRV: AP to associate with: 001a30c0e224
+06/05/14 08:56:08:971 RM: Associated with AP 00 1a 30 c0 e2 24 on channel 6. AID is 118 [0x76].
+06/05/14 08:56:08:972 CM: Set phase 6
+06/05/14 08:56:08:973 RM: Set phase 6
+06/05/14 08:56:08:974 RM: Authenticating
+06/05/14 08:56:08:974 PSK_Start
+06/05/14 08:56:08:975 DRE: association information elements event
+06/05/14 08:56:08:977 FWH: Pairwise 1 received.
+06/05/14 08:56:08:983 FWH: pairwise 2 sent.
+06/05/14 08:56:08:985 RM: Low SNR while Authenticating
+06/05/14 08:56:08:989 FWH: pairwise 3 received.
+06/05/14 08:56:08:990 FWH: pairwise 4 sent.
+06/05/14 08:56:08:999 FWH: group 1 received.
+06/05/14 08:56:09:003 FWH: group key 2 sent
+06/05/14 08:56:09:003 RM: Set phase 7
+06/05/14 08:56:09:004 RM: Requesting IP Address
+06/05/14 08:56:09:004 RM: Total roam time: 449 ms
+06/05/14 08:56:09:005 CM: Set phase 9
+06/05/14 08:56:09:005 CM: Set phase 5
+06/05/14 08:56:09:006 SM: Standby: 10.21.56.11: TX [109] Ping
+06/05/14 08:56:09:010 RM: Set phase 8
+06/05/14 08:56:09:016 SM: Standby: 10.21.56.11: RX [109] Ack
+06/05/14 08:56:09:017 SM: Standby: 10.21.56.11: TX [110] BinaryLog
+06/05/14 08:56:09:020 SM: Standby: 10.21.56.11: RX [13] APName
+06/05/14 08:56:09:020 UI: AP Name: 'O R-AP275'
+06/05/14 08:56:09:021 SM: Standby: 10.21.56.11: TX [13] Ack
+06/05/14 08:56:09:023 SM: Standby: 10.21.56.11: RX [110] Ack
+06/05/14 08:56:17:166 RM: Low SNR Event
+06/05/14 08:56:17:166 RM: Scan triggered
+06/05/14 08:56:17:699 DRE: scan results event
+06/05/14 08:56:17:721 DRE: scan results event
+06/05/14 08:56:17:747 DRE: scan results event
+06/05/14 08:56:17:751 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,29) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:56:17:752 RM: current AP found to be best
+06/05/14 08:56:17:752 RM: SNR: 29 (RSSI -67, NF -96)
+06/05/14 08:56:24:334 RM: Low SNR Event
+06/05/14 08:56:24:335 RM: Scan triggered
+06/05/14 08:56:24:362 DRE: scan results event
+06/05/14 08:56:24:845 RM: Low SNR Event
+06/05/14 08:56:24:865 DRE: scan results event
+06/05/14 08:56:24:890 DRE: scan results event
+06/05/14 08:56:24:893 RM: Found 1 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,15)
+06/05/14 08:56:24:894 RM: current AP found to be best
+06/05/14 08:56:24:894 RM: SNR: 15 (RSSI -81, NF -96)
+06/05/14 08:56:25:358 RM: Low SNR Event
+06/05/14 08:56:25:872 RM: Low SNR Event
+06/05/14 08:56:26:383 RM: Low SNR Event
+06/05/14 08:56:26:383 RM: Scan triggered
+06/05/14 08:56:26:410 DRE: scan results event
+06/05/14 08:56:26:893 RM: Low SNR Event
+06/05/14 08:56:26:913 DRE: scan results event
+06/05/14 08:56:26:937 DRE: scan results event
+06/05/14 08:56:26:941 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,16)
+06/05/14 08:56:26:942 RM: current AP found to be best
+06/05/14 08:56:26:943 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:56:27:406 RM: Low SNR Event
+06/05/14 08:56:27:918 RM: Low SNR Event
+06/05/14 08:56:28:431 RM: Low SNR Event
+06/05/14 08:56:28:431 RM: Scan triggered
+06/05/14 08:56:28:458 DRE: scan results event
+06/05/14 08:56:28:941 RM: Low SNR Event
+06/05/14 08:56:28:961 DRE: scan results event
+06/05/14 08:56:28:986 DRE: scan results event
+06/05/14 08:56:28:989 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,26) - 00 1a 30 32 24 94 (1,17)
+06/05/14 08:56:28:991 RM: current AP found to be best
+06/05/14 08:56:28:991 RM: SNR: 26 (RSSI -70, NF -96)
+06/05/14 08:56:29:455 RM: Low SNR Event
+06/05/14 08:56:29:966 RM: Low SNR Event
+06/05/14 08:56:39:182 SM: Standby: 10.21.56.11: TX [111] Ping
+06/05/14 08:56:39:790 SM: Standby: 10.21.56.11: TX [111] Ping
+06/05/14 08:56:40:210 SM: Standby: 10.21.56.11: RX [111] Ack
+06/05/14 08:56:40:211 SM: Standby: 10.21.56.11: TX [112] BinaryLog
+06/05/14 08:56:40:214 SM: Standby: 10.21.56.11: RX [111] Ack
+06/05/14 08:56:40:216 SM: Standby: 10.21.56.11: RX [112] Ack
+06/05/14 08:56:41:233 RM: Low SNR Event
+06/05/14 08:56:41:234 RM: Scan triggered
+06/05/14 08:56:41:261 DRE: scan results event
+06/05/14 08:56:41:741 RM: Low SNR Event
+06/05/14 08:56:41:761 DRE: scan results event
+06/05/14 08:56:41:786 DRE: scan results event
+06/05/14 08:56:41:789 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,21) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:56:41:791 RM: current AP found to be best
+06/05/14 08:56:41:791 RM: SNR: 21 (RSSI -75, NF -96)
+06/05/14 08:56:42:255 RM: Low SNR Event
+06/05/14 08:56:42:766 RM: Low SNR Event
+06/05/14 08:56:43:279 RM: Low SNR Event
+06/05/14 08:56:43:280 RM: Scan triggered
+06/05/14 08:56:43:789 RM: Low SNR Event
+06/05/14 08:56:43:814 DRE: scan results event
+06/05/14 08:56:43:836 DRE: scan results event
+06/05/14 08:56:43:861 DRE: scan results event
+06/05/14 08:56:43:864 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,16) - 00 1a 30 32 24 94 (1,12)
+06/05/14 08:56:43:865 RM: current AP found to be best
+06/05/14 08:56:43:866 RM: SNR: 16 (RSSI -80, NF -96)
+06/05/14 08:56:44:302 RM: Low SNR Event
+06/05/14 08:56:44:815 RM: Low SNR Event
+06/05/14 08:56:45:327 RM: Low SNR Event
+06/05/14 08:56:45:328 RM: Scan triggered
+06/05/14 08:56:45:837 RM: Low SNR Event
+06/05/14 08:56:45:862 DRE: scan results event
+06/05/14 08:56:45:884 DRE: scan results event
+06/05/14 08:56:45:908 DRE: scan results event
+06/05/14 08:56:45:911 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,17)
+06/05/14 08:56:45:913 RM: current AP found to be best
+06/05/14 08:56:45:913 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:56:46:352 RM: Low SNR Event
+06/05/14 08:56:46:862 RM: Low SNR Event
+06/05/14 08:56:47:376 RM: Low SNR Event
+06/05/14 08:56:47:376 RM: Scan triggered
+06/05/14 08:56:47:885 RM: Low SNR Event
+06/05/14 08:56:47:909 DRE: scan results event
+06/05/14 08:56:47:931 DRE: scan results event
+06/05/14 08:56:47:955 DRE: scan results event
+06/05/14 08:56:47:958 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:56:47:960 RM: current AP found to be best
+06/05/14 08:56:47:960 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:56:48:910 RM: Low SNR Event
+06/05/14 08:56:49:424 RM: Low SNR Event
+06/05/14 08:56:49:424 RM: Scan triggered
+06/05/14 08:56:49:933 RM: Low SNR Event
+06/05/14 08:56:49:958 DRE: scan results event
+06/05/14 08:56:49:979 DRE: scan results event
+06/05/14 08:56:50:004 DRE: scan results event
+06/05/14 08:56:50:007 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,17) - 00 1a 30 32 24 94 (1,11)
+06/05/14 08:56:50:009 RM: current AP found to be best
+06/05/14 08:56:50:009 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:56:50:447 RM: Low SNR Event
+06/05/14 08:56:50:959 RM: Low SNR Event
+06/05/14 08:56:51:474 RM: Low SNR Event
+06/05/14 08:56:51:474 RM: Scan triggered
+06/05/14 08:56:51:981 RM: Low SNR Event
+06/05/14 08:56:52:006 DRE: scan results event
+06/05/14 08:56:52:028 DRE: scan results event
+06/05/14 08:56:52:052 DRE: scan results event
+06/05/14 08:56:52:056 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,19) - 00 1a 30 c0 e2 24 (6,19)
+06/05/14 08:56:52:057 RM: current AP found to be best
+06/05/14 08:56:52:057 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:56:52:495 RM: Low SNR Event
+06/05/14 08:56:53:007 RM: Low SNR Event
+06/05/14 08:56:53:520 RM: Low SNR Event
+06/05/14 08:56:53:520 RM: Scan triggered
+06/05/14 08:56:54:029 RM: Low SNR Event
+06/05/14 08:56:54:053 DRE: scan results event
+06/05/14 08:56:54:075 DRE: scan results event
+06/05/14 08:56:54:099 DRE: scan results event
+06/05/14 08:56:54:103 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,12)
+06/05/14 08:56:54:104 RM: current AP found to be best
+06/05/14 08:56:54:104 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:56:54:543 RM: Low SNR Event
+06/05/14 08:56:55:055 RM: Low SNR Event
+06/05/14 08:56:55:568 RM: Low SNR Event
+06/05/14 08:56:55:568 RM: Scan triggered
+06/05/14 08:56:55:638 DRE: scan results event
+06/05/14 08:56:56:077 RM: Low SNR Event
+06/05/14 08:56:56:098 DRE: scan results event
+06/05/14 08:56:56:122 DRE: scan results event
+06/05/14 08:56:56:126 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,22) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:56:56:127 RM: current AP found to be best
+06/05/14 08:56:56:128 RM: SNR: 22 (RSSI -74, NF -96)
+06/05/14 08:56:56:593 RM: Low SNR Event
+06/05/14 08:56:57:103 RM: Low SNR Event
+06/05/14 08:56:57:616 RM: Low SNR Event
+06/05/14 08:56:57:617 RM: Scan triggered
+06/05/14 08:56:58:125 RM: Low SNR Event
+06/05/14 08:56:58:150 DRE: scan results event
+06/05/14 08:56:58:172 DRE: scan results event
+06/05/14 08:56:58:196 DRE: scan results event
+06/05/14 08:56:58:200 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,21) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:56:58:201 RM: current AP found to be best
+06/05/14 08:56:58:201 RM: SNR: 21 (RSSI -75, NF -96)
+06/05/14 08:56:58:639 RM: Low SNR Event
+06/05/14 08:56:59:151 RM: Low SNR Event
+06/05/14 08:56:59:665 RM: Low SNR Event
+06/05/14 08:56:59:665 RM: Scan triggered
+06/05/14 08:56:59:693 DRE: scan results event
+06/05/14 08:57:00:173 RM: Low SNR Event
+06/05/14 08:57:00:194 DRE: scan results event
+06/05/14 08:57:00:219 DRE: scan results event
+06/05/14 08:57:00:222 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,22) - 00 1a 30 32 24 94 (1,17)
+06/05/14 08:57:00:224 RM: current AP found to be best
+06/05/14 08:57:00:224 RM: SNR: 22 (RSSI -74, NF -96)
+06/05/14 08:57:00:687 RM: Low SNR Event
+06/05/14 08:57:01:199 RM: Low SNR Event
+06/05/14 08:57:01:714 RM: Low SNR Event
+06/05/14 08:57:01:714 RM: Scan triggered
+06/05/14 08:57:02:245 DRE: scan results event
+06/05/14 08:57:02:267 DRE: scan results event
+06/05/14 08:57:02:291 DRE: scan results event
+06/05/14 08:57:02:294 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,25) - 00 1a 30 32 24 94 (1,16)
+06/05/14 08:57:02:296 RM: current AP found to be best
+06/05/14 08:57:02:296 RM: SNR: 25 (RSSI -71, NF -96)
+06/05/14 08:57:03:760 RM: Low SNR Event
+06/05/14 08:57:03:761 RM: Scan triggered
+06/05/14 08:57:04:269 RM: Low SNR Event
+06/05/14 08:57:04:293 DRE: scan results event
+06/05/14 08:57:04:315 DRE: scan results event
+06/05/14 08:57:04:340 DRE: scan results event
+06/05/14 08:57:04:343 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,20) - 00 1a 30 c0 e2 24 (6,17)
+06/05/14 08:57:04:345 Chosen AP is 00 1a 30 32 24 94 in channel 1
+06/05/14 08:57:04:345 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:57:04:345 RM: Set phase 4
+06/05/14 08:57:04:346 RM: Associating
+06/05/14 08:57:04:346 FWH: reset
+06/05/14 08:57:04:348 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 08:57:04:353 DRV: AP to associate with: 001a30322494
+06/05/14 08:57:04:373 RM: Associated with AP 00 1a 30 32 24 94 on channel 1. AID is 103 [0x67].
+06/05/14 08:57:04:374 CM: Set phase 6
+06/05/14 08:57:04:376 RM: Set phase 6
+06/05/14 08:57:04:376 RM: Authenticating
+06/05/14 08:57:04:376 PSK_Start
+06/05/14 08:57:04:377 DRE: association information elements event
+06/05/14 08:57:04:379 FWH: Pairwise 1 received.
+06/05/14 08:57:04:385 FWH: pairwise 2 sent.
+06/05/14 08:57:04:390 FWH: pairwise 3 received.
+06/05/14 08:57:04:391 FWH: pairwise 4 sent.
+06/05/14 08:57:04:401 FWH: group 1 received.
+06/05/14 08:57:04:404 FWH: group key 2 sent
+06/05/14 08:57:04:405 RM: Set phase 7
+06/05/14 08:57:04:405 RM: Requesting IP Address
+06/05/14 08:57:04:406 RM: Total roam time: 445 ms
+06/05/14 08:57:04:406 CM: Set phase 9
+06/05/14 08:57:04:407 CM: Set phase 5
+06/05/14 08:57:04:407 SM: Standby: 10.21.56.11: TX [113] Ping
+06/05/14 08:57:04:411 RM: Set phase 8
+06/05/14 08:57:04:420 SM: Standby: 10.21.56.11: RX [113] Ack
+06/05/14 08:57:04:422 SM: Standby: 10.21.56.11: RX [14] APName
+06/05/14 08:57:04:423 UI: AP Name: 'O R-AP274'
+06/05/14 08:57:04:423 SM: Standby: 10.21.56.11: TX [14] Ack
+06/05/14 08:57:04:980 RM: Low SNR Event
+06/05/14 08:57:05:493 RM: Low SNR Event
+06/05/14 08:57:06:006 RM: Low SNR Event
+06/05/14 08:57:06:007 RM: Scan triggered
+06/05/14 08:57:06:030 DRE: scan results event
+06/05/14 08:57:06:539 DRE: scan results event
+06/05/14 08:57:06:565 DRE: scan results event
+06/05/14 08:57:06:569 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,17) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:57:06:570 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 08:57:06:571 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:57:06:571 RM: Set phase 4
+06/05/14 08:57:06:571 RM: Associating
+06/05/14 08:57:06:572 FWH: reset
+06/05/14 08:57:06:573 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 08:57:06:578 DRV: AP to associate with: 001a30c0e224
+06/05/14 08:57:06:598 RM: Associated with AP 00 1a 30 c0 e2 24 on channel 6. AID is 118 [0x76].
+06/05/14 08:57:06:599 CM: Set phase 6
+06/05/14 08:57:06:601 RM: Set phase 6
+06/05/14 08:57:06:601 RM: Authenticating
+06/05/14 08:57:06:601 PSK_Start
+06/05/14 08:57:06:602 DRE: association information elements event
+06/05/14 08:57:06:605 FWH: Pairwise 1 received.
+06/05/14 08:57:06:611 FWH: pairwise 2 sent.
+06/05/14 08:57:06:615 FWH: pairwise 3 received.
+06/05/14 08:57:06:616 FWH: pairwise 4 sent.
+06/05/14 08:57:06:625 FWH: group 1 received.
+06/05/14 08:57:06:629 FWH: group key 2 sent
+06/05/14 08:57:06:629 RM: Set phase 7
+06/05/14 08:57:06:630 RM: Requesting IP Address
+06/05/14 08:57:06:630 RM: Total roam time: 423 ms
+06/05/14 08:57:06:631 CM: Set phase 9
+06/05/14 08:57:06:631 CM: Set phase 5
+06/05/14 08:57:06:632 SM: Standby: 10.21.56.11: TX [114] Ping
+06/05/14 08:57:06:636 RM: Set phase 8
+06/05/14 08:57:06:644 SM: Standby: 10.21.56.11: RX [114] Ack
+06/05/14 08:57:06:646 SM: Standby: 10.21.56.11: RX [15] APName
+06/05/14 08:57:06:646 UI: AP Name: 'O R-AP275'
+06/05/14 08:57:06:647 SM: Standby: 10.21.56.11: TX [15] Ack
+06/05/14 08:57:10:722 RM: Low SNR Event
+06/05/14 08:57:10:722 RM: Scan triggered
+06/05/14 08:57:11:233 RM: Low SNR Event
+06/05/14 08:57:11:257 DRE: scan results event
+06/05/14 08:57:11:279 DRE: scan results event
+06/05/14 08:57:11:304 DRE: scan results event
+06/05/14 08:57:11:307 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,17) - 00 1a 30 32 24 94 (1,11)
+06/05/14 08:57:11:308 RM: current AP found to be best
+06/05/14 08:57:11:309 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:57:11:746 RM: Low SNR Event
+06/05/14 08:57:12:259 RM: Low SNR Event
+06/05/14 08:57:12:771 RM: Low SNR Event
+06/05/14 08:57:12:771 RM: Scan triggered
+06/05/14 08:57:12:800 DRE: scan results event
+06/05/14 08:57:13:281 RM: Low SNR Event
+06/05/14 08:57:13:301 DRE: scan results event
+06/05/14 08:57:13:326 DRE: scan results event
+06/05/14 08:57:13:329 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:57:13:331 RM: current AP found to be best
+06/05/14 08:57:13:331 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:57:13:794 RM: Low SNR Event
+06/05/14 08:57:14:307 RM: Low SNR Event
+06/05/14 08:57:14:818 RM: Low SNR Event
+06/05/14 08:57:14:819 RM: Scan triggered
+06/05/14 08:57:15:329 RM: Low SNR Event
+06/05/14 08:57:15:353 DRE: scan results event
+06/05/14 08:57:15:375 DRE: scan results event
+06/05/14 08:57:15:400 DRE: scan results event
+06/05/14 08:57:15:403 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,18) - 00 1a 30 32 24 94 (1,17)
+06/05/14 08:57:15:404 RM: current AP found to be best
+06/05/14 08:57:15:405 RM: SNR: 18 (RSSI -78, NF -96)
+06/05/14 08:57:15:843 RM: Low SNR Event
+06/05/14 08:57:16:355 RM: Low SNR Event
+06/05/14 08:57:16:868 RM: Low SNR Event
+06/05/14 08:57:16:869 RM: Scan triggered
+06/05/14 08:57:17:377 RM: Low SNR Event
+06/05/14 08:57:17:401 DRE: scan results event
+06/05/14 08:57:17:423 DRE: scan results event
+06/05/14 08:57:17:447 DRE: scan results event
+06/05/14 08:57:17:450 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:57:17:452 RM: current AP found to be best
+06/05/14 08:57:17:452 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:57:17:891 RM: Low SNR Event
+06/05/14 08:57:18:403 RM: Low SNR Event
+06/05/14 08:57:18:915 RM: Low SNR Event
+06/05/14 08:57:18:916 RM: Scan triggered
+06/05/14 08:57:19:425 RM: Low SNR Event
+06/05/14 08:57:19:449 DRE: scan results event
+06/05/14 08:57:19:471 DRE: scan results event
+06/05/14 08:57:19:496 DRE: scan results event
+06/05/14 08:57:19:499 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,21) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:57:19:501 RM: current AP found to be best
+06/05/14 08:57:19:501 RM: SNR: 21 (RSSI -75, NF -96)
+06/05/14 08:57:19:938 RM: Low SNR Event
+06/05/14 08:57:20:451 RM: Low SNR Event
+06/05/14 08:57:20:963 RM: Low SNR Event
+06/05/14 08:57:20:964 RM: Scan triggered
+06/05/14 08:57:21:473 RM: Low SNR Event
+06/05/14 08:57:21:497 DRE: scan results event
+06/05/14 08:57:21:519 DRE: scan results event
+06/05/14 08:57:21:544 DRE: scan results event
+06/05/14 08:57:21:547 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,23) - 00 1a 30 32 24 94 (1,19)
+06/05/14 08:57:21:549 RM: current AP found to be best
+06/05/14 08:57:21:549 RM: SNR: 23 (RSSI -73, NF -96)
+06/05/14 08:57:21:989 RM: Low SNR Event
+06/05/14 08:57:22:499 RM: Low SNR Event
+06/05/14 08:57:23:011 RM: Low SNR Event
+06/05/14 08:57:23:011 RM: Scan triggered
+06/05/14 08:57:23:521 RM: Low SNR Event
+06/05/14 08:57:23:545 DRE: scan results event
+06/05/14 08:57:23:567 DRE: scan results event
+06/05/14 08:57:23:592 DRE: scan results event
+06/05/14 08:57:23:595 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,9)
+06/05/14 08:57:23:597 RM: current AP found to be best
+06/05/14 08:57:23:597 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:57:24:035 RM: Low SNR Event
+06/05/14 08:57:24:547 RM: Low SNR Event
+06/05/14 08:57:25:059 RM: Low SNR Event
+06/05/14 08:57:25:059 RM: Scan triggered
+06/05/14 08:57:25:090 DRE: scan results event
+06/05/14 08:57:25:569 RM: Low SNR Event
+06/05/14 08:57:25:589 DRE: scan results event
+06/05/14 08:57:25:615 DRE: scan results event
+06/05/14 08:57:25:618 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,21) - 00 1a 30 32 24 94 (1,9)
+06/05/14 08:57:25:620 RM: current AP found to be best
+06/05/14 08:57:25:620 RM: SNR: 21 (RSSI -75, NF -96)
+06/05/14 08:57:26:083 RM: Low SNR Event
+06/05/14 08:57:26:595 RM: Low SNR Event
+06/05/14 08:57:27:109 RM: Low SNR Event
+06/05/14 08:57:27:110 RM: Scan triggered
+06/05/14 08:57:27:617 RM: Low SNR Event
+06/05/14 08:57:27:641 DRE: scan results event
+06/05/14 08:57:27:664 DRE: scan results event
+06/05/14 08:57:27:688 DRE: scan results event
+06/05/14 08:57:27:691 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,20) - 00 1a 30 32 24 94 (1,16)
+06/05/14 08:57:27:693 RM: current AP found to be best
+06/05/14 08:57:27:693 RM: SNR: 20 (RSSI -76, NF -96)
+06/05/14 08:57:28:643 RM: Low SNR Event
+06/05/14 08:57:29:155 RM: Low SNR Event
+06/05/14 08:57:29:156 RM: Scan triggered
+06/05/14 08:57:29:186 DRE: scan results event
+06/05/14 08:57:29:665 RM: Low SNR Event
+06/05/14 08:57:29:686 DRE: scan results event
+06/05/14 08:57:29:710 DRE: scan results event
+06/05/14 08:57:29:714 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,23) - 00 1a 30 32 24 94 (1,20)
+06/05/14 08:57:29:715 RM: current AP found to be best
+06/05/14 08:57:29:716 RM: SNR: 23 (RSSI -73, NF -96)
+06/05/14 08:57:30:179 RM: Low SNR Event
+06/05/14 08:57:30:691 RM: Low SNR Event
+06/05/14 08:57:31:203 RM: Low SNR Event
+06/05/14 08:57:31:204 RM: Scan triggered
+06/05/14 08:57:31:713 RM: Low SNR Event
+06/05/14 08:57:31:738 DRE: scan results event
+06/05/14 08:57:31:760 DRE: scan results event
+06/05/14 08:57:31:784 DRE: scan results event
+06/05/14 08:57:31:787 RM: no relevant AP found
+06/05/14 08:57:32:229 RM: Low SNR Event
+06/05/14 08:57:32:740 RM: Low SNR Event
+06/05/14 08:57:33:251 RM: Low SNR Event
+06/05/14 08:57:33:251 RM: Scan triggered
+06/05/14 08:57:33:761 RM: Low SNR Event
+06/05/14 08:57:33:786 DRE: scan results event
+06/05/14 08:57:33:807 DRE: scan results event
+06/05/14 08:57:33:832 DRE: scan results event
+06/05/14 08:57:33:835 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,20)
+06/05/14 08:57:33:837 RM: current AP found to be best
+06/05/14 08:57:33:837 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:57:34:275 RM: Low SNR Event
+06/05/14 08:57:34:787 RM: Low SNR Event
+06/05/14 08:57:35:299 RM: Low SNR Event
+06/05/14 08:57:35:300 RM: Scan triggered
+06/05/14 08:57:35:809 RM: Low SNR Event
+06/05/14 08:57:35:834 DRE: scan results event
+06/05/14 08:57:35:855 DRE: scan results event
+06/05/14 08:57:35:880 DRE: scan results event
+06/05/14 08:57:35:884 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,22) - 00 1a 30 32 24 94 (1,17)
+06/05/14 08:57:35:885 RM: current AP found to be best
+06/05/14 08:57:35:885 RM: SNR: 22 (RSSI -74, NF -96)
+06/05/14 08:57:36:323 RM: Low SNR Event
+06/05/14 08:57:36:834 SM: Standby: 10.21.56.11: TX [115] Ping
+06/05/14 08:57:36:838 RM: Low SNR Event
+06/05/14 08:57:37:346 RM: Low SNR Event
+06/05/14 08:57:37:346 RM: Scan triggered
+06/05/14 08:57:37:438 SM: Standby: 10.21.56.11: TX [115] Ping
+06/05/14 08:57:37:857 RM: Low SNR Event
+06/05/14 08:57:37:882 DRE: scan results event
+06/05/14 08:57:37:904 DRE: scan results event
+06/05/14 08:57:37:928 DRE: scan results event
+06/05/14 08:57:37:932 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,25) - 00 1a 30 32 24 94 (1,11)
+06/05/14 08:57:37:933 RM: current AP found to be best
+06/05/14 08:57:37:934 RM: SNR: 25 (RSSI -71, NF -96)
+06/05/14 08:57:38:040 SM: Standby: 10.21.56.11: TX [115] Ping
+06/05/14 08:57:38:641 SM: Standby: 10.21.56.11: TX [115] Ping
+06/05/14 08:57:39:243 SM: Standby: 10.21.56.11: TX [115] Ping
+06/05/14 08:57:39:393 RM: Low SNR Event
+06/05/14 08:57:39:394 RM: Scan triggered
+06/05/14 08:57:39:426 DRE: scan results event
+06/05/14 08:57:39:844 SM: Standby: 10.21.56.11: TX [115] Ping
+06/05/14 08:57:39:907 SM: Standby: 10.21.56.11: RX [115] Ack
+06/05/14 08:57:39:908 SM: Standby: 10.21.56.11: TX [116] BinaryLog
+06/05/14 08:57:39:911 SM: Standby: 10.21.56.11: RX [115] Ack
+06/05/14 08:57:39:913 SM: Standby: 10.21.56.11: RX [115] Ack
+06/05/14 08:57:39:915 SM: Standby: 10.21.56.11: RX [115] Ack
+06/05/14 08:57:39:917 SM: Standby: 10.21.56.11: RX [115] Ack
+06/05/14 08:57:39:919 SM: Standby: 10.21.56.11: RX [115] Ack
+06/05/14 08:57:39:921 SM: Standby: 10.21.56.11: RX [116] Ack
+06/05/14 08:57:39:925 DRE: scan results event
+06/05/14 08:57:39:950 DRE: scan results event
+06/05/14 08:57:39:953 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,23) - 00 1a 30 32 24 94 (1,13)
+06/05/14 08:57:39:955 RM: current AP found to be best
+06/05/14 08:57:39:955 RM: SNR: 23 (RSSI -73, NF -96)
+06/05/14 08:57:40:419 RM: Low SNR Event
+06/05/14 08:57:40:932 RM: Low SNR Event
+06/05/14 08:57:41:443 RM: Low SNR Event
+06/05/14 08:57:41:444 RM: Scan triggered
+06/05/14 08:57:41:471 DRE: scan results event
+06/05/14 08:57:41:953 RM: Low SNR Event
+06/05/14 08:57:41:974 DRE: scan results event
+06/05/14 08:57:41:999 DRE: scan results event
+06/05/14 08:57:42:002 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:57:42:003 RM: current AP found to be best
+06/05/14 08:57:42:004 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:57:42:469 RM: Low SNR Event
+06/05/14 08:57:42:979 RM: Low SNR Event
+06/05/14 08:57:43:491 RM: Low SNR Event
+06/05/14 08:57:43:492 RM: Scan triggered
+06/05/14 08:57:44:002 RM: Low SNR Event
+06/05/14 08:57:44:026 DRE: scan results event
+06/05/14 08:57:44:048 DRE: scan results event
+06/05/14 08:57:44:074 DRE: scan results event
+06/05/14 08:57:44:077 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,19) - 00 1a 30 c0 e2 24 (6,18)
+06/05/14 08:57:44:079 RM: current AP found to be best
+06/05/14 08:57:44:079 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:57:44:515 RM: Low SNR Event
+06/05/14 08:57:45:028 RM: Low SNR Event
+06/05/14 08:57:45:539 RM: Low SNR Event
+06/05/14 08:57:45:540 RM: Scan triggered
+06/05/14 08:57:46:049 RM: Low SNR Event
+06/05/14 08:57:46:074 DRE: scan results event
+06/05/14 08:57:46:096 DRE: scan results event
+06/05/14 08:57:46:120 DRE: scan results event
+06/05/14 08:57:46:124 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,18)
+06/05/14 08:57:46:125 RM: current AP found to be best
+06/05/14 08:57:46:125 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:57:46:563 RM: Low SNR Event
+06/05/14 08:57:47:075 RM: Low SNR Event
+06/05/14 08:58:05:509 RM: Low SNR Event
+06/05/14 08:58:05:509 RM: Scan triggered
+06/05/14 08:58:05:537 DRE: scan results event
+06/05/14 08:58:06:018 RM: Low SNR Event
+06/05/14 08:58:06:039 DRE: scan results event
+06/05/14 08:58:06:063 DRE: scan results event
+06/05/14 08:58:06:067 RM: Found 2 APs. Top AP(s) - 00 1a 30 32 24 94 (1,15) - 00 1a 30 c0 e2 24 (6,14)
+06/05/14 08:58:06:068 RM: current AP found to be best
+06/05/14 08:58:06:069 RM: SNR: 15 (RSSI -81, NF -96)
+06/05/14 08:58:06:532 RM: Low SNR Event
+06/05/14 08:58:07:042 SM: Standby: 10.21.56.11: TX [117] Ping
+06/05/14 08:58:07:045 RM: Low SNR Event
+06/05/14 08:58:07:554 RM: Low SNR Event
+06/05/14 08:58:07:554 RM: Scan triggered
+06/05/14 08:58:07:561 SM: Standby: 10.21.56.11: RX [117] Ack
+06/05/14 08:58:07:563 SM: Standby: 10.21.56.11: TX [118] BinaryLog
+06/05/14 08:58:07:590 DRE: scan results event
+06/05/14 08:58:07:594 SM: Standby: 10.21.56.11: RX [118] Ack
+06/05/14 08:58:08:066 RM: Low SNR Event
+06/05/14 08:58:08:087 DRE: scan results event
+06/05/14 08:58:08:111 DRE: scan results event
+06/05/14 08:58:08:115 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,24) - 00 1a 30 32 24 94 (1,12)
+06/05/14 08:58:08:116 RM: current AP found to be best
+06/05/14 08:58:08:117 RM: SNR: 24 (RSSI -72, NF -96)
+06/05/14 08:58:08:580 RM: Low SNR Event
+06/05/14 08:58:09:092 RM: Low SNR Event
+06/05/14 08:58:09:605 RM: Low SNR Event
+06/05/14 08:58:09:605 RM: Scan triggered
+06/05/14 08:58:10:114 RM: Low SNR Event
+06/05/14 08:58:10:139 DRE: scan results event
+06/05/14 08:58:10:161 DRE: scan results event
+06/05/14 08:58:10:186 DRE: scan results event
+06/05/14 08:58:10:189 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,17) - 00 1a 30 32 24 94 (1,15)
+06/05/14 08:58:10:191 RM: current AP found to be best
+06/05/14 08:58:10:191 RM: SNR: 17 (RSSI -79, NF -96)
+06/05/14 08:58:10:628 RM: Low SNR Event
+06/05/14 08:58:11:139 RM: Low SNR Event
+06/05/14 08:58:11:653 RM: Low SNR Event
+06/05/14 08:58:11:653 RM: Scan triggered
+06/05/14 08:58:12:162 RM: Low SNR Event
+06/05/14 08:58:12:187 DRE: scan results event
+06/05/14 08:58:12:209 DRE: scan results event
+06/05/14 08:58:12:234 DRE: scan results event
+06/05/14 08:58:12:237 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,19) - 00 1a 30 32 24 94 (1,14)
+06/05/14 08:58:12:239 RM: current AP found to be best
+06/05/14 08:58:12:239 RM: SNR: 19 (RSSI -77, NF -96)
+06/05/14 08:58:12:676 RM: Low SNR Event
+06/05/14 08:58:13:189 RM: Low SNR Event
+06/05/14 08:58:13:701 RM: Low SNR Event
+06/05/14 08:58:13:701 RM: Scan triggered
+06/05/14 08:58:13:729 DRE: scan results event
+06/05/14 08:58:14:229 DRE: scan results event
+06/05/14 08:58:14:254 DRE: scan results event
+06/05/14 08:58:14:257 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,27) - 00 1a 30 32 24 94 (1,15)
+06/05/14 08:58:14:259 RM: current AP found to be best
+06/05/14 08:58:14:259 RM: SNR: 27 (RSSI -69, NF -96)
+06/05/14 08:58:37:251 SM: Standby: 10.21.56.11: TX [119] Ping
+06/05/14 08:58:37:764 SM: Standby: 10.21.56.11: RX [119] Ack
+06/05/14 08:58:37:765 SM: Standby: 10.21.56.11: TX [120] BinaryLog
+06/05/14 08:58:37:771 SM: Standby: 10.21.56.11: RX [120] Ack
+06/05/14 08:59:07:459 SM: Standby: 10.21.56.11: TX [121] Ping
+06/05/14 08:59:07:467 SM: Standby: 10.21.56.11: RX [121] Ack
+06/05/14 08:59:07:468 SM: Standby: 10.21.56.11: TX [122] BinaryLog
+06/05/14 08:59:07:472 SM: Standby: 10.21.56.11: RX [122] Ack
+06/05/14 08:59:37:668 SM: Standby: 10.21.56.11: TX [123] Ping
+06/05/14 08:59:38:184 SM: Standby: 10.21.56.11: RX [123] Ack
+06/05/14 09:00:07:877 SM: Standby: 10.21.56.11: TX [124] Ping
+06/05/14 09:00:07:883 SM: Standby: 10.21.56.11: RX [124] Ack
+06/05/14 09:00:24:262 RM: Low SNR Event
+06/05/14 09:00:24:263 RM: Scan triggered
+06/05/14 09:00:24:292 DRE: scan results event
+06/05/14 09:00:24:773 RM: Low SNR Event
+06/05/14 09:00:24:794 DRE: scan results event
+06/05/14 09:00:24:819 DRE: scan results event
+06/05/14 09:00:24:823 RM: Found 6 APs. Top AP(s) - 00 1a 30 32 24 94 (1,45) - 00 1a 30 c0 da f4 (11,43) - 00 1e 13 84 3d 14 (1,32)
+06/05/14 09:00:24:825 Chosen AP is 00 1a 30 32 24 94 in channel 1
+06/05/14 09:00:24:825 RM: SNR: 45 (RSSI -51, NF -96)
+06/05/14 09:00:24:825 RM: Set phase 4
+06/05/14 09:00:24:826 RM: Associating
+06/05/14 09:00:24:826 FWH: reset
+06/05/14 09:00:24:828 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 09:00:24:833 DRV: AP to associate with: 001a30322494
+06/05/14 09:00:24:853 RM: Associated with AP 00 1a 30 32 24 94 on channel 1. AID is 102 [0x66].
+06/05/14 09:00:24:854 CM: Set phase 6
+06/05/14 09:00:24:856 RM: Set phase 6
+06/05/14 09:00:24:856 RM: Authenticating
+06/05/14 09:00:24:857 PSK_Start
+06/05/14 09:00:24:857 DRE: association information elements event
+06/05/14 09:00:24:860 FWH: Pairwise 1 received.
+06/05/14 09:00:24:865 FWH: pairwise 2 sent.
+06/05/14 09:00:24:874 FWH: pairwise 3 received.
+06/05/14 09:00:24:875 FWH: pairwise 4 sent.
+06/05/14 09:00:24:885 FWH: group 1 received.
+06/05/14 09:00:24:889 FWH: group key 2 sent
+06/05/14 09:00:24:889 RM: Set phase 7
+06/05/14 09:00:24:890 RM: Requesting IP Address
+06/05/14 09:00:24:890 RM: Total roam time: 427 ms
+06/05/14 09:00:24:891 CM: Set phase 9
+06/05/14 09:00:24:891 CM: Set phase 5
+06/05/14 09:00:24:892 SM: Standby: 10.21.56.11: TX [125] Ping
+06/05/14 09:00:24:896 RM: Set phase 8
+06/05/14 09:00:24:902 SM: Standby: 10.21.56.11: RX [125] Ack
+06/05/14 09:00:24:902 SM: Standby: 10.21.56.11: TX [126] BinaryLog
+06/05/14 09:00:24:905 SM: Standby: 10.21.56.11: RX [16] APName
+06/05/14 09:00:24:906 UI: AP Name: 'O R-AP274'
+06/05/14 09:00:24:906 SM: Standby: 10.21.56.11: TX [16] Ack
+06/05/14 09:00:24:909 SM: Standby: 10.21.56.11: RX [126] Ack
+06/05/14 09:00:55:078 SM: Standby: 10.21.56.11: TX [127] Ping
+06/05/14 09:00:55:092 SM: Standby: 10.21.56.11: RX [127] Ack
+06/05/14 09:00:55:092 SM: Standby: 10.21.56.11: TX [128] BinaryLog
+06/05/14 09:00:55:097 SM: Standby: 10.21.56.11: RX [128] Ack
+06/05/14 09:01:25:287 SM: Standby: 10.21.56.11: TX [129] Ping
+06/05/14 09:01:25:292 SM: Standby: 10.21.56.11: RX [129] Ack
+06/05/14 09:01:55:495 SM: Standby: 10.21.56.11: TX [130] Ping
+06/05/14 09:01:55:500 SM: Standby: 10.21.56.11: RX [130] Ack
+06/05/14 09:02:25:704 SM: Standby: 10.21.56.11: TX [131] Ping
+06/05/14 09:02:25:718 SM: Standby: 10.21.56.11: RX [131] Ack
+06/05/14 09:02:55:708 SM: Standby: 10.21.56.11: TX [132] Ping
+06/05/14 09:02:55:714 SM: Standby: 10.21.56.11: RX [132] Ack
+06/05/14 09:03:25:946 SM: Standby: 10.21.56.11: TX [133] Ping
+06/05/14 09:03:26:432 SM: Standby: 10.21.56.11: RX [133] Ack
+06/05/14 09:03:56:126 SM: Standby: 10.21.56.11: TX [134] Ping
+06/05/14 09:03:56:131 SM: Standby: 10.21.56.11: RX [134] Ack
+06/05/14 09:04:26:334 SM: Standby: 10.21.56.11: TX [135] Ping
+06/05/14 09:04:26:342 SM: Standby: 10.21.56.11: RX [135] Ack
+06/05/14 09:04:56:543 UI: WriteInventoryRecord: iVoltage=3770 sText=3770:3:001a30322494:G5DH1313CE8E:704b20ac
+06/05/14 09:04:56:543 SM: Standby: 10.21.56.11: TX [136] Ping
+06/05/14 09:04:56:549 SM: Standby: 10.21.56.11: RX [136] Ack
+06/05/14 09:04:56:550 SM: Standby: 10.21.56.11: TX [137] Log
+06/05/14 09:04:56:554 SM: Standby: 10.21.56.11: RX [137] Ack
+06/05/14 09:05:03:312 SM: Standby: 10.21.56.11: TX [138] BinaryLog
+06/05/14 09:05:03:817 SM: Standby: 10.21.56.11: RX [138] Ack
+06/05/14 09:05:26:854 SM: Standby: 10.21.56.11: TX [139] Ping
+06/05/14 09:05:27:367 SM: Standby: 10.21.56.11: RX [139] Ack
+06/05/14 09:05:57:063 SM: Standby: 10.21.56.11: TX [140] Ping
+06/05/14 09:05:57:584 SM: Standby: 10.21.56.11: RX [140] Ack
+06/05/14 09:06:27:271 SM: Standby: 10.21.56.11: TX [141] Ping
+06/05/14 09:06:27:277 SM: Standby: 10.21.56.11: RX [141] Ack
+06/05/14 09:06:43:657 RM: Low SNR Event
+06/05/14 09:06:43:657 RM: Scan triggered
+06/05/14 09:06:44:187 DRE: scan results event
+06/05/14 09:06:44:213 DRE: scan results event
+06/05/14 09:06:44:237 DRE: scan results event
+06/05/14 09:06:44:241 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,42) - 00 1a 30 32 24 94 (1,33)
+06/05/14 09:06:44:242 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 09:06:44:242 RM: SNR: 42 (RSSI -54, NF -96)
+06/05/14 09:06:44:243 RM: Set phase 4
+06/05/14 09:06:44:243 RM: Associating
+06/05/14 09:06:44:243 FWH: reset
+06/05/14 09:06:44:245 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 09:06:44:251 DRV: AP to associate with: 001a30c0e224
+06/05/14 09:06:44:271 RM: Associated with AP 00 1a 30 c0 e2 24 on channel 6. AID is 126 [0x7e].
+06/05/14 09:06:44:272 CM: Set phase 6
+06/05/14 09:06:44:274 RM: Set phase 6
+06/05/14 09:06:44:275 RM: Authenticating
+06/05/14 09:06:44:275 PSK_Start
+06/05/14 09:06:44:276 DRE: association information elements event
+06/05/14 09:06:44:278 FWH: Pairwise 1 received.
+06/05/14 09:06:44:284 FWH: pairwise 2 sent.
+06/05/14 09:06:44:290 FWH: pairwise 3 received.
+06/05/14 09:06:44:290 FWH: pairwise 4 sent.
+06/05/14 09:06:44:301 FWH: group 1 received.
+06/05/14 09:06:44:305 FWH: group key 2 sent
+06/05/14 09:06:44:306 RM: Set phase 7
+06/05/14 09:06:44:306 RM: Requesting IP Address
+06/05/14 09:06:44:307 RM: Total roam time: 449 ms
+06/05/14 09:06:44:307 CM: Set phase 9
+06/05/14 09:06:44:307 CM: Set phase 5
+06/05/14 09:06:44:308 SM: Standby: 10.21.56.11: TX [142] Ping
+06/05/14 09:06:44:312 RM: Set phase 8
+06/05/14 09:06:44:323 SM: Standby: 10.21.56.11: RX [142] Ack
+06/05/14 09:06:44:324 SM: Standby: 10.21.56.11: TX [143] BinaryLog
+06/05/14 09:06:44:327 SM: Standby: 10.21.56.11: RX [17] APName
+06/05/14 09:06:44:327 UI: AP Name: 'O R-AP275'
+06/05/14 09:06:44:328 SM: Standby: 10.21.56.11: TX [17] Ack
+06/05/14 09:06:44:331 SM: Standby: 10.21.56.11: RX [143] Ack
+06/05/14 09:07:14:484 SM: Standby: 10.21.56.11: TX [144] Ping
+06/05/14 09:07:14:489 SM: Standby: 10.21.56.11: RX [144] Ack
+06/05/14 09:07:14:490 SM: Standby: 10.21.56.11: TX [145] BinaryLog
+06/05/14 09:07:14:494 SM: Standby: 10.21.56.11: RX [145] Ack
+06/05/14 09:07:44:692 SM: Standby: 10.21.56.11: TX [146] Ping
+06/05/14 09:07:44:698 SM: Standby: 10.21.56.11: RX [146] Ack
+06/05/14 09:08:14:901 SM: Standby: 10.21.56.11: TX [147] Ping
+06/05/14 09:08:15:419 SM: Standby: 10.21.56.11: RX [147] Ack
+06/05/14 09:08:45:110 SM: Standby: 10.21.56.11: TX [148] Ping
+06/05/14 09:08:45:116 SM: Standby: 10.21.56.11: RX [148] Ack
+06/05/14 09:09:15:318 SM: Standby: 10.21.56.11: TX [149] Ping
+06/05/14 09:09:15:324 SM: Standby: 10.21.56.11: RX [149] Ack
+06/05/14 09:09:30:373 RM: Low SNR Event
+06/05/14 09:09:30:373 RM: Scan triggered
+06/05/14 09:09:30:406 DRE: scan results event
+06/05/14 09:09:30:903 DRE: scan results event
+06/05/14 09:09:30:944 DRE: scan results event
+06/05/14 09:09:30:948 RM: Found 7 APs. Top AP(s) - 00 1a 30 7e 6f 34 (1,37) - 00 1a 30 33 80 b4 (6,34) - 00 1a 30 c0 da f4 (11,33)
+06/05/14 09:09:30:950 Chosen AP is 00 1a 30 7e 6f 34 in channel 1
+06/05/14 09:09:30:950 RM: SNR: 37 (RSSI -59, NF -96)
+06/05/14 09:09:30:951 RM: Set phase 4
+06/05/14 09:09:30:951 RM: Associating
+06/05/14 09:09:30:951 FWH: reset
+06/05/14 09:09:30:954 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 09:09:30:960 DRV: AP to associate with: 001a307e6f34
+06/05/14 09:09:30:982 RM: Associated with AP 00 1a 30 7e 6f 34 on channel 1. AID is 32 [0x20].
+06/05/14 09:09:30:983 CM: Set phase 6
+06/05/14 09:09:30:984 RM: Set phase 6
+06/05/14 09:09:30:985 RM: Authenticating
+06/05/14 09:09:30:985 PSK_Start
+06/05/14 09:09:30:986 DRE: association information elements event
+06/05/14 09:09:30:988 FWH: Pairwise 1 received.
+06/05/14 09:09:30:994 FWH: pairwise 2 sent.
+06/05/14 09:09:30:999 FWH: pairwise 3 received.
+06/05/14 09:09:31:000 FWH: pairwise 4 sent.
+06/05/14 09:09:31:011 FWH: group 1 received.
+06/05/14 09:09:31:014 FWH: group key 2 sent
+06/05/14 09:09:31:015 RM: Set phase 7
+06/05/14 09:09:31:015 RM: Requesting IP Address
+06/05/14 09:09:31:016 RM: Total roam time: 442 ms
+06/05/14 09:09:31:017 CM: Set phase 9
+06/05/14 09:09:31:017 CM: Set phase 5
+06/05/14 09:09:31:018 SM: Standby: 10.21.56.11: TX [150] Ping
+06/05/14 09:09:31:021 RM: Set phase 8
+06/05/14 09:09:31:031 SM: Standby: 10.21.56.11: RX [150] Ack
+06/05/14 09:09:31:032 SM: Standby: 10.21.56.11: TX [151] BinaryLog
+06/05/14 09:09:31:035 SM: Standby: 10.21.56.11: RX [18] APName
+06/05/14 09:09:31:035 UI: AP Name: 'O R-AP282'
+06/05/14 09:09:31:036 SM: Standby: 10.21.56.11: TX [18] Ack
+06/05/14 09:09:31:038 SM: Standby: 10.21.56.11: RX [151] Ack
+06/05/14 09:10:01:333 SM: Standby: 10.21.56.11: TX [152] Ping
+06/05/14 09:10:01:340 SM: Standby: 10.21.56.11: RX [152] Ack
+06/05/14 09:10:01:340 SM: Standby: 10.21.56.11: TX [153] BinaryLog
+06/05/14 09:10:01:344 SM: Standby: 10.21.56.11: RX [153] Ack
+06/05/14 09:10:31:563 SM: Standby: 10.21.56.11: TX [154] Ping
+06/05/14 09:10:31:570 SM: Standby: 10.21.56.11: RX [154] Ack
+06/05/14 09:10:53:046 RM: Low SNR Event
+06/05/14 09:10:53:047 RM: Scan triggered
+06/05/14 09:10:53:578 DRE: scan results event
+06/05/14 09:10:53:606 DRE: scan results event
+06/05/14 09:10:53:633 DRE: scan results event
+06/05/14 09:10:53:637 RM: Found 4 APs. Top AP(s) - 00 1a 30 32 24 94 (1,48) - 00 1a 30 c0 da f4 (11,38) - 00 1a 30 c0 e2 24 (6,27)
+06/05/14 09:10:53:639 Chosen AP is 00 1a 30 32 24 94 in channel 1
+06/05/14 09:10:53:639 RM: SNR: 48 (RSSI -48, NF -96)
+06/05/14 09:10:53:639 RM: Set phase 4
+06/05/14 09:10:53:640 RM: Associating
+06/05/14 09:10:53:640 FWH: reset
+06/05/14 09:10:53:642 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 09:10:53:648 DRV: AP to associate with: 001a30322494
+06/05/14 09:10:53:670 RM: Associated with AP 00 1a 30 32 24 94 on channel 1. AID is 113 [0x71].
+06/05/14 09:10:53:671 CM: Set phase 6
+06/05/14 09:10:53:673 RM: Set phase 6
+06/05/14 09:10:53:673 RM: Authenticating
+06/05/14 09:10:53:673 PSK_Start
+06/05/14 09:10:53:674 DRE: association information elements event
+06/05/14 09:10:53:676 FWH: Pairwise 1 received.
+06/05/14 09:10:53:682 FWH: pairwise 2 sent.
+06/05/14 09:10:53:687 FWH: pairwise 3 received.
+06/05/14 09:10:53:687 FWH: pairwise 4 sent.
+06/05/14 09:10:53:697 FWH: group 1 received.
+06/05/14 09:10:53:701 FWH: group key 2 sent
+06/05/14 09:10:53:701 RM: Set phase 7
+06/05/14 09:10:53:702 RM: Requesting IP Address
+06/05/14 09:10:53:702 RM: Total roam time: 455 ms
+06/05/14 09:10:53:703 CM: Set phase 9
+06/05/14 09:10:53:703 CM: Set phase 5
+06/05/14 09:10:53:704 SM: Standby: 10.21.56.11: TX [155] Ping
+06/05/14 09:10:53:708 RM: Set phase 8
+06/05/14 09:10:53:719 SM: Standby: 10.21.56.11: RX [155] Ack
+06/05/14 09:10:53:720 SM: Standby: 10.21.56.11: TX [156] BinaryLog
+06/05/14 09:10:53:723 SM: Standby: 10.21.56.11: RX [19] APName
+06/05/14 09:10:53:723 UI: AP Name: 'O R-AP274'
+06/05/14 09:10:53:723 SM: Standby: 10.21.56.11: TX [19] Ack
+06/05/14 09:10:53:729 SM: Standby: 10.21.56.11: RX [156] Ack
+06/05/14 09:11:24:034 SM: Standby: 10.21.56.11: TX [157] Ping
+06/05/14 09:11:24:547 SM: Standby: 10.21.56.11: RX [157] Ack
+06/05/14 09:11:24:548 SM: Standby: 10.21.56.11: TX [158] BinaryLog
+06/05/14 09:11:24:552 SM: Standby: 10.21.56.11: RX [158] Ack
+06/05/14 09:11:54:243 SM: Standby: 10.21.56.11: TX [159] Ping
+06/05/14 09:11:54:756 SM: Standby: 10.21.56.11: RX [159] Ack
+06/05/14 09:12:24:463 SM: Standby: 10.21.56.11: TX [160] Ping
+06/05/14 09:12:24:967 SM: Standby: 10.21.56.11: RX [160] Ack
+06/05/14 09:12:54:660 SM: Standby: 10.21.56.11: TX [161] Ping
+06/05/14 09:12:54:665 SM: Standby: 10.21.56.11: RX [161] Ack
+06/05/14 09:13:24:869 SM: Standby: 10.21.56.11: TX [162] Ping
+06/05/14 09:13:25:385 SM: Standby: 10.21.56.11: RX [162] Ack
+06/05/14 09:13:55:078 SM: Standby: 10.21.56.11: TX [163] Ping
+06/05/14 09:13:55:680 SM: Standby: 10.21.56.11: TX [163] Ping
+06/05/14 09:13:56:104 SM: Standby: 10.21.56.11: RX [163] Ack
+06/05/14 09:13:56:106 SM: Standby: 10.21.56.11: RX [163] Ack
+06/05/14 09:14:25:286 SM: Standby: 10.21.56.11: TX [164] Ping
+06/05/14 09:14:25:297 SM: Standby: 10.21.56.11: RX [164] Ack
+06/05/14 09:14:40:136 RM: Low SNR Event
+06/05/14 09:14:40:136 RM: Scan triggered
+06/05/14 09:14:40:646 RM: Low SNR Event
+06/05/14 09:14:40:668 DRE: scan results event
+06/05/14 09:14:40:697 DRE: scan results event
+06/05/14 09:14:40:721 DRE: scan results event
+06/05/14 09:14:40:725 RM: Found 2 APs. Top AP(s) - 00 1a 30 c0 e2 24 (6,38) - 00 1a 30 32 24 94 (1,18)
+06/05/14 09:14:40:726 Chosen AP is 00 1a 30 c0 e2 24 in channel 6
+06/05/14 09:14:40:726 RM: SNR: 38 (RSSI -58, NF -96)
+06/05/14 09:14:40:727 RM: Set phase 4
+06/05/14 09:14:40:727 RM: Associating
+06/05/14 09:14:40:727 FWH: reset
+06/05/14 09:14:40:730 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 09:14:40:734 DRV: AP to associate with: 001a30c0e224
+06/05/14 09:14:40:755 RM: Associated with AP 00 1a 30 c0 e2 24 on channel 6. AID is 139 [0x8b].
+06/05/14 09:14:40:756 CM: Set phase 6
+06/05/14 09:14:40:757 RM: Set phase 6
+06/05/14 09:14:40:758 RM: Authenticating
+06/05/14 09:14:40:758 PSK_Start
+06/05/14 09:14:40:759 DRE: association information elements event
+06/05/14 09:14:40:762 FWH: Pairwise 1 received.
+06/05/14 09:14:40:767 FWH: pairwise 2 sent.
+06/05/14 09:14:40:772 FWH: pairwise 3 received.
+06/05/14 09:14:40:773 FWH: pairwise 4 sent.
+06/05/14 09:14:40:783 FWH: group 1 received.
+06/05/14 09:14:40:786 FWH: group key 2 sent
+06/05/14 09:14:40:787 RM: Set phase 7
+06/05/14 09:14:40:787 RM: Requesting IP Address
+06/05/14 09:14:40:788 RM: Total roam time: 451 ms
+06/05/14 09:14:40:788 CM: Set phase 9
+06/05/14 09:14:40:789 CM: Set phase 5
+06/05/14 09:14:40:789 SM: Standby: 10.21.56.11: TX [165] Ping
+06/05/14 09:14:40:793 RM: Set phase 8
+06/05/14 09:14:40:800 SM: Standby: 10.21.56.11: RX [165] Ack
+06/05/14 09:14:40:801 SM: Standby: 10.21.56.11: TX [166] BinaryLog
+06/05/14 09:14:40:804 SM: Standby: 10.21.56.11: RX [20] APName
+06/05/14 09:14:40:804 UI: AP Name: 'O R-AP275'
+06/05/14 09:14:40:805 SM: Standby: 10.21.56.11: TX [20] Ack
+06/05/14 09:14:40:807 SM: Standby: 10.21.56.11: RX [166] Ack
+06/05/14 09:15:10:964 SM: Standby: 10.21.56.11: TX [167] Ping
+06/05/14 09:15:10:969 SM: Standby: 10.21.56.11: RX [167] Ack
+06/05/14 09:15:10:970 SM: Standby: 10.21.56.11: TX [168] BinaryLog
+06/05/14 09:15:10:974 SM: Standby: 10.21.56.11: RX [168] Ack
+06/05/14 09:15:41:275 SM: Standby: 10.21.56.11: TX [169] Ping
+06/05/14 09:15:41:287 SM: Standby: 10.21.56.11: RX [169] Ack
+06/05/14 09:16:11:689 SM: Standby: 10.21.56.11: TX [170] Ping
+06/05/14 09:16:11:694 SM: Standby: 10.21.56.11: RX [170] Ack
+06/05/14 09:16:41:898 SM: Standby: 10.21.56.11: TX [171] Ping
+06/05/14 09:16:41:907 SM: Standby: 10.21.56.11: RX [171] Ack
+06/05/14 09:17:12:106 SM: Standby: 10.21.56.11: TX [172] Ping
+06/05/14 09:17:12:111 SM: Standby: 10.21.56.11: RX [172] Ack
+06/05/14 09:17:42:532 SM: Standby: 10.21.56.11: TX [173] Ping
+06/05/14 09:17:43:035 SM: Standby: 10.21.56.11: RX [173] Ack
+06/05/14 09:18:12:728 SM: Standby: 10.21.56.11: TX [174] Ping
+06/05/14 09:18:12:734 SM: Standby: 10.21.56.11: RX [174] Ack
+06/05/14 09:18:42:937 SM: Standby: 10.21.56.11: TX [175] Ping
+06/05/14 09:18:43:454 SM: Standby: 10.21.56.11: RX [175] Ack
+06/05/14 09:19:13:247 SM: Standby: 10.21.56.11: TX [176] Ping
+06/05/14 09:19:13:761 SM: Standby: 10.21.56.11: RX [176] Ack
+06/05/14 09:19:43:456 SM: Standby: 10.21.56.11: TX [177] Ping
+06/05/14 09:19:43:467 SM: Standby: 10.21.56.11: RX [177] Ack
+06/05/14 09:20:00:978 SM: Standby: 10.21.56.11: TX [178] BinaryLog
+06/05/14 09:20:01:481 SM: Standby: 10.21.56.11: RX [178] Ack
+06/05/14 09:20:13:767 UI: WriteInventoryRecord: iVoltage=3766 sText=3766:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 09:20:13:768 SM: Standby: 10.21.56.11: TX [179] Ping
+06/05/14 09:20:13:773 SM: Standby: 10.21.56.11: RX [179] Ack
+06/05/14 09:20:13:774 SM: Standby: 10.21.56.11: TX [180] Log
+06/05/14 09:20:13:778 SM: Standby: 10.21.56.11: RX [180] Ack
+06/05/14 09:20:43:977 SM: Standby: 10.21.56.11: TX [181] Ping
+06/05/14 09:20:44:492 SM: Standby: 10.21.56.11: RX [181] Ack
+06/05/14 09:21:14:184 SM: Standby: 10.21.56.11: TX [182] Ping
+06/05/14 09:21:14:698 SM: Standby: 10.21.56.11: RX [182] Ack
+06/05/14 09:21:44:393 SM: Standby: 10.21.56.11: TX [183] Ping
+06/05/14 09:21:44:408 SM: Standby: 10.21.56.11: RX [183] Ack
+06/05/14 09:22:14:602 SM: Standby: 10.21.56.11: TX [184] Ping
+06/05/14 09:22:15:116 SM: Standby: 10.21.56.11: RX [184] Ack
+06/05/14 09:22:44:813 SM: Standby: 10.21.56.11: TX [185] Ping
+06/05/14 09:22:45:324 SM: Standby: 10.21.56.11: RX [185] Ack
+06/05/14 09:23:15:019 SM: Standby: 10.21.56.11: TX [186] Ping
+06/05/14 09:23:15:626 SM: Standby: 10.21.56.11: TX [186] Ping
+06/05/14 09:23:16:047 SM: Standby: 10.21.56.11: RX [186] Ack
+06/05/14 09:23:16:049 SM: Standby: 10.21.56.11: RX [186] Ack
+06/05/14 09:23:45:228 SM: Standby: 10.21.56.11: TX [187] Ping
+06/05/14 09:23:45:233 SM: Standby: 10.21.56.11: RX [187] Ack
+06/05/14 09:24:15:436 SM: Standby: 10.21.56.11: TX [188] Ping
+06/05/14 09:24:15:442 SM: Standby: 10.21.56.11: RX [188] Ack
+06/05/14 09:24:45:646 SM: Standby: 10.21.56.11: TX [189] Ping
+06/05/14 09:24:45:655 SM: Standby: 10.21.56.11: RX [189] Ack
+06/05/14 09:25:15:854 SM: Standby: 10.21.56.11: TX [190] Ping
+06/05/14 09:25:15:860 SM: Standby: 10.21.56.11: RX [190] Ack
+06/05/14 09:25:46:062 SM: Standby: 10.21.56.11: TX [191] Ping
+06/05/14 09:25:46:576 SM: Standby: 10.21.56.11: RX [191] Ack
+06/05/14 09:26:16:271 SM: Standby: 10.21.56.11: TX [192] Ping
+06/05/14 09:26:16:876 SM: Standby: 10.21.56.11: TX [192] Ping
+06/05/14 09:26:17:298 SM: Standby: 10.21.56.11: RX [192] Ack
+06/05/14 09:26:17:301 SM: Standby: 10.21.56.11: RX [192] Ack
+06/05/14 09:26:46:480 SM: Standby: 10.21.56.11: TX [193] Ping
+06/05/14 09:26:46:994 SM: Standby: 10.21.56.11: RX [193] Ack
+06/05/14 09:27:16:688 SM: Standby: 10.21.56.11: TX [194] Ping
+06/05/14 09:27:17:202 SM: Standby: 10.21.56.11: RX [194] Ack
+06/05/14 09:27:46:899 SM: Standby: 10.21.56.11: TX [195] Ping
+06/05/14 09:27:46:912 SM: Standby: 10.21.56.11: RX [195] Ack
+06/05/14 09:28:17:106 SM: Standby: 10.21.56.11: TX [196] Ping
+06/05/14 09:28:17:111 SM: Standby: 10.21.56.11: RX [196] Ack
+06/05/14 09:28:47:315 SM: Standby: 10.21.56.11: TX [197] Ping
+06/05/14 09:28:47:326 SM: Standby: 10.21.56.11: RX [197] Ack
+06/05/14 09:29:17:625 SM: Standby: 10.21.56.11: TX [198] Ping
+06/05/14 09:29:17:631 SM: Standby: 10.21.56.11: RX [198] Ack
+06/05/14 09:29:47:834 SM: Standby: 10.21.56.11: TX [199] Ping
+06/05/14 09:29:47:842 SM: Standby: 10.21.56.11: RX [199] Ack
+06/05/14 09:30:18:043 SM: Standby: 10.21.56.11: TX [200] Ping
+06/05/14 09:30:18:050 SM: Standby: 10.21.56.11: RX [200] Ack
+06/05/14 09:30:48:252 SM: Standby: 10.21.56.11: TX [201] Ping
+06/05/14 09:30:48:263 SM: Standby: 10.21.56.11: RX [201] Ack
+06/05/14 09:31:18:460 SM: Standby: 10.21.56.11: TX [202] Ping
+06/05/14 09:31:18:465 SM: Standby: 10.21.56.11: RX [202] Ack
+06/05/14 09:31:48:669 SM: Standby: 10.21.56.11: TX [203] Ping
+06/05/14 09:31:49:186 SM: Standby: 10.21.56.11: RX [203] Ack
+06/05/14 09:32:18:877 SM: Standby: 10.21.56.11: TX [204] Ping
+06/05/14 09:32:18:883 SM: Standby: 10.21.56.11: RX [204] Ack
+06/05/14 09:32:49:107 SM: Standby: 10.21.56.11: TX [205] Ping
+06/05/14 09:32:49:115 SM: Standby: 10.21.56.11: RX [205] Ack
+06/05/14 09:33:19:397 SM: Standby: 10.21.56.11: TX [206] Ping
+06/05/14 09:33:19:911 SM: Standby: 10.21.56.11: RX [206] Ack
+06/05/14 09:33:49:708 SM: Standby: 10.21.56.11: TX [207] Ping
+06/05/14 09:33:49:718 SM: Standby: 10.21.56.11: RX [207] Ack
+06/05/14 09:34:19:917 SM: Standby: 10.21.56.11: TX [208] Ping
+06/05/14 09:34:20:430 SM: Standby: 10.21.56.11: RX [208] Ack
+06/05/14 09:34:50:126 SM: Standby: 10.21.56.11: TX [209] Ping
+06/05/14 09:34:50:644 SM: Standby: 10.21.56.11: RX [209] Ack
+06/05/14 09:35:02:418 SM: Standby: 10.21.56.11: TX [210] BinaryLog
+06/05/14 09:35:02:928 SM: Standby: 10.21.56.11: RX [210] Ack
+06/05/14 09:35:20:334 UI: WriteInventoryRecord: iVoltage=3764 sText=3764:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 09:35:20:334 SM: Standby: 10.21.56.11: TX [211] Ping
+06/05/14 09:35:20:340 SM: Standby: 10.21.56.11: RX [211] Ack
+06/05/14 09:35:20:341 SM: Standby: 10.21.56.11: TX [212] Log
+06/05/14 09:35:20:345 SM: Standby: 10.21.56.11: RX [212] Ack
+06/05/14 09:35:50:542 SM: Standby: 10.21.56.11: TX [213] Ping
+06/05/14 09:35:50:553 SM: Standby: 10.21.56.11: RX [213] Ack
+06/05/14 09:36:20:751 SM: Standby: 10.21.56.11: TX [214] Ping
+06/05/14 09:36:20:761 SM: Standby: 10.21.56.11: RX [214] Ack
+06/05/14 09:36:50:960 SM: Standby: 10.21.56.11: TX [215] Ping
+06/05/14 09:36:51:475 SM: Standby: 10.21.56.11: RX [215] Ack
+06/05/14 09:37:21:168 SM: Standby: 10.21.56.11: TX [216] Ping
+06/05/14 09:37:21:174 SM: Standby: 10.21.56.11: RX [216] Ack
+06/05/14 09:37:51:399 SM: Standby: 10.21.56.11: TX [217] Ping
+06/05/14 09:37:51:893 SM: Standby: 10.21.56.11: RX [217] Ack
+06/05/14 09:38:21:586 SM: Standby: 10.21.56.11: TX [218] Ping
+06/05/14 09:38:21:591 SM: Standby: 10.21.56.11: RX [218] Ack
+06/05/14 09:38:51:795 SM: Standby: 10.21.56.11: TX [219] Ping
+06/05/14 09:38:51:803 SM: Standby: 10.21.56.11: RX [219] Ack
+06/05/14 09:39:22:003 SM: Standby: 10.21.56.11: TX [220] Ping
+06/05/14 09:39:22:008 SM: Standby: 10.21.56.11: RX [220] Ack
+06/05/14 09:39:52:212 SM: Standby: 10.21.56.11: TX [221] Ping
+06/05/14 09:39:52:728 SM: Standby: 10.21.56.11: RX [221] Ack
+06/05/14 09:40:22:420 SM: Standby: 10.21.56.11: TX [222] Ping
+06/05/14 09:40:22:934 SM: Standby: 10.21.56.11: RX [222] Ack
+06/05/14 09:40:52:629 SM: Standby: 10.21.56.11: TX [223] Ping
+06/05/14 09:40:52:639 SM: Standby: 10.21.56.11: RX [223] Ack
+06/05/14 09:41:22:837 SM: Standby: 10.21.56.11: TX [224] Ping
+06/05/14 09:41:22:843 SM: Standby: 10.21.56.11: RX [224] Ack
+06/05/14 09:41:53:046 SM: Standby: 10.21.56.11: TX [225] Ping
+06/05/14 09:41:53:055 SM: Standby: 10.21.56.11: RX [225] Ack
+06/05/14 09:42:23:254 SM: Standby: 10.21.56.11: TX [226] Ping
+06/05/14 09:42:23:260 SM: Standby: 10.21.56.11: RX [226] Ack
+06/05/14 09:42:53:478 SM: Standby: 10.21.56.11: TX [227] Ping
+06/05/14 09:42:53:490 SM: Standby: 10.21.56.11: RX [227] Ack
+06/05/14 09:43:23:672 SM: Standby: 10.21.56.11: TX [228] Ping
+06/05/14 09:43:23:685 SM: Standby: 10.21.56.11: RX [228] Ack
+06/05/14 09:43:53:881 SM: Standby: 10.21.56.11: TX [229] Ping
+06/05/14 09:43:54:395 SM: Standby: 10.21.56.11: RX [229] Ack
+06/05/14 09:44:24:089 SM: Standby: 10.21.56.11: TX [230] Ping
+06/05/14 09:44:24:095 SM: Standby: 10.21.56.11: RX [230] Ack
+06/05/14 09:44:54:298 SM: Standby: 10.21.56.11: TX [231] Ping
+06/05/14 09:44:54:310 SM: Standby: 10.21.56.11: RX [231] Ack
+06/05/14 09:45:24:506 SM: Standby: 10.21.56.11: TX [232] Ping
+06/05/14 09:45:24:512 SM: Standby: 10.21.56.11: RX [232] Ack
+06/05/14 09:45:54:715 SM: Standby: 10.21.56.11: TX [233] Ping
+06/05/14 09:45:54:721 SM: Standby: 10.21.56.11: RX [233] Ack
+06/05/14 09:46:24:923 SM: Standby: 10.21.56.11: TX [234] Ping
+06/05/14 09:46:24:935 SM: Standby: 10.21.56.11: RX [234] Ack
+06/05/14 09:46:55:133 SM: Standby: 10.21.56.11: TX [235] Ping
+06/05/14 09:46:55:139 SM: Standby: 10.21.56.11: RX [235] Ack
+06/05/14 09:47:25:341 SM: Standby: 10.21.56.11: TX [236] Ping
+06/05/14 09:47:25:854 SM: Standby: 10.21.56.11: RX [236] Ack
+06/05/14 09:47:55:561 SM: Standby: 10.21.56.11: TX [237] Ping
+06/05/14 09:47:56:066 SM: Standby: 10.21.56.11: RX [237] Ack
+06/05/14 09:48:25:758 SM: Standby: 10.21.56.11: TX [238] Ping
+06/05/14 09:48:26:271 SM: Standby: 10.21.56.11: RX [238] Ack
+06/05/14 09:48:55:967 SM: Standby: 10.21.56.11: TX [239] Ping
+06/05/14 09:48:55:975 SM: Standby: 10.21.56.11: RX [239] Ack
+06/05/14 09:49:26:175 SM: Standby: 10.21.56.11: TX [240] Ping
+06/05/14 09:49:26:181 SM: Standby: 10.21.56.11: RX [240] Ack
+06/05/14 09:49:56:384 SM: Standby: 10.21.56.11: TX [241] Ping
+06/05/14 09:49:56:899 SM: Standby: 10.21.56.11: RX [241] Ack
+06/05/14 09:50:03:563 SM: Standby: 10.21.56.11: TX [242] BinaryLog
+06/05/14 09:50:04:066 SM: Standby: 10.21.56.11: RX [242] Ack
+06/05/14 09:50:26:593 UI: WriteInventoryRecord: iVoltage=3762 sText=3762:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 09:50:26:593 SM: Standby: 10.21.56.11: TX [243] Ping
+06/05/14 09:50:26:599 SM: Standby: 10.21.56.11: RX [243] Ack
+06/05/14 09:50:26:600 SM: Standby: 10.21.56.11: TX [244] Log
+06/05/14 09:50:26:604 SM: Standby: 10.21.56.11: RX [244] Ack
+06/05/14 09:50:56:801 SM: Standby: 10.21.56.11: TX [245] Ping
+06/05/14 09:50:57:317 SM: Standby: 10.21.56.11: RX [245] Ack
+06/05/14 09:51:27:009 SM: Standby: 10.21.56.11: TX [246] Ping
+06/05/14 09:51:27:522 SM: Standby: 10.21.56.11: RX [246] Ack
+06/05/14 09:51:57:218 SM: Standby: 10.21.56.11: TX [247] Ping
+06/05/14 09:51:57:227 SM: Standby: 10.21.56.11: RX [247] Ack
+06/05/14 09:52:27:427 SM: Standby: 10.21.56.11: TX [248] Ping
+06/05/14 09:52:27:941 SM: Standby: 10.21.56.11: RX [248] Ack
+06/05/14 09:52:57:754 SM: Standby: 10.21.56.11: TX [249] Ping
+06/05/14 09:52:58:360 SM: Standby: 10.21.56.11: TX [249] Ping
+06/05/14 09:52:58:767 SM: Standby: 10.21.56.11: RX [249] Ack
+06/05/14 09:52:58:769 SM: Standby: 10.21.56.11: RX [249] Ack
+06/05/14 09:53:27:946 SM: Standby: 10.21.56.11: TX [250] Ping
+06/05/14 09:53:27:952 SM: Standby: 10.21.56.11: RX [250] Ack
+06/05/14 09:53:58:155 SM: Standby: 10.21.56.11: TX [251] Ping
+06/05/14 09:53:58:668 SM: Standby: 10.21.56.11: RX [251] Ack
+06/05/14 09:54:28:364 SM: Standby: 10.21.56.11: TX [252] Ping
+06/05/14 09:54:28:373 SM: Standby: 10.21.56.11: RX [252] Ack
+06/05/14 09:54:58:573 SM: Standby: 10.21.56.11: TX [253] Ping
+06/05/14 09:54:58:579 SM: Standby: 10.21.56.11: RX [253] Ack
+06/05/14 09:55:28:781 SM: Standby: 10.21.56.11: TX [254] Ping
+06/05/14 09:55:28:786 SM: Standby: 10.21.56.11: RX [254] Ack
+06/05/14 09:55:59:092 SM: Standby: 10.21.56.11: TX [255] Ping
+06/05/14 09:55:59:607 SM: Standby: 10.21.56.11: RX [255] Ack
+06/05/14 09:56:29:300 SM: Standby: 10.21.56.11: TX [256] Ping
+06/05/14 09:56:29:306 SM: Standby: 10.21.56.11: RX [256] Ack
+06/05/14 09:56:59:510 SM: Standby: 10.21.56.11: TX [257] Ping
+06/05/14 09:56:59:515 SM: Standby: 10.21.56.11: RX [257] Ack
+06/05/14 09:57:29:718 SM: Standby: 10.21.56.11: TX [258] Ping
+06/05/14 09:57:30:234 SM: Standby: 10.21.56.11: RX [258] Ack
+06/05/14 09:57:59:938 SM: Standby: 10.21.56.11: TX [259] Ping
+06/05/14 09:58:00:440 SM: Standby: 10.21.56.11: RX [259] Ack
+06/05/14 09:58:30:135 SM: Standby: 10.21.56.11: TX [260] Ping
+06/05/14 09:58:30:141 SM: Standby: 10.21.56.11: RX [260] Ack
+06/05/14 09:59:00:345 SM: Standby: 10.21.56.11: TX [261] Ping
+06/05/14 09:59:00:860 SM: Standby: 10.21.56.11: RX [261] Ack
+06/05/14 09:59:30:553 SM: Standby: 10.21.56.11: TX [262] Ping
+06/05/14 09:59:31:066 SM: Standby: 10.21.56.11: RX [262] Ack
+06/05/14 10:00:00:761 SM: Standby: 10.21.56.11: TX [263] Ping
+06/05/14 10:00:00:771 SM: Standby: 10.21.56.11: RX [263] Ack
+06/05/14 10:00:31:072 SM: Standby: 10.21.56.11: TX [264] Ping
+06/05/14 10:00:31:078 SM: Standby: 10.21.56.11: RX [264] Ack
+06/05/14 10:01:01:384 SM: Standby: 10.21.56.11: TX [265] Ping
+06/05/14 10:01:01:900 SM: Standby: 10.21.56.11: RX [265] Ack
+06/05/14 10:01:31:591 SM: Standby: 10.21.56.11: TX [266] Ping
+06/05/14 10:01:31:597 SM: Standby: 10.21.56.11: RX [266] Ack
+06/05/14 10:02:01:800 SM: Standby: 10.21.56.11: TX [267] Ping
+06/05/14 10:02:01:811 SM: Standby: 10.21.56.11: RX [267] Ack
+06/05/14 10:02:32:009 SM: Standby: 10.21.56.11: TX [268] Ping
+06/05/14 10:02:32:018 SM: Standby: 10.21.56.11: RX [268] Ack
+06/05/14 10:03:02:324 SM: Standby: 10.21.56.11: TX [269] Ping
+06/05/14 10:03:02:930 SM: Standby: 10.21.56.11: TX [269] Ping
+06/05/14 10:03:03:347 SM: Standby: 10.21.56.11: RX [269] Ack
+06/05/14 10:03:03:349 SM: Standby: 10.21.56.11: RX [269] Ack
+06/05/14 10:03:32:528 SM: Standby: 10.21.56.11: TX [270] Ping
+06/05/14 10:03:32:533 SM: Standby: 10.21.56.11: RX [270] Ack
+06/05/14 10:04:02:737 SM: Standby: 10.21.56.11: TX [271] Ping
+06/05/14 10:04:02:748 SM: Standby: 10.21.56.11: RX [271] Ack
+06/05/14 10:04:32:945 SM: Standby: 10.21.56.11: TX [272] Ping
+06/05/14 10:04:32:951 SM: Standby: 10.21.56.11: RX [272] Ack
+06/05/14 10:05:00:087 SM: Standby: 10.21.56.11: TX [273] BinaryLog
+06/05/14 10:05:00:599 SM: Standby: 10.21.56.11: RX [273] Ack
+06/05/14 10:05:03:154 SM: Standby: 10.21.56.11: TX [274] Ping
+06/05/14 10:05:03:667 SM: Standby: 10.21.56.11: RX [274] Ack
+06/05/14 10:05:33:362 UI: WriteInventoryRecord: iVoltage=3762 sText=3762:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 10:05:33:363 SM: Standby: 10.21.56.11: TX [275] Ping
+06/05/14 10:05:33:876 SM: Standby: 10.21.56.11: RX [275] Ack
+06/05/14 10:05:33:876 SM: Standby: 10.21.56.11: TX [276] Log
+06/05/14 10:05:33:881 SM: Standby: 10.21.56.11: RX [276] Ack
+06/05/14 10:06:03:673 SM: Standby: 10.21.56.11: TX [277] Ping
+06/05/14 10:06:03:686 SM: Standby: 10.21.56.11: RX [277] Ack
+06/05/14 10:06:33:882 SM: Standby: 10.21.56.11: TX [278] Ping
+06/05/14 10:06:33:887 SM: Standby: 10.21.56.11: RX [278] Ack
+06/05/14 10:07:04:091 SM: Standby: 10.21.56.11: TX [279] Ping
+06/05/14 10:07:04:100 SM: Standby: 10.21.56.11: RX [279] Ack
+06/05/14 10:07:34:299 SM: Standby: 10.21.56.11: TX [280] Ping
+06/05/14 10:07:34:304 SM: Standby: 10.21.56.11: RX [280] Ack
+06/05/14 10:08:04:529 SM: Standby: 10.21.56.11: TX [281] Ping
+06/05/14 10:08:05:024 SM: Standby: 10.21.56.11: RX [281] Ack
+06/05/14 10:08:34:716 SM: Standby: 10.21.56.11: TX [282] Ping
+06/05/14 10:08:34:721 SM: Standby: 10.21.56.11: RX [282] Ack
+06/05/14 10:09:04:925 SM: Standby: 10.21.56.11: TX [283] Ping
+06/05/14 10:09:04:936 SM: Standby: 10.21.56.11: RX [283] Ack
+06/05/14 10:09:35:133 SM: Standby: 10.21.56.11: TX [284] Ping
+06/05/14 10:09:35:139 SM: Standby: 10.21.56.11: RX [284] Ack
+06/05/14 10:10:05:342 SM: Standby: 10.21.56.11: TX [285] Ping
+06/05/14 10:10:05:353 SM: Standby: 10.21.56.11: RX [285] Ack
+06/05/14 10:10:30:430 ER resets internal memory buffer after 1048454 bytes written
+06/05/14 10:10:35:550 SM: Standby: 10.21.56.11: TX [286] Ping
+06/05/14 10:10:35:558 SM: Standby: 10.21.56.11: RX [286] Ack
+06/05/14 10:11:05:760 SM: Standby: 10.21.56.11: TX [287] Ping
+06/05/14 10:11:05:772 SM: Standby: 10.21.56.11: RX [287] Ack
+06/05/14 10:11:35:968 SM: Standby: 10.21.56.11: TX [288] Ping
+06/05/14 10:11:36:481 SM: Standby: 10.21.56.11: RX [288] Ack
+06/05/14 10:12:06:176 SM: Standby: 10.21.56.11: TX [289] Ping
+06/05/14 10:12:06:693 SM: Standby: 10.21.56.11: RX [289] Ack
+06/05/14 10:12:35:878 FWH: group 1 received.
+06/05/14 10:12:35:882 FWH: group key 2 sent
+06/05/14 10:12:36:385 SM: Standby: 10.21.56.11: TX [290] Ping
+06/05/14 10:12:36:391 SM: Standby: 10.21.56.11: RX [290] Ack
+06/05/14 10:12:36:392 SM: Standby: 10.21.56.11: TX [291] BinaryLog
+06/05/14 10:12:36:396 SM: Standby: 10.21.56.11: RX [291] Ack
+06/05/14 10:13:06:615 SM: Standby: 10.21.56.11: TX [292] Ping
+06/05/14 10:13:06:622 SM: Standby: 10.21.56.11: RX [292] Ack
+06/05/14 10:13:36:802 SM: Standby: 10.21.56.11: TX [293] Ping
+06/05/14 10:13:37:315 SM: Standby: 10.21.56.11: RX [293] Ack
+06/05/14 10:14:07:011 SM: Standby: 10.21.56.11: TX [294] Ping
+06/05/14 10:14:07:016 SM: Standby: 10.21.56.11: RX [294] Ack
+06/05/14 10:14:37:219 SM: Standby: 10.21.56.11: TX [295] Ping
+06/05/14 10:14:37:234 SM: Standby: 10.21.56.11: RX [295] Ack
+06/05/14 10:15:07:428 SM: Standby: 10.21.56.11: TX [296] Ping
+06/05/14 10:15:07:434 SM: Standby: 10.21.56.11: RX [296] Ack
+06/05/14 10:15:37:636 SM: Standby: 10.21.56.11: TX [297] Ping
+06/05/14 10:15:37:642 SM: Standby: 10.21.56.11: RX [297] Ack
+06/05/14 10:16:07:845 SM: Standby: 10.21.56.11: TX [298] Ping
+06/05/14 10:16:07:857 SM: Standby: 10.21.56.11: RX [298] Ack
+06/05/14 10:16:38:054 SM: Standby: 10.21.56.11: TX [299] Ping
+06/05/14 10:16:38:567 SM: Standby: 10.21.56.11: RX [299] Ack
+06/05/14 10:17:08:262 SM: Standby: 10.21.56.11: TX [300] Ping
+06/05/14 10:17:08:268 SM: Standby: 10.21.56.11: RX [300] Ack
+06/05/14 10:17:38:471 SM: Standby: 10.21.56.11: TX [301] Ping
+06/05/14 10:17:38:987 SM: Standby: 10.21.56.11: RX [301] Ack
+06/05/14 10:18:08:691 SM: Standby: 10.21.56.11: TX [302] Ping
+06/05/14 10:18:09:194 SM: Standby: 10.21.56.11: RX [302] Ack
+06/05/14 10:18:38:888 SM: Standby: 10.21.56.11: TX [303] Ping
+06/05/14 10:18:39:401 SM: Standby: 10.21.56.11: RX [303] Ack
+06/05/14 10:19:09:097 SM: Standby: 10.21.56.11: TX [304] Ping
+06/05/14 10:19:09:108 SM: Standby: 10.21.56.11: RX [304] Ack
+06/05/14 10:19:39:305 SM: Standby: 10.21.56.11: TX [305] Ping
+06/05/14 10:19:39:311 SM: Standby: 10.21.56.11: RX [305] Ack
+06/05/14 10:20:01:329 SM: Standby: 10.21.56.11: TX [306] BinaryLog
+06/05/14 10:20:01:838 SM: Standby: 10.21.56.11: RX [306] Ack
+06/05/14 10:20:09:514 SM: Standby: 10.21.56.11: TX [307] Ping
+06/05/14 10:20:09:522 SM: Standby: 10.21.56.11: RX [307] Ack
+06/05/14 10:20:39:723 UI: WriteInventoryRecord: iVoltage=3762 sText=3762:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 10:20:39:723 SM: Standby: 10.21.56.11: TX [308] Ping
+06/05/14 10:20:40:238 SM: Standby: 10.21.56.11: RX [308] Ack
+06/05/14 10:20:40:238 SM: Standby: 10.21.56.11: TX [309] Log
+06/05/14 10:20:40:242 SM: Standby: 10.21.56.11: RX [309] Ack
+06/05/14 10:21:09:932 SM: Standby: 10.21.56.11: TX [310] Ping
+06/05/14 10:21:09:937 SM: Standby: 10.21.56.11: RX [310] Ack
+06/05/14 10:21:40:242 SM: Standby: 10.21.56.11: TX [311] Ping
+06/05/14 10:21:40:256 SM: Standby: 10.21.56.11: RX [311] Ack
+06/05/14 10:22:10:451 SM: Standby: 10.21.56.11: TX [312] Ping
+06/05/14 10:22:10:457 SM: Standby: 10.21.56.11: RX [312] Ack
+06/05/14 10:22:40:659 SM: Standby: 10.21.56.11: TX [313] Ping
+06/05/14 10:22:41:177 SM: Standby: 10.21.56.11: RX [313] Ack
+06/05/14 10:23:10:872 SM: Standby: 10.21.56.11: TX [314] Ping
+06/05/14 10:23:11:385 SM: Standby: 10.21.56.11: RX [314] Ack
+06/05/14 10:23:41:076 SM: Standby: 10.21.56.11: TX [315] Ping
+06/05/14 10:23:41:081 SM: Standby: 10.21.56.11: RX [315] Ack
+06/05/14 10:24:11:285 SM: Standby: 10.21.56.11: TX [316] Ping
+06/05/14 10:24:11:291 SM: Standby: 10.21.56.11: RX [316] Ack
+06/05/14 10:24:41:494 SM: Standby: 10.21.56.11: TX [317] Ping
+06/05/14 10:24:41:506 SM: Standby: 10.21.56.11: RX [317] Ack
+06/05/14 10:25:11:703 SM: Standby: 10.21.56.11: TX [318] Ping
+06/05/14 10:25:11:711 SM: Standby: 10.21.56.11: RX [318] Ack
+06/05/14 10:25:41:911 SM: Standby: 10.21.56.11: TX [319] Ping
+06/05/14 10:25:42:424 SM: Standby: 10.21.56.11: RX [319] Ack
+06/05/14 10:26:12:222 SM: Standby: 10.21.56.11: TX [320] Ping
+06/05/14 10:26:12:238 SM: Standby: 10.21.56.11: RX [320] Ack
+06/05/14 10:26:42:430 SM: Standby: 10.21.56.11: TX [321] Ping
+06/05/14 10:26:42:944 SM: Standby: 10.21.56.11: RX [321] Ack
+06/05/14 10:27:12:640 SM: Standby: 10.21.56.11: TX [322] Ping
+06/05/14 10:27:12:645 SM: Standby: 10.21.56.11: RX [322] Ack
+06/05/14 10:27:42:848 SM: Standby: 10.21.56.11: TX [323] Ping
+06/05/14 10:27:43:364 SM: Standby: 10.21.56.11: RX [323] Ack
+06/05/14 10:28:13:059 SM: Standby: 10.21.56.11: TX [324] Ping
+06/05/14 10:28:13:064 SM: Standby: 10.21.56.11: RX [324] Ack
+06/05/14 10:28:43:265 SM: Standby: 10.21.56.11: TX [325] Ping
+06/05/14 10:28:43:778 SM: Standby: 10.21.56.11: RX [325] Ack
+06/05/14 10:29:13:474 SM: Standby: 10.21.56.11: TX [326] Ping
+06/05/14 10:29:13:483 SM: Standby: 10.21.56.11: RX [326] Ack
+06/05/14 10:29:43:682 SM: Standby: 10.21.56.11: TX [327] Ping
+06/05/14 10:29:44:195 SM: Standby: 10.21.56.11: RX [327] Ack
+06/05/14 10:30:13:891 SM: Standby: 10.21.56.11: TX [328] Ping
+06/05/14 10:30:14:406 SM: Standby: 10.21.56.11: RX [328] Ack
+06/05/14 10:30:44:099 SM: Standby: 10.21.56.11: TX [329] Ping
+06/05/14 10:30:44:107 SM: Standby: 10.21.56.11: RX [329] Ack
+06/05/14 10:31:14:308 SM: Standby: 10.21.56.11: TX [330] Ping
+06/05/14 10:31:14:316 SM: Standby: 10.21.56.11: RX [330] Ack
+06/05/14 10:31:44:516 SM: Standby: 10.21.56.11: TX [331] Ping
+06/05/14 10:31:45:029 SM: Standby: 10.21.56.11: RX [331] Ack
+06/05/14 10:32:14:725 SM: Standby: 10.21.56.11: TX [332] Ping
+06/05/14 10:32:14:733 SM: Standby: 10.21.56.11: RX [332] Ack
+06/05/14 10:32:44:933 SM: Standby: 10.21.56.11: TX [333] Ping
+06/05/14 10:32:45:447 SM: Standby: 10.21.56.11: RX [333] Ack
+06/05/14 10:33:15:144 SM: Standby: 10.21.56.11: TX [334] Ping
+06/05/14 10:33:15:656 SM: Standby: 10.21.56.11: RX [334] Ack
+06/05/14 10:33:45:350 SM: Standby: 10.21.56.11: TX [335] Ping
+06/05/14 10:33:45:359 SM: Standby: 10.21.56.11: RX [335] Ack
+06/05/14 10:34:15:559 SM: Standby: 10.21.56.11: TX [336] Ping
+06/05/14 10:34:16:072 SM: Standby: 10.21.56.11: RX [336] Ack
+06/05/14 10:34:45:870 SM: Standby: 10.21.56.11: TX [337] Ping
+06/05/14 10:34:46:383 SM: Standby: 10.21.56.11: RX [337] Ack
+06/05/14 10:35:02:774 SM: Standby: 10.21.56.11: TX [338] BinaryLog
+06/05/14 10:35:03:282 SM: Standby: 10.21.56.11: RX [338] Ack
+06/05/14 10:35:16:079 SM: Standby: 10.21.56.11: TX [339] Ping
+06/05/14 10:35:16:085 SM: Standby: 10.21.56.11: RX [339] Ack
+06/05/14 10:35:46:287 UI: WriteInventoryRecord: iVoltage=3761 sText=3761:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 10:35:46:288 SM: Standby: 10.21.56.11: TX [340] Ping
+06/05/14 10:35:46:801 SM: Standby: 10.21.56.11: RX [340] Ack
+06/05/14 10:35:46:801 SM: Standby: 10.21.56.11: TX [341] Log
+06/05/14 10:35:46:805 SM: Standby: 10.21.56.11: RX [341] Ack
+06/05/14 10:36:16:496 SM: Standby: 10.21.56.11: TX [342] Ping
+06/05/14 10:36:16:507 SM: Standby: 10.21.56.11: RX [342] Ack
+06/05/14 10:36:46:704 SM: Standby: 10.21.56.11: TX [343] Ping
+06/05/14 10:36:46:710 SM: Standby: 10.21.56.11: RX [343] Ack
+06/05/14 10:37:16:913 SM: Standby: 10.21.56.11: TX [344] Ping
+06/05/14 10:37:16:919 SM: Standby: 10.21.56.11: RX [344] Ack
+06/05/14 10:37:47:121 SM: Standby: 10.21.56.11: TX [345] Ping
+06/05/14 10:37:47:130 SM: Standby: 10.21.56.11: RX [345] Ack
+06/05/14 10:38:17:332 SM: Standby: 10.21.56.11: TX [346] Ping
+06/05/14 10:38:17:338 SM: Standby: 10.21.56.11: RX [346] Ack
+06/05/14 10:38:47:538 SM: Standby: 10.21.56.11: TX [347] Ping
+06/05/14 10:38:47:544 SM: Standby: 10.21.56.11: RX [347] Ack
+06/05/14 10:39:17:748 SM: Standby: 10.21.56.11: TX [348] Ping
+06/05/14 10:39:17:756 SM: Standby: 10.21.56.11: RX [348] Ack
+06/05/14 10:39:47:956 SM: Standby: 10.21.56.11: TX [349] Ping
+06/05/14 10:39:47:961 SM: Standby: 10.21.56.11: RX [349] Ack
+06/05/14 10:40:18:164 SM: Standby: 10.21.56.11: TX [350] Ping
+06/05/14 10:40:18:677 SM: Standby: 10.21.56.11: RX [350] Ack
+06/05/14 10:40:48:373 SM: Standby: 10.21.56.11: TX [351] Ping
+06/05/14 10:40:48:381 SM: Standby: 10.21.56.11: RX [351] Ack
+06/05/14 10:41:18:582 SM: Standby: 10.21.56.11: TX [352] Ping
+06/05/14 10:41:18:588 SM: Standby: 10.21.56.11: RX [352] Ack
+06/05/14 10:41:48:892 SM: Standby: 10.21.56.11: TX [353] Ping
+06/05/14 10:41:48:897 SM: Standby: 10.21.56.11: RX [353] Ack
+06/05/14 10:42:19:101 SM: Standby: 10.21.56.11: TX [354] Ping
+06/05/14 10:42:19:617 SM: Standby: 10.21.56.11: RX [354] Ack
+06/05/14 10:42:49:309 SM: Standby: 10.21.56.11: TX [355] Ping
+06/05/14 10:42:49:823 SM: Standby: 10.21.56.11: RX [355] Ack
+06/05/14 10:43:19:522 SM: Standby: 10.21.56.11: TX [356] Ping
+06/05/14 10:43:20:032 SM: Standby: 10.21.56.11: RX [356] Ack
+06/05/14 10:43:49:726 SM: Standby: 10.21.56.11: TX [357] Ping
+06/05/14 10:43:50:243 SM: Standby: 10.21.56.11: RX [357] Ack
+06/05/14 10:44:19:935 SM: Standby: 10.21.56.11: TX [358] Ping
+06/05/14 10:44:19:941 SM: Standby: 10.21.56.11: RX [358] Ack
+06/05/14 10:44:50:143 SM: Standby: 10.21.56.11: TX [359] Ping
+06/05/14 10:44:50:149 SM: Standby: 10.21.56.11: RX [359] Ack
+06/05/14 10:45:20:353 SM: Standby: 10.21.56.11: TX [360] Ping
+06/05/14 10:45:20:868 SM: Standby: 10.21.56.11: RX [360] Ack
+06/05/14 10:45:50:561 SM: Standby: 10.21.56.11: TX [361] Ping
+06/05/14 10:45:50:567 SM: Standby: 10.21.56.11: RX [361] Ack
+06/05/14 10:46:20:769 SM: Standby: 10.21.56.11: TX [362] Ping
+06/05/14 10:46:20:775 SM: Standby: 10.21.56.11: RX [362] Ack
+06/05/14 10:46:50:978 SM: Standby: 10.21.56.11: TX [363] Ping
+06/05/14 10:46:50:990 SM: Standby: 10.21.56.11: RX [363] Ack
+06/05/14 10:47:21:187 SM: Standby: 10.21.56.11: TX [364] Ping
+06/05/14 10:47:21:193 SM: Standby: 10.21.56.11: RX [364] Ack
+06/05/14 10:47:51:395 SM: Standby: 10.21.56.11: TX [365] Ping
+06/05/14 10:47:51:401 SM: Standby: 10.21.56.11: RX [365] Ack
+06/05/14 10:48:21:625 SM: Standby: 10.21.56.11: TX [366] Ping
+06/05/14 10:48:22:227 SM: Standby: 10.21.56.11: TX [366] Ping
+06/05/14 10:48:22:629 SM: Standby: 10.21.56.11: RX [366] Ack
+06/05/14 10:48:22:631 SM: Standby: 10.21.56.11: RX [366] Ack
+06/05/14 10:48:51:812 SM: Standby: 10.21.56.11: TX [367] Ping
+06/05/14 10:48:51:817 SM: Standby: 10.21.56.11: RX [367] Ack
+06/05/14 10:49:22:021 SM: Standby: 10.21.56.11: TX [368] Ping
+06/05/14 10:49:22:027 SM: Standby: 10.21.56.11: RX [368] Ack
+06/05/14 10:49:52:229 SM: Standby: 10.21.56.11: TX [369] Ping
+06/05/14 10:49:52:745 SM: Standby: 10.21.56.11: RX [369] Ack
+06/05/14 10:49:58:889 SM: Standby: 10.21.56.11: TX [370] BinaryLog
+06/05/14 10:49:58:894 SM: Standby: 10.21.56.11: RX [370] Ack
+06/05/14 10:50:22:438 SM: Standby: 10.21.56.11: TX [371] Ping
+06/05/14 10:50:22:443 SM: Standby: 10.21.56.11: RX [371] Ack
+06/05/14 10:50:52:647 UI: WriteInventoryRecord: iVoltage=3756 sText=3756:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 10:50:52:647 SM: Standby: 10.21.56.11: TX [372] Ping
+06/05/14 10:50:52:655 SM: Standby: 10.21.56.11: RX [372] Ack
+06/05/14 10:50:52:656 SM: Standby: 10.21.56.11: TX [373] Log
+06/05/14 10:50:52:663 SM: Standby: 10.21.56.11: RX [373] Ack
+06/05/14 10:51:22:855 SM: Standby: 10.21.56.11: TX [374] Ping
+06/05/14 10:51:22:862 SM: Standby: 10.21.56.11: RX [374] Ack
+06/05/14 10:51:53:063 SM: Standby: 10.21.56.11: TX [375] Ping
+06/05/14 10:51:53:579 SM: Standby: 10.21.56.11: RX [375] Ack
+06/05/14 10:52:23:272 SM: Standby: 10.21.56.11: TX [376] Ping
+06/05/14 10:52:23:786 SM: Standby: 10.21.56.11: RX [376] Ack
+06/05/14 10:52:53:480 SM: Standby: 10.21.56.11: TX [377] Ping
+06/05/14 10:52:53:998 SM: Standby: 10.21.56.11: RX [377] Ack
+06/05/14 10:53:23:700 SM: Standby: 10.21.56.11: TX [378] Ping
+06/05/14 10:53:24:203 SM: Standby: 10.21.56.11: RX [378] Ack
+06/05/14 10:53:53:898 SM: Standby: 10.21.56.11: TX [379] Ping
+06/05/14 10:53:53:907 SM: Standby: 10.21.56.11: RX [379] Ack
+06/05/14 10:54:24:106 SM: Standby: 10.21.56.11: TX [380] Ping
+06/05/14 10:54:24:113 SM: Standby: 10.21.56.11: RX [380] Ack
+06/05/14 10:54:54:315 SM: Standby: 10.21.56.11: TX [381] Ping
+06/05/14 10:54:54:321 SM: Standby: 10.21.56.11: RX [381] Ack
+06/05/14 10:55:24:524 SM: Standby: 10.21.56.11: TX [382] Ping
+06/05/14 10:55:24:537 SM: Standby: 10.21.56.11: RX [382] Ack
+06/05/14 10:55:54:732 SM: Standby: 10.21.56.11: TX [383] Ping
+06/05/14 10:55:54:738 SM: Standby: 10.21.56.11: RX [383] Ack
+06/05/14 10:56:24:941 SM: Standby: 10.21.56.11: TX [384] Ping
+06/05/14 10:56:25:454 SM: Standby: 10.21.56.11: RX [384] Ack
+06/05/14 10:56:55:149 SM: Standby: 10.21.56.11: TX [385] Ping
+06/05/14 10:56:55:162 SM: Standby: 10.21.56.11: RX [385] Ack
+06/05/14 10:57:25:359 SM: Standby: 10.21.56.11: TX [386] Ping
+06/05/14 10:57:25:366 SM: Standby: 10.21.56.11: RX [386] Ack
+06/05/14 10:57:55:669 SM: Standby: 10.21.56.11: TX [387] Ping
+06/05/14 10:57:56:183 SM: Standby: 10.21.56.11: RX [387] Ack
+06/05/14 10:58:25:884 SM: Standby: 10.21.56.11: TX [388] Ping
+06/05/14 10:58:26:395 SM: Standby: 10.21.56.11: RX [388] Ack
+06/05/14 10:58:56:086 SM: Standby: 10.21.56.11: TX [389] Ping
+06/05/14 10:58:56:093 SM: Standby: 10.21.56.11: RX [389] Ack
+06/05/14 10:59:26:295 SM: Standby: 10.21.56.11: TX [390] Ping
+06/05/14 10:59:26:809 SM: Standby: 10.21.56.11: RX [390] Ack
+06/05/14 10:59:56:503 SM: Standby: 10.21.56.11: TX [391] Ping
+06/05/14 10:59:56:517 SM: Standby: 10.21.56.11: RX [391] Ack
+06/05/14 11:00:26:712 SM: Standby: 10.21.56.11: TX [392] Ping
+06/05/14 11:00:26:717 SM: Standby: 10.21.56.11: RX [392] Ack
+06/05/14 11:00:56:920 SM: Standby: 10.21.56.11: TX [393] Ping
+06/05/14 11:00:56:926 SM: Standby: 10.21.56.11: RX [393] Ack
+06/05/14 11:01:27:130 SM: Standby: 10.21.56.11: TX [394] Ping
+06/05/14 11:01:27:138 SM: Standby: 10.21.56.11: RX [394] Ack
+06/05/14 11:01:57:338 SM: Standby: 10.21.56.11: TX [395] Ping
+06/05/14 11:01:57:343 SM: Standby: 10.21.56.11: RX [395] Ack
+06/05/14 11:02:27:546 SM: Standby: 10.21.56.11: TX [396] Ping
+06/05/14 11:02:27:552 SM: Standby: 10.21.56.11: RX [396] Ack
+06/05/14 11:02:57:755 SM: Standby: 10.21.56.11: TX [397] Ping
+06/05/14 11:02:57:763 SM: Standby: 10.21.56.11: RX [397] Ack
+06/05/14 11:03:27:968 SM: Standby: 10.21.56.11: TX [398] Ping
+06/05/14 11:03:27:972 SM: Standby: 10.21.56.11: RX [398] Ack
+06/05/14 11:03:58:172 SM: Standby: 10.21.56.11: TX [399] Ping
+06/05/14 11:03:58:177 SM: Standby: 10.21.56.11: RX [399] Ack
+06/05/14 11:04:28:381 SM: Standby: 10.21.56.11: TX [400] Ping
+06/05/14 11:04:28:897 SM: Standby: 10.21.56.11: RX [400] Ack
+06/05/14 11:04:58:589 SM: Standby: 10.21.56.11: TX [401] Ping
+06/05/14 11:04:58:595 SM: Standby: 10.21.56.11: RX [401] Ack
+06/05/14 11:05:00:135 SM: Standby: 10.21.56.11: TX [402] BinaryLog
+06/05/14 11:05:00:639 SM: Standby: 10.21.56.11: RX [402] Ack
+06/05/14 11:05:28:798 SM: Standby: 10.21.56.11: TX [403] Ping
+06/05/14 11:05:29:314 SM: Standby: 10.21.56.11: RX [403] Ack
+06/05/14 11:05:59:006 UI: WriteInventoryRecord: iVoltage=3750 sText=3750:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 11:05:59:007 SM: Standby: 10.21.56.11: TX [404] Ping
+06/05/14 11:05:59:519 SM: Standby: 10.21.56.11: RX [404] Ack
+06/05/14 11:05:59:520 SM: Standby: 10.21.56.11: TX [405] Log
+06/05/14 11:05:59:524 SM: Standby: 10.21.56.11: RX [405] Ack
+06/05/14 11:06:29:215 SM: Standby: 10.21.56.11: TX [406] Ping
+06/05/14 11:06:29:225 SM: Standby: 10.21.56.11: RX [406] Ack
+06/05/14 11:06:59:423 SM: Standby: 10.21.56.11: TX [407] Ping
+06/05/14 11:06:59:937 SM: Standby: 10.21.56.11: RX [407] Ack
+06/05/14 11:07:29:632 SM: Standby: 10.21.56.11: TX [408] Ping
+06/05/14 11:07:30:148 SM: Standby: 10.21.56.11: RX [408] Ack
+06/05/14 11:07:59:840 SM: Standby: 10.21.56.11: TX [409] Ping
+06/05/14 11:07:59:846 SM: Standby: 10.21.56.11: RX [409] Ack
+06/05/14 11:08:30:070 SM: Standby: 10.21.56.11: TX [410] Ping
+06/05/14 11:08:30:085 SM: Standby: 10.21.56.11: RX [410] Ack
+06/05/14 11:09:00:257 SM: Standby: 10.21.56.11: TX [411] Ping
+06/05/14 11:09:00:263 SM: Standby: 10.21.56.11: RX [411] Ack
+06/05/14 11:09:30:466 SM: Standby: 10.21.56.11: TX [412] Ping
+06/05/14 11:09:30:479 SM: Standby: 10.21.56.11: RX [412] Ack
+06/05/14 11:10:00:674 SM: Standby: 10.21.56.11: TX [413] Ping
+06/05/14 11:10:00:680 SM: Standby: 10.21.56.11: RX [413] Ack
+06/05/14 11:10:30:884 SM: Standby: 10.21.56.11: TX [414] Ping
+06/05/14 11:10:30:889 SM: Standby: 10.21.56.11: RX [414] Ack
+06/05/14 11:11:01:092 SM: Standby: 10.21.56.11: TX [415] Ping
+06/05/14 11:11:01:608 SM: Standby: 10.21.56.11: RX [415] Ack
+06/05/14 11:11:31:301 SM: Standby: 10.21.56.11: TX [416] Ping
+06/05/14 11:11:31:307 SM: Standby: 10.21.56.11: RX [416] Ack
+06/05/14 11:12:01:509 SM: Standby: 10.21.56.11: TX [417] Ping
+06/05/14 11:12:01:514 SM: Standby: 10.21.56.11: RX [417] Ack
+06/05/14 11:12:31:718 SM: Standby: 10.21.56.11: TX [418] Ping
+06/05/14 11:12:32:235 SM: Standby: 10.21.56.11: RX [418] Ack
+06/05/14 11:13:02:028 SM: Standby: 10.21.56.11: TX [419] Ping
+06/05/14 11:13:02:034 SM: Standby: 10.21.56.11: RX [419] Ack
+06/05/14 11:13:32:241 SM: Standby: 10.21.56.11: TX [420] Ping
+06/05/14 11:13:32:246 SM: Standby: 10.21.56.11: RX [420] Ack
+06/05/14 11:13:34:288 FWH: group 1 received.
+06/05/14 11:13:34:293 FWH: group key 2 sent
+06/05/14 11:13:34:295 FWH: group 1 received.
+06/05/14 11:13:34:301 FWH: group key 2 sent
+06/05/14 11:14:02:445 SM: Standby: 10.21.56.11: TX [421] Ping
+06/05/14 11:14:02:966 SM: Standby: 10.21.56.11: RX [421] Ack
+06/05/14 11:14:02:967 SM: Standby: 10.21.56.11: TX [422] BinaryLog
+06/05/14 11:14:02:973 SM: Standby: 10.21.56.11: RX [422] Ack
+06/05/14 11:14:32:654 SM: Standby: 10.21.56.11: TX [423] Ping
+06/05/14 11:14:32:660 SM: Standby: 10.21.56.11: RX [423] Ack
+06/05/14 11:15:02:862 SM: Standby: 10.21.56.11: TX [424] Ping
+06/05/14 11:15:03:379 SM: Standby: 10.21.56.11: RX [424] Ack
+06/05/14 11:15:33:072 SM: Standby: 10.21.56.11: TX [425] Ping
+06/05/14 11:15:33:584 SM: Standby: 10.21.56.11: RX [425] Ack
+06/05/14 11:16:03:280 SM: Standby: 10.21.56.11: TX [426] Ping
+06/05/14 11:16:03:285 SM: Standby: 10.21.56.11: RX [426] Ack
+06/05/14 11:16:33:488 SM: Standby: 10.21.56.11: TX [427] Ping
+06/05/14 11:16:33:498 SM: Standby: 10.21.56.11: RX [427] Ack
+06/05/14 11:17:03:697 SM: Standby: 10.21.56.11: TX [428] Ping
+06/05/14 11:17:04:211 SM: Standby: 10.21.56.11: RX [428] Ack
+06/05/14 11:17:33:906 SM: Standby: 10.21.56.11: TX [429] Ping
+06/05/14 11:17:33:914 SM: Standby: 10.21.56.11: RX [429] Ack
+06/05/14 11:18:04:114 SM: Standby: 10.21.56.11: TX [430] Ping
+06/05/14 11:18:04:628 SM: Standby: 10.21.56.11: RX [430] Ack
+06/05/14 11:18:34:329 SM: Standby: 10.21.56.11: TX [431] Ping
+06/05/14 11:18:34:838 SM: Standby: 10.21.56.11: RX [431] Ack
+06/05/14 11:19:04:531 SM: Standby: 10.21.56.11: TX [432] Ping
+06/05/14 11:19:05:045 SM: Standby: 10.21.56.11: RX [432] Ack
+06/05/14 11:19:34:740 SM: Standby: 10.21.56.11: TX [433] Ping
+06/05/14 11:19:34:746 SM: Standby: 10.21.56.11: RX [433] Ack
+06/05/14 11:20:01:368 SM: Standby: 10.21.56.11: TX [434] BinaryLog
+06/05/14 11:20:01:880 SM: Standby: 10.21.56.11: RX [434] Ack
+06/05/14 11:20:04:948 SM: Standby: 10.21.56.11: TX [435] Ping
+06/05/14 11:20:04:954 SM: Standby: 10.21.56.11: RX [435] Ack
+06/05/14 11:20:35:157 SM: Standby: 10.21.56.11: TX [436] Ping
+06/05/14 11:20:35:671 SM: Standby: 10.21.56.11: RX [436] Ack
+06/05/14 11:21:05:365 UI: WriteInventoryRecord: iVoltage=3750 sText=3750:3:001a30c0e224:G5DH1313CE8E:704b20ac
+06/05/14 11:21:05:366 SM: Standby: 10.21.56.11: TX [437] Ping
+06/05/14 11:21:05:374 SM: Standby: 10.21.56.11: RX [437] Ack
+06/05/14 11:21:05:374 SM: Standby: 10.21.56.11: TX [438] Log
+06/05/14 11:21:05:378 SM: Standby: 10.21.56.11: RX [438] Ack
+06/05/14 11:21:35:574 SM: Standby: 10.21.56.11: TX [439] Ping
+06/05/14 11:21:36:180 SM: Standby: 10.21.56.11: TX [439] Ping
+06/05/14 11:21:36:599 SM: Standby: 10.21.56.11: RX [439] Ack
+06/05/14 11:21:36:601 SM: Standby: 10.21.56.11: RX [439] Ack
+06/05/14 11:22:05:579 SM: Standby: 10.21.56.11: TX [440] Ping
+06/05/14 11:22:05:595 SM: Standby: 10.21.56.11: RX [440] Ack
+06/05/14 11:22:05:680 RM: Low SNR Event
+06/05/14 11:22:05:680 RM: Scan triggered
+06/05/14 11:22:05:717 DRE: scan results event
+06/05/14 11:22:06:192 RM: Low SNR Event
+06/05/14 11:22:06:213 DRE: scan results event
+06/05/14 11:22:06:239 DRE: scan results event
+06/05/14 11:22:06:244 RM: Found 5 APs. Top AP(s) - 00 1a 30 7e 6f 34 (1,42) - 00 1a 30 32 28 44 (6,38) - 00 1e be a7 07 54 (11,31)
+06/05/14 11:22:06:246 Chosen AP is 00 1a 30 7e 6f 34 in channel 1
+06/05/14 11:22:06:246 RM: SNR: 42 (RSSI -54, NF -96)
+06/05/14 11:22:06:246 RM: Set phase 4
+06/05/14 11:22:06:246 RM: Associating
+06/05/14 11:22:06:247 FWH: reset
+06/05/14 11:22:06:249 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 11:22:06:254 DRV: AP to associate with: 001a307e6f34
+06/05/14 11:22:06:277 RM: Associated with AP 00 1a 30 7e 6f 34 on channel 1. AID is 5 [0x5].
+06/05/14 11:22:06:278 CM: Set phase 6
+06/05/14 11:22:06:280 RM: Set phase 6
+06/05/14 11:22:06:280 RM: Authenticating
+06/05/14 11:22:06:281 PSK_Start
+06/05/14 11:22:06:281 DRE: association information elements event
+06/05/14 11:22:06:284 FWH: Pairwise 1 received.
+06/05/14 11:22:06:289 FWH: pairwise 2 sent.
+06/05/14 11:22:06:295 FWH: pairwise 3 received.
+06/05/14 11:22:06:295 FWH: pairwise 4 sent.
+06/05/14 11:22:06:305 FWH: group 1 received.
+06/05/14 11:22:06:308 FWH: group key 2 sent
+06/05/14 11:22:06:309 RM: Set phase 7
+06/05/14 11:22:06:309 RM: Requesting IP Address
+06/05/14 11:22:06:310 RM: dhcpc: DOM sbhcs.com, DNS1 10.25.110.250, IP 10.21.57.173, NM 255.255.252.0, GW1 10.21.56.1,
+06/05/14 11:22:06:311 RM: Total roam time: 430 ms
+06/05/14 11:22:06:311 CM: Set phase 9
+06/05/14 11:22:06:312 CM: Set phase 5
+06/05/14 11:22:06:312 SM: Standby: 10.21.56.11: TX [441] Ping
+06/05/14 11:22:06:316 RM: Set phase 8
+06/05/14 11:22:06:323 SM: Standby: 10.21.56.11: RX [441] Ack
+06/05/14 11:22:06:324 SM: Standby: 10.21.56.11: TX [442] BinaryLog
+06/05/14 11:22:06:327 SM: Standby: 10.21.56.11: RX [21] APName
+06/05/14 11:22:06:327 UI: AP Name: 'O R-AP282'
+06/05/14 11:22:06:328 SM: Standby: 10.21.56.11: TX [21] Ack
+06/05/14 11:22:06:331 SM: Standby: 10.21.56.11: RX [442] Ack
+06/05/14 11:22:36:644 SM: Standby: 10.21.56.11: TX [443] Ping
+06/05/14 11:22:37:159 SM: Standby: 10.21.56.11: RX [443] Ack
+06/05/14 11:22:37:159 SM: Standby: 10.21.56.11: TX [444] BinaryLog
+06/05/14 11:22:37:164 SM: Standby: 10.21.56.11: RX [444] Ack
+06/05/14 11:22:45:863 RM: Low SNR Event
+06/05/14 11:22:45:863 RM: Scan triggered
+06/05/14 11:22:45:886 DRE: scan results event
+06/05/14 11:22:46:398 DRE: scan results event
+06/05/14 11:22:46:424 DRE: scan results event
+06/05/14 11:22:46:428 RM: Found 4 APs. Top AP(s) - 00 15 c7 28 0c 24 (6,37) - 00 1a 30 31 ba e4 (11,33) - 00 1a 30 33 87 14 (6,23)
+06/05/14 11:22:46:430 Chosen AP is 00 15 c7 28 0c 24 in channel 6
+06/05/14 11:22:46:430 RM: SNR: 37 (RSSI -59, NF -96)
+06/05/14 11:22:46:430 RM: Set phase 4
+06/05/14 11:22:46:431 RM: Associating
+06/05/14 11:22:46:431 FWH: reset
+06/05/14 11:22:46:433 RM: Enabling Rate Power Control for channel 1 ...
+06/05/14 11:22:46:438 DRV: AP to associate with: 0015c7280c24
+06/05/14 11:22:46:497 RM: Associated with AP 00 15 c7 28 0c 24 on channel 6. AID is 33 [0x21].
+06/05/14 11:22:46:498 CM: Set phase 6
+06/05/14 11:22:46:499 RM: Set phase 6
+06/05/14 11:22:46:500 RM: Authenticating
+06/05/14 11:22:46:500 PSK_Start
+06/05/14 11:22:46:501 DRE: association information elements event
+06/05/14 11:22:46:503 FWH: Pairwise 1 received.
+06/05/14 11:22:46:509 FWH: pairwise 2 sent.
+06/05/14 11:22:46:514 FWH: pairwise 3 received.
+06/05/14 11:22:46:515 FWH: pairwise 4 sent.
+06/05/14 11:22:46:524 FWH: group 1 received.
+06/05/14 11:22:46:528 FWH: group key 2 sent
+06/05/14 11:22:46:528 RM: Set phase 7
+06/05/14 11:22:46:529 RM: Requesting IP Address
+06/05/14 11:22:46:529 RM: Total roam time: 466 ms
+06/05/14 11:22:46:530 CM: Set phase 9
+06/05/14 11:22:46:530 CM: Set phase 5
+06/05/14 11:22:46:531 SM: Standby: 10.21.56.11: TX [445] Ping
+06/05/14 11:22:46:535 RM: Set phase 8
+06/05/14 11:22:46:546 SM: Standby: 10.21.56.11: RX [445] Ack
+06/05/14 11:22:46:548 SM: Standby: 10.21.56.11: RX [22] APName
+06/05/14 11:22:46:549 UI: AP Name: 'O R Hold-AP6'
+06/05/14 11:22:46:549 SM: Standby: 10.21.56.11: TX [22] Ack
+06/05/14 11:23:00:539 RM: Low SNR Event
+06/05/14 11:23:00:540 RM: Scan triggered
+06/05/14 11:23:01:076 DRE: scan results event
+06/05/14 11:23:01:098 DRE: scan results event
+06/05/14 11:23:01:123 DRE: scan results event
+06/05/14 11:23:01:128 RM: Found 7 APs. Top AP(s) - 00 1a 30 31 ba e4 (11,49) - 00 1a 30 33 87 14 (6,46) - 00 1a 30 c0 eb 24 (1,41)
+06/05/14 11:23:01:130 Chosen AP is 00 1a 30 31 ba e4 in channel 11
+06/05/14 11:23:01:130 RM: SNR: 49 (RSSI -47, NF -96)
+06/05/14 11:23:01:130 RM: Set phase 4
+06/05/14 11:23:01:131 RM: Associating
+06/05/14 11:23:01:131 FWH: reset
+06/05/14 11:23:01:133 RM: Enabling Rate Power Control for channel 6 ...
+06/05/14 11:23:01:138 DRV: AP to associate with: 001a3031bae4
+06/05/14 11:23:01:159 RM: Associated with AP 00 1a 30 31 ba e4 on channel 11. AID is 10 [0xa].
+06/05/14 11:23:01:160 CM: Set phase 6
+06/05/14 11:23:01:161 RM: Set phase 6
+06/05/14 11:23:01:161 RM: Authenticating
+06/05/14 11:23:01:162 PSK_Start
+06/05/14 11:23:01:163 DRE: association information elements event
+06/05/14 11:23:01:165 FWH: Pairwise 1 received.
+06/05/14 11:23:01:171 FWH: pairwise 2 sent.
+06/05/14 11:23:01:176 FWH: pairwise 3 received.
+06/05/14 11:23:01:176 FWH: pairwise 4 sent.
+06/05/14 11:23:01:187 FWH: group 1 received.
+06/05/14 11:23:01:191 FWH: group key 2 sent
+06/05/14 11:23:01:192 RM: Set phase 7
+06/05/14 11:23:01:192 RM: Requesting IP Address
+06/05/14 11:23:01:193 RM: Total roam time: 453 ms
+06/05/14 11:23:01:193 CM: Set phase 9
+06/05/14 11:23:01:193 CM: Set phase 5
+06/05/14 11:23:01:194 SM: Standby: 10.21.56.11: TX [446] Ping
+06/05/14 11:23:01:198 RM: Set phase 8
+06/05/14 11:23:01:204 SM: Standby: 10.21.56.11: RX [446] Ack
+06/05/14 11:23:01:206 SM: Standby: 10.21.56.11: RX [23] APName
+06/05/14 11:23:01:207 UI: AP Name: 'O R-AP288'
+06/05/14 11:23:01:207 SM: Standby: 10.21.56.11: TX [23] Ack
+06/05/14 11:23:18:349 BT: Delaying SelectPress (7)
+06/05/14 11:23:18:392 BT: Ignoring ghost DNDPress (3)
+06/05/14 11:23:18:393 BT: Allowing non-delayed CallPress (0)
+06/05/14 11:23:18:393 UI: HandleTouch: CallPress
+06/05/14 11:23:18:841 SM: Standby: 10.21.56.11: TX [447] Touch
+06/05/14 11:23:18:844 BT: Ignoring ghost DownPress (6)
+06/05/14 11:23:18:845 BT: Ignoring ghost UpPress (5)
+06/05/14 11:23:18:845 BT: Unkown button device code: 0x07
+06/05/14 11:23:18:846 BT: Ignoring orig ghost SelectPress (7) too
+06/05/14 11:23:18:846 BT: Ignoring ghost DNDRelease (10)
+06/05/14 11:23:18:847 BT: Allowing non-delayed CallRelease (1)
+06/05/14 11:23:18:847 UI: HandleTouch: CallRelease
+06/05/14 11:23:18:850 UI: HandleTouch: SelectHold
+06/05/14 11:23:18:850 AM: StartPrompt: bCodec=0 bSpeech=0 bPrompt=0
+06/05/14 11:23:18:850 PP: about to play button_beep.wav
+06/05/14 11:23:18:852 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=0 bSpeech=0 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:18:882 SM: Standby: 10.21.56.11: RX [447] Ack
+06/05/14 11:23:18:883 SM: Standby: 10.21.56.11: TX [448] Touch
+06/05/14 11:23:18:887 SM: Standby: 10.21.56.11: RX [24] CallerName
+06/05/14 11:23:18:890 SM: Standby: 10.21.56.11: TX [24] Ack
+06/05/14 11:23:18:902 SM: Standby: 10.21.56.11: RX [448] Ack
+06/05/14 11:23:18:903 SM: Standby: 10.21.56.11: TX [449] Ping
+06/05/14 11:23:18:919 SM: Standby: 10.21.56.11: RX [25] StartAudio
+06/05/14 11:23:18:920 AM: StartSpeech: bCodec=1 bSpeech=0 bPrompt=1
+06/05/14 11:23:18:936 AM: StartSpeech: cOthers=1 ipOther=10.21.56.11 Port=5116 TCPAudio=1
+06/05/14 11:23:18:937 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:18:940 UI: Genie Delay : 0 sec 98 ms
+06/05/14 11:23:18:941 UI: state set to 4 (Active)
+06/05/14 11:23:18:942 SM: Active: 10.21.56.11: TX [25] Ack
+06/05/14 11:23:18:944 SM: Active: 10.21.56.11: RX [449] Ack
+06/05/14 11:23:18:946 SM: Active: 10.21.56.11: TX [450] BinaryLog
+06/05/14 11:23:18:970 SM: Active: 10.21.56.11: RX [450] Ack
+06/05/14 11:23:18:972 SM: Active: 10.21.56.11: TX [451] BinaryLog
+06/05/14 11:23:18:978 SM: Active: 10.21.56.11: RX [26] Hint Prompt: good_morning
+06/05/14 11:23:18:979 SM: Active: 10.21.56.11: TX [26] Ack
+06/05/14 11:23:18:997 SM: Active: 10.21.56.11: RX [451] Ack
+06/05/14 11:23:19:091 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:19:115 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:19:147 RM: Low SNR Event
+06/05/14 11:23:19:147 RM: Scan triggered
+06/05/14 11:23:19:184 DRE: scan results event
+06/05/14 11:23:19:292 DRE: scan results event
+06/05/14 11:23:19:298 UI: HandleTouch: UpHold
+06/05/14 11:23:19:303 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:19:304 DM: CallVolume (Home)
+06/05/14 11:23:19:311 UI: HandleTouch: DownHold
+06/05/14 11:23:19:317 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:19:323 UI: HandleTouch: SelectHold
+06/05/14 11:23:19:323 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:19:324 PP: about to play button_beep.wav
+06/05/14 11:23:19:349 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:19:351 DM: Home (CallVolume)
+06/05/14 11:23:19:363 RM: Low SNR Event
+06/05/14 11:23:19:396 DRE: scan results event
+06/05/14 11:23:19:407 RM: Found 4 APs. Top AP(s) - 00 1a 30 33 87 14 (6,34) - 00 1a 30 32 2c 74 (1,18) - 00 1a 30 31 ba e4 (11,13)
+06/05/14 11:23:19:410 Chosen AP is 00 1a 30 33 87 14 in channel 6
+06/05/14 11:23:19:410 RM: SNR: 34 (RSSI -62, NF -96)
+06/05/14 11:23:19:411 RM: Set phase 4
+06/05/14 11:23:19:411 RM: Associating
+06/05/14 11:23:19:412 FWH: reset
+06/05/14 11:23:19:415 RM: Enabling Rate Power Control for channel 11 ...
+06/05/14 11:23:19:427 DRV: AP to associate with: 001a30338714
+06/05/14 11:23:19:462 RM: Associated with AP 00 1a 30 33 87 14 on channel 6. AID is 93 [0x5d].
+06/05/14 11:23:19:464 CM: Set phase 6
+06/05/14 11:23:19:464 RM: Set phase 6
+06/05/14 11:23:19:465 RM: Authenticating
+06/05/14 11:23:19:466 PSK_Start
+06/05/14 11:23:19:467 DRE: association information elements event
+06/05/14 11:23:19:480 FWH: Pairwise 1 received.
+06/05/14 11:23:19:489 FWH: pairwise 2 sent.
+06/05/14 11:23:19:502 FWH: pairwise 3 received.
+06/05/14 11:23:19:504 FWH: pairwise 4 sent.
+06/05/14 11:23:19:524 FWH: group 1 received.
+06/05/14 11:23:19:538 FWH: group key 2 sent
+06/05/14 11:23:19:539 RM: Set phase 7
+06/05/14 11:23:19:540 RM: Requesting IP Address
+06/05/14 11:23:19:541 RM: Total roam time: 193 ms
+06/05/14 11:23:19:542 CM: Set phase 9
+06/05/14 11:23:19:543 CM: Set phase 5
+06/05/14 11:23:19:544 SM: Active: 10.21.56.11: TX [452] Ping
+06/05/14 11:23:19:549 RM: Set phase 8
+06/05/14 11:23:19:564 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:19:575 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:19:577 SM: Active: 10.21.56.11: RX [452] Ack
+06/05/14 11:23:19:581 SM: Active: 10.21.56.11: RX [27] APName
+06/05/14 11:23:19:582 UI: AP Name: 'O R-AP286'
+06/05/14 11:23:19:585 SM: Active: 10.21.56.11: TX [27] Ack
+06/05/14 11:23:19:751 UI: HandleTouch: UpHold
+06/05/14 11:23:19:758 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:19:759 DM: CallVolume (Home)
+06/05/14 11:23:19:767 UI: HandleTouch: DownHold
+06/05/14 11:23:19:769 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:19:778 UI: HandleTouch: SelectHold
+06/05/14 11:23:19:779 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:19:780 PP: about to play button_beep.wav
+06/05/14 11:23:19:815 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:19:817 DM: Home (CallVolume)
+06/05/14 11:23:19:834 SM: Active: 10.21.56.11: RX [28] Hint Prompt completed
+06/05/14 11:23:19:835 SM: Active: 10.21.56.11: TX [28] Ack
+06/05/14 11:23:19:842 SM: Active: 10.21.56.11: RX [29] Hint Prompt: say_or_spell_your_first_and_last_name
+06/05/14 11:23:19:843 SM: Active: 10.21.56.11: TX [29] Ack
+06/05/14 11:23:20:030 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:20:050 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:20:204 UI: HandleTouch: UpHold
+06/05/14 11:23:20:207 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:20:209 DM: CallVolume (Home)
+06/05/14 11:23:20:222 UI: HandleTouch: DownHold
+06/05/14 11:23:20:224 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:20:236 UI: HandleTouch: SelectHold
+06/05/14 11:23:20:236 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:20:237 PP: about to play button_beep.wav
+06/05/14 11:23:20:272 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:20:273 DM: Home (CallVolume)
+06/05/14 11:23:20:487 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:20:500 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:20:657 UI: HandleTouch: UpHold
+06/05/14 11:23:20:664 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:20:666 DM: CallVolume (Home)
+06/05/14 11:23:20:673 UI: HandleTouch: DownHold
+06/05/14 11:23:20:676 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:20:689 UI: HandleTouch: SelectHold
+06/05/14 11:23:20:690 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:20:691 PP: about to play button_beep.wav
+06/05/14 11:23:20:723 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:20:724 DM: Home (CallVolume)
+06/05/14 11:23:20:938 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:20:952 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:21:111 UI: HandleTouch: UpHold
+06/05/14 11:23:21:118 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:21:119 DM: CallVolume (Home)
+06/05/14 11:23:21:126 UI: HandleTouch: DownHold
+06/05/14 11:23:21:129 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:21:143 UI: HandleTouch: SelectHold
+06/05/14 11:23:21:143 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:21:144 PP: about to play button_beep.wav
+06/05/14 11:23:21:176 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:21:177 DM: Home (CallVolume)
+06/05/14 11:23:21:392 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:21:405 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:21:564 UI: HandleTouch: UpHold
+06/05/14 11:23:21:571 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:21:572 DM: CallVolume (Home)
+06/05/14 11:23:21:580 UI: HandleTouch: DownHold
+06/05/14 11:23:21:582 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:21:598 UI: HandleTouch: SelectHold
+06/05/14 11:23:21:598 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:21:599 PP: about to play button_beep.wav
+06/05/14 11:23:21:629 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:21:631 DM: Home (CallVolume)
+06/05/14 11:23:21:845 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:21:857 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:017 UI: HandleTouch: UpHold
+06/05/14 11:23:22:024 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:025 DM: CallVolume (Home)
+06/05/14 11:23:22:032 UI: HandleTouch: DownHold
+06/05/14 11:23:22:038 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:049 UI: HandleTouch: SelectHold
+06/05/14 11:23:22:050 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:22:050 PP: about to play button_beep.wav
+06/05/14 11:23:22:070 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:22:071 DM: Home (CallVolume)
+06/05/14 11:23:22:286 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:22:296 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:417 SM: Active: 10.21.56.11: RX [30] Hint Prompt completed
+06/05/14 11:23:22:418 SM: Active: 10.21.56.11: TX [30] Ack
+06/05/14 11:23:22:470 UI: HandleTouch: UpHold
+06/05/14 11:23:22:473 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:477 DM: CallVolume (Home)
+06/05/14 11:23:22:488 UI: HandleTouch: DownHold
+06/05/14 11:23:22:490 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:501 UI: HandleTouch: SelectHold
+06/05/14 11:23:22:502 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:22:502 PP: about to play button_beep.wav
+06/05/14 11:23:22:529 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:22:530 DM: Home (CallVolume)
+06/05/14 11:23:22:745 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:22:768 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:923 UI: HandleTouch: UpHold
+06/05/14 11:23:22:926 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:928 DM: CallVolume (Home)
+06/05/14 11:23:22:941 UI: HandleTouch: DownHold
+06/05/14 11:23:22:943 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:22:955 UI: HandleTouch: SelectHold
+06/05/14 11:23:22:956 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:22:956 PP: about to play button_beep.wav
+06/05/14 11:23:22:982 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:22:983 DM: Home (CallVolume)
+06/05/14 11:23:23:197 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:23:228 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:23:378 UI: HandleTouch: UpHold
+06/05/14 11:23:23:381 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:23:383 DM: CallVolume (Home)
+06/05/14 11:23:23:393 UI: HandleTouch: DownHold
+06/05/14 11:23:23:396 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:23:410 UI: HandleTouch: SelectHold
+06/05/14 11:23:23:411 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:23:412 PP: about to play button_beep.wav
+06/05/14 11:23:23:459 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:23:460 DM: Home (CallVolume)
+06/05/14 11:23:23:673 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:23:710 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:23:830 UI: HandleTouch: UpHold
+06/05/14 11:23:23:832 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:23:837 DM: CallVolume (Home)
+06/05/14 11:23:23:846 UI: HandleTouch: DownHold
+06/05/14 11:23:23:849 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:23:872 UI: HandleTouch: SelectHold
+06/05/14 11:23:23:873 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:23:874 PP: about to play button_beep.wav
+06/05/14 11:23:23:925 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:23:926 DM: Home (CallVolume)
+06/05/14 11:23:24:140 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:24:155 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:24:284 UI: HandleTouch: UpHold
+06/05/14 11:23:24:287 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:24:288 DM: CallVolume (Home)
+06/05/14 11:23:24:302 UI: HandleTouch: DownHold
+06/05/14 11:23:24:305 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:24:331 UI: HandleTouch: SelectHold
+06/05/14 11:23:24:331 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:24:332 PP: about to play button_beep.wav
+06/05/14 11:23:24:373 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:24:374 DM: Home (CallVolume)
+06/05/14 11:23:24:588 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:24:617 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:24:736 UI: HandleTouch: UpHold
+06/05/14 11:23:24:739 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:24:743 DM: CallVolume (Home)
+06/05/14 11:23:24:764 UI: HandleTouch: DownHold
+06/05/14 11:23:24:768 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:24:783 UI: HandleTouch: SelectHold
+06/05/14 11:23:24:783 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:24:784 PP: about to play button_beep.wav
+06/05/14 11:23:24:810 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:24:811 DM: Home (CallVolume)
+06/05/14 11:23:25:025 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:25:047 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:25:192 UI: HandleTouch: UpHold
+06/05/14 11:23:25:195 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:25:196 DM: CallVolume (Home)
+06/05/14 11:23:25:223 UI: HandleTouch: DownHold
+06/05/14 11:23:25:229 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:25:236 UI: HandleTouch: SelectHold
+06/05/14 11:23:25:237 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:25:238 PP: about to play button_beep.wav
+06/05/14 11:23:25:267 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:25:268 DM: Home (CallVolume)
+06/05/14 11:23:25:482 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:25:501 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:25:651 UI: HandleTouch: UpHold
+06/05/14 11:23:25:654 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:25:656 DM: CallVolume (Home)
+06/05/14 11:23:25:683 UI: HandleTouch: DownHold
+06/05/14 11:23:25:686 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:25:694 UI: HandleTouch: SelectHold
+06/05/14 11:23:25:694 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:25:695 PP: about to play button_beep.wav
+06/05/14 11:23:25:719 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:25:721 DM: Home (CallVolume)
+06/05/14 11:23:25:935 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:25:957 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:26:103 UI: HandleTouch: UpHold
+06/05/14 11:23:26:106 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:26:107 DM: CallVolume (Home)
+06/05/14 11:23:26:138 UI: HandleTouch: DownHold
+06/05/14 11:23:26:142 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:26:150 UI: HandleTouch: SelectHold
+06/05/14 11:23:26:150 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:26:151 PP: about to play button_beep.wav
+06/05/14 11:23:26:187 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:26:189 DM: Home (CallVolume)
+06/05/14 11:23:26:401 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:26:423 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:26:556 UI: HandleTouch: UpHold
+06/05/14 11:23:26:559 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:26:560 DM: CallVolume (Home)
+06/05/14 11:23:26:595 UI: HandleTouch: DownHold
+06/05/14 11:23:26:598 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:26:609 UI: HandleTouch: SelectHold
+06/05/14 11:23:26:610 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:26:611 PP: about to play button_beep.wav
+06/05/14 11:23:26:640 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:26:641 DM: Home (CallVolume)
+06/05/14 11:23:26:855 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:26:889 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:009 UI: HandleTouch: UpHold
+06/05/14 11:23:27:012 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:017 DM: CallVolume (Home)
+06/05/14 11:23:27:048 UI: HandleTouch: DownHold
+06/05/14 11:23:27:055 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:064 UI: HandleTouch: SelectHold
+06/05/14 11:23:27:065 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:27:066 PP: about to play button_beep.wav
+06/05/14 11:23:27:099 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:27:100 DM: Home (CallVolume)
+06/05/14 11:23:27:315 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:27:324 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:439 SM: Active: 10.21.56.11: RX [31] Hint NO_SPEECH_TIMEOUT
+06/05/14 11:23:27:440 SM: Active: 10.21.56.11: TX [31] Ack
+06/05/14 11:23:27:446 SM: Active: 10.21.56.11: RX [32] Hint Prompt: did_not_hear_you
+06/05/14 11:23:27:447 SM: Active: 10.21.56.11: TX [32] Ack
+06/05/14 11:23:27:462 UI: HandleTouch: UpHold
+06/05/14 11:23:27:465 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:469 DM: CallVolume (Home)
+06/05/14 11:23:27:501 UI: HandleTouch: DownHold
+06/05/14 11:23:27:507 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:520 UI: HandleTouch: SelectHold
+06/05/14 11:23:27:524 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:27:524 PP: about to play button_beep.wav
+06/05/14 11:23:27:574 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:27:575 DM: Home (CallVolume)
+06/05/14 11:23:27:789 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:27:820 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:915 UI: HandleTouch: UpHold
+06/05/14 11:23:27:918 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:920 DM: CallVolume (Home)
+06/05/14 11:23:27:955 UI: HandleTouch: DownHold
+06/05/14 11:23:27:957 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:27:978 UI: HandleTouch: SelectHold
+06/05/14 11:23:27:978 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:27:982 PP: about to play button_beep.wav
+06/05/14 11:23:28:029 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:28:030 DM: Home (CallVolume)
+06/05/14 11:23:28:242 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:28:254 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:28:368 UI: HandleTouch: UpHold
+06/05/14 11:23:28:371 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:28:373 DM: CallVolume (Home)
+06/05/14 11:23:28:407 UI: HandleTouch: DownHold
+06/05/14 11:23:28:410 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:28:431 UI: HandleTouch: SelectHold
+06/05/14 11:23:28:431 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:28:435 PP: about to play button_beep.wav
+06/05/14 11:23:28:478 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:28:480 DM: Home (CallVolume)
+06/05/14 11:23:28:485 SM: Active: 10.21.56.11: RX [33] Hint Prompt completed
+06/05/14 11:23:28:486 SM: Active: 10.21.56.11: TX [33] Ack
+06/05/14 11:23:28:694 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:28:726 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:28:822 UI: HandleTouch: UpHold
+06/05/14 11:23:28:825 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:28:826 DM: CallVolume (Home)
+06/05/14 11:23:28:861 UI: HandleTouch: DownHold
+06/05/14 11:23:28:863 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:28:884 UI: HandleTouch: SelectHold
+06/05/14 11:23:28:888 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:28:889 PP: about to play button_beep.wav
+06/05/14 11:23:28:928 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:28:930 DM: Home (CallVolume)
+06/05/14 11:23:29:140 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:29:153 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:29:275 UI: HandleTouch: UpHold
+06/05/14 11:23:29:282 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:29:283 DM: CallVolume (Home)
+06/05/14 11:23:29:318 UI: HandleTouch: DownHold
+06/05/14 11:23:29:321 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:29:337 UI: HandleTouch: SelectHold
+06/05/14 11:23:29:338 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:29:338 PP: about to play button_beep.wav
+06/05/14 11:23:29:385 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:29:387 DM: Home (CallVolume)
+06/05/14 11:23:29:601 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:29:625 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:29:728 UI: HandleTouch: UpHold
+06/05/14 11:23:29:735 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:29:736 DM: CallVolume (Home)
+06/05/14 11:23:29:755 BT: Delaying UpRelease (13)
+06/05/14 11:23:29:756 BT: Unkown button device code: 0x07
+06/05/14 11:23:29:775 UI: HandleTouch: DownHold
+06/05/14 11:23:29:778 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:29:790 UI: HandleTouch: SelectHold
+06/05/14 11:23:29:791 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:29:792 PP: about to play button_beep.wav
+06/05/14 11:23:29:822 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:29:823 DM: Home (CallVolume)
+06/05/14 11:23:29:838 BT: Allowing delayed UpRelease (13)
+06/05/14 11:23:30:037 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:30:047 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:30:230 UI: HandleTouch: DownHold
+06/05/14 11:23:30:233 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:30:234 DM: CallVolume (Home)
+06/05/14 11:23:30:249 UI: HandleTouch: SelectHold
+06/05/14 11:23:30:249 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:30:251 PP: about to play button_beep.wav
+06/05/14 11:23:30:286 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:30:287 DM: Home (CallVolume)
+06/05/14 11:23:30:501 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:30:514 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:30:682 UI: HandleTouch: DownHold
+06/05/14 11:23:30:684 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:30:686 DM: CallVolume (Home)
+06/05/14 11:23:30:705 UI: HandleTouch: SelectHold
+06/05/14 11:23:30:705 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:30:706 PP: about to play button_beep.wav
+06/05/14 11:23:30:733 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:30:734 DM: Home (CallVolume)
+06/05/14 11:23:30:948 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:30:976 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:31:134 UI: HandleTouch: DownHold
+06/05/14 11:23:31:141 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:31:142 DM: CallVolume (Home)
+06/05/14 11:23:31:158 UI: HandleTouch: SelectHold
+06/05/14 11:23:31:158 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:31:159 PP: about to play button_beep.wav
+06/05/14 11:23:31:196 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:31:198 DM: Home (CallVolume)
+06/05/14 11:23:31:412 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:31:452 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:31:587 UI: HandleTouch: DownHold
+06/05/14 11:23:31:590 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:31:592 DM: CallVolume (Home)
+06/05/14 11:23:31:617 UI: HandleTouch: SelectHold
+06/05/14 11:23:31:618 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:31:619 PP: about to play button_beep.wav
+06/05/14 11:23:31:652 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:31:653 DM: Home (CallVolume)
+06/05/14 11:23:31:867 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:31:890 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:32:040 UI: HandleTouch: DownHold
+06/05/14 11:23:32:043 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:32:045 DM: CallVolume (Home)
+06/05/14 11:23:32:072 UI: HandleTouch: SelectHold
+06/05/14 11:23:32:073 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:32:073 PP: about to play button_beep.wav
+06/05/14 11:23:32:111 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:32:113 DM: Home (CallVolume)
+06/05/14 11:23:32:327 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:32:351 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:32:497 UI: HandleTouch: DownHold
+06/05/14 11:23:32:498 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:32:499 DM: CallVolume (Home)
+06/05/14 11:23:32:525 UI: HandleTouch: SelectHold
+06/05/14 11:23:32:525 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:32:526 PP: about to play button_beep.wav
+06/05/14 11:23:32:552 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:32:554 DM: Home (CallVolume)
+06/05/14 11:23:32:766 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:32:780 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:32:954 UI: HandleTouch: DownHold
+06/05/14 11:23:32:955 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:32:956 DM: CallVolume (Home)
+06/05/14 11:23:32:981 UI: HandleTouch: SelectHold
+06/05/14 11:23:32:982 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:32:983 PP: about to play button_beep.wav
+06/05/14 11:23:33:041 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:33:043 DM: Home (CallVolume)
+06/05/14 11:23:33:256 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:33:289 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:33:408 UI: HandleTouch: DownHold
+06/05/14 11:23:33:408 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:33:410 DM: CallVolume (Home)
+06/05/14 11:23:33:439 UI: HandleTouch: SelectHold
+06/05/14 11:23:33:440 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:33:441 PP: about to play button_beep.wav
+06/05/14 11:23:33:479 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:33:481 DM: Home (CallVolume)
+06/05/14 11:23:33:489 SM: Active: 10.21.56.11: RX [34] Hint NO_SPEECH_TIMEOUT
+06/05/14 11:23:33:490 SM: Active: 10.21.56.11: TX [34] Ack
+06/05/14 11:23:33:498 SM: Active: 10.21.56.11: RX [35] Hint Prompt: did_not_hear_you
+06/05/14 11:23:33:499 SM: Active: 10.21.56.11: TX [35] Ack
+06/05/14 11:23:33:694 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:33:721 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:33:862 UI: HandleTouch: DownHold
+06/05/14 11:23:33:863 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:33:867 DM: CallVolume (Home)
+06/05/14 11:23:33:895 UI: HandleTouch: SelectHold
+06/05/14 11:23:33:896 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:33:896 PP: about to play button_beep.wav
+06/05/14 11:23:33:932 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:33:934 DM: Home (CallVolume)
+06/05/14 11:23:34:146 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:34:158 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:34:314 UI: HandleTouch: DownHold
+06/05/14 11:23:34:314 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:34:316 DM: CallVolume (Home)
+06/05/14 11:23:34:353 UI: HandleTouch: SelectHold
+06/05/14 11:23:34:357 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:34:358 PP: about to play button_beep.wav
+06/05/14 11:23:34:403 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:34:405 DM: Home (CallVolume)
+06/05/14 11:23:34:619 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:34:629 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:34:767 UI: HandleTouch: DownHold
+06/05/14 11:23:34:768 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:34:769 DM: CallVolume (Home)
+06/05/14 11:23:34:806 UI: HandleTouch: SelectHold
+06/05/14 11:23:34:806 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:34:811 PP: about to play button_beep.wav
+06/05/14 11:23:34:861 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:34:863 DM: Home (CallVolume)
+06/05/14 11:23:35:077 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:35:091 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:35:220 UI: HandleTouch: DownHold
+06/05/14 11:23:35:221 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:35:222 DM: CallVolume (Home)
+06/05/14 11:23:35:259 UI: HandleTouch: SelectHold
+06/05/14 11:23:35:260 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:35:261 PP: about to play button_beep.wav
+06/05/14 11:23:35:298 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:35:300 DM: Home (CallVolume)
+06/05/14 11:23:35:378 SM: Active: 10.21.56.11: RX [36] Hint Prompt completed
+06/05/14 11:23:35:379 SM: Active: 10.21.56.11: TX [36] Ack
+06/05/14 11:23:35:513 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:35:554 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:35:673 UI: HandleTouch: DownHold
+06/05/14 11:23:35:674 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:35:675 DM: CallVolume (Home)
+06/05/14 11:23:35:712 UI: HandleTouch: SelectHold
+06/05/14 11:23:35:717 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:35:718 PP: about to play button_beep.wav
+06/05/14 11:23:35:768 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:35:769 DM: Home (CallVolume)
+06/05/14 11:23:35:983 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:35:999 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:36:128 UI: HandleTouch: DownHold
+06/05/14 11:23:36:128 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:36:129 DM: CallVolume (Home)
+06/05/14 11:23:36:165 UI: HandleTouch: SelectHold
+06/05/14 11:23:36:166 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:36:167 PP: about to play button_beep.wav
+06/05/14 11:23:36:213 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:36:215 DM: Home (CallVolume)
+06/05/14 11:23:36:428 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:36:446 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:36:579 UI: HandleTouch: DownHold
+06/05/14 11:23:36:580 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:36:582 DM: CallVolume (Home)
+06/05/14 11:23:36:619 UI: HandleTouch: SelectHold
+06/05/14 11:23:36:619 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:36:620 PP: about to play button_beep.wav
+06/05/14 11:23:36:682 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:36:684 DM: Home (CallVolume)
+06/05/14 11:23:36:864 BT: Delaying DownRelease (16)
+06/05/14 11:23:36:898 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:36:929 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:36:946 BT: Allowing delayed DownRelease (16)
+06/05/14 11:23:36:947 UI: HandleTouch: DownRelease
+06/05/14 11:23:37:075 UI: HandleTouch: SelectHold
+06/05/14 11:23:37:075 AM: StartPrompt: bCodec=1 bSpeech=1 bPrompt=0
+06/05/14 11:23:37:076 PP: about to play button_beep.wav
+06/05/14 11:23:37:121 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=1 iHeadsetMode=0
+06/05/14 11:23:37:336 AM: StopPrompt: bCodec=1 bSpeech=1 bPrompt=1
+06/05/14 11:23:37:359 AM: SetHeadsetModeAndVolume: bFSFP=1 bFS=0 bCodec=1 bSpeech=1 bPrompt=0 iHeadsetMode=0
+06/05/14 11:23:37:532 UI: HandleTouch: SelectHold
+06/05/14 11:23:37:986 UI: HandleTouch: SelectHold
+06/05/14 11:23:38:441 UI: HandleTouch: SelectHold
+06/05/14 11:23:38:892 UI: HandleTouch: SelectHold
+06/05/14 11:23:39:345 UI: HandleTouch: SelectHold
+06/05/14 11:23:39:798 UI: HandleTouch: SelectHold
+06/05/14 11:23:40:251 UI: HandleTouch: SelectHold
+06/05/14 11:23:40:377 SM: Active: 10.21.56.11: RX [37] Hint NO_SPEECH_TIMEOUT
+06/05/14 11:23:40:378 SM: Active: 10.21.56.11: TX [37] Ack
+06/05/14 11:23:40:390 SM: Active: 10.21.56.11: RX [38] Hint Prompt: cancelled_log_in
+06/05/14 11:23:40:391 SM: Active: 10.21.56.11: TX [38] Ack
+06/05/14 11:23:40:704 UI: HandleTouch: SelectHold
+06/05/14 11:23:41:160 UI: HandleTouch: SelectHold
+06/05/14 11:23:41:612 UI: HandleTouch: SelectHold
+06/05/14 11:23:41:801 SM: Active: 10.21.56.11: RX [39] Hint Prompt completed
+06/05/14 11:23:41:803 SM: Active: 10.21.56.11: TX [39] Ack
+06/05/14 11:23:41:815 SM: Active: 10.21.56.11: RX [40] Hint Prompt: bye
+06/05/14 11:23:41:816 SM: Active: 10.21.56.11: TX [40] Ack
+06/05/14 11:23:42:064 UI: HandleTouch: SelectHold
+06/05/14 11:23:42:126 UI: Terminating app to send logs...
+06/05/14 11:23:42:132 Posting q.semTerminate1...
+06/05/14 11:23:42:133 Received q.semTerminate1. Waiting on q.semTerminate2...
+06/05/14 11:23:42:135
+06/05/14 11:23:42:135 TRM: Current date and time: Mon Nov 30 03:04:51 2037
+06/05/14 11:23:42:136 TRM: B172:E61:badge Normal Termination
+06/05/14 11:23:42:136
+06/05/14 11:23:49:155 ----------------- back in vbl -----------------
+06/05/14 11:23:49:156 Current date and time: Mon Nov 30 03:04:57 2037

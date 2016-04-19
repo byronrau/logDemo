@@ -1,0 +1,16 @@
+
+Mon Nov 30 00:00:19 UTC 2037
+Sleeping...
+Woke up
+Mon Nov 30 00:00:26 UTC 2037
+Doing sync...
+Mon Nov 30 00:00:26 UTC 2037
+Waking up jffs2 thread...
+Waiting for jffs2 thread to complete...
+ThreadState=RWN
+Mon Nov 30 00:00:41 UTC 2037
+ThreadState=RWN
+Mon Nov 30 00:00:42 UTC 2037
+ThreadState=SWN
+Done
+Mon Nov 30 00:00:42 UTC 2037

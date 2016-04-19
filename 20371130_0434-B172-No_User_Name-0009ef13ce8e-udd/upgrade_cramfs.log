@@ -1,0 +1,19 @@
+
+Tue Dec  3 15:40:00 UTC 2013
+Upgrading the cramfs... 
+Dir  /mnt/ram/rfs  already exists.
+Tue Dec  3 15:40:00 UTC 2013
+Creating cramfs file ...
+Deleting FIPS binaries, only for the cramfs file
+
+Cramfs Image       : /tmp/rfs.cramfs
+Cramfs Block Base  : 41
+Cramfs Block Count : 80
+Cramfs upgrade log : /g3/badge/data/upgrade_cramfs.log
+Cramfs upgraded at : Tue Dec 3 15:41:07 UTC 2013
+
+blockBase:blockCount  = 41:80
+
+Done.
+Tue Dec  3 15:41:09 UTC 2013
+Done.

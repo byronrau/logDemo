@@ -1,0 +1,11 @@
+
+
+Secondary_Bootloader Image       : /g3/badge/linux/upper_boot_blocks.bin.new
+Secondary_Bootloader Block Base  : 21
+Secondary_Bootloader Block Count : 4
+Secondary_Bootloader upgrade log : /g3/badge/data/upgrade_secondary_bootloader.log
+Secondary_Bootloader upgraded at : Tue Dec 3 15:39:48 UTC 2013
+
+blockBase:blockCount  = 21:4
+
+Done.

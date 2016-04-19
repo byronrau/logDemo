@@ -1,0 +1,16 @@
+
+<div>
+  <div id="chart" style="width:100%; height:400px;">
+    <highchart id="chart1" config="chartConfig"></highchart>
+  </div>
+  <div>
+    <div class="form-group">
+      <input class="form-control" ng-model="searchText" placeholder="Filter Log">
+    </div>
+    <div class="log" style="width:100%; height:400px; overflow: auto">
+      <ul class="log-list" style="list-style: none;">
+        <li ng-repeat="logline in loglines | filter:searchText track by $index" ng-class="addTimeClass(logline)">{{logline.line}}</li>
+      </ul>
+    </div>
+  </div>
+</div>

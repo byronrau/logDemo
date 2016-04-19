@@ -1,0 +1,11 @@
+
+
+Primary_Bootloader Image       : /g3/badge/linux/upper_boot_blocks.bin.new
+Primary_Bootloader Block Base  : 1
+Primary_Bootloader Block Count : 4
+Primary_Bootloader upgrade log : /g3/badge/data/upgrade_primary_bootloader.log
+Primary_Bootloader upgraded at : Tue Dec 3 15:39:48 UTC 2013
+
+blockBase:blockCount  = 1:4
+
+Done.

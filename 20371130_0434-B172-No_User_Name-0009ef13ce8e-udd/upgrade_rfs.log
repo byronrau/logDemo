@@ -1,0 +1,1891 @@
+
+Filesystem Image : /g3/badge/linux/rootfs.arm_nofpu.tar.gz.new
+Tue Dec  3 15:39:50 UTC 2013
+Untaring to  /mnt/ram/rfs  ...
+bin/
+bin/mount
+bin/sleep
+bin/mt
+bin/true
+bin/su
+bin/sh
+bin/false
+bin/hcitool
+bin/mktemp
+bin/pwd
+bin/ciptool
+bin/l2ping
+bin/zfgrep
+bin/zless
+bin/cat
+bin/umount
+bin/busybox
+bin/zcmp
+bin/zforce
+bin/ping
+bin/df
+bin/dund
+bin/zdiff
+bin/mv
+bin/netstat
+bin/stty
+bin/ash
+bin/egrep
+bin/sed
+bin/bash
+bin/lsmod
+bin/pand
+bin/rmdir
+bin/adduser
+bin/uname
+bin/chmod
+bin/usleep
+bin/l2test
+bin/touch
+bin/mknod
+bin/cp
+bin/dmesg
+bin/echo
+bin/gzexe
+bin/rctest
+bin/sync
+bin/chgrp
+bin/zgrep
+bin/zcat
+bin/zegrep
+bin/gzip
+bin/pidof
+bin/hidd
+bin/hostname
+bin/bashbug
+bin/tar
+bin/ps
+bin/deluser
+bin/kill
+bin/chown
+bin/addgroup
+bin/sdptool
+bin/ln
+bin/bluepin
+bin/getopt
+bin/fgrep
+bin/zmore
+bin/mkdir
+bin/rm
+bin/znew
+bin/login
+bin/rfcomm
+bin/delgroup
+bin/more
+bin/vi
+bin/lsof
+bin/run-parts
+bin/grep
+bin/dd
+bin/ls
+bin/date
+bin/gunzip
+dev/
+dev/hdb13
+dev/hdb2
+dev/dsp
+dev/mtdblock6
+dev/dsptask6
+dev/mtd6
+dev/hda3
+dev/hdb
+dev/i2c-2
+dev/tty6
+dev/ttyp3
+dev/mtd8
+dev/oled
+dev/tty2
+dev/ttyp2
+dev/ttyS0
+dev/urandom
+dev/cod
+dev/mtdblock10
+dev/ram0
+dev/mtdblock14
+dev/ttyp8
+dev/ptyp0
+dev/dsptwch
+dev/ttyp0
+dev/ptyp2
+dev/hdb7
+dev/ram1
+dev/badgeDrvr
+dev/ptyp5
+dev/mtdblock8
+dev/dspctl
+dev/power_control
+dev/loop0
+dev/hdb9
+dev/mtdblock5
+dev/fb3
+dev/hda4
+dev/initrd
+dev/hdb12
+dev/hda6
+dev/ttyp6
+dev/ttyp7
+dev/mtdblock13
+dev/mtdblock11
+dev/hda11
+dev/mem
+dev/input/
+dev/input/event1
+dev/input/mouse2
+dev/input/event2
+dev/input/mouse3
+dev/input/event0
+dev/input/mice
+dev/input/mouse0
+dev/input/mouse1
+dev/input/event3
+dev/log
+dev/dsperr
+dev/mtd2
+dev/ttyP3
+dev/ttyS1
+dev/i2c-1
+dev/tty
+dev/codec
+dev/hda9
+dev/dsptask5
+dev/ttyP1
+dev/hdb6
+dev/dbgled
+dev/dsptask1
+dev/hda2
+dev/ads1000
+dev/tty0
+dev/mtdblock9
+dev/mtdblock7
+dev/ttygserial
+dev/mtd14
+dev/hdb11
+dev/ram2
+dev/zero
+dev/loop1
+dev/hdb3
+dev/mtd13
+dev/hdb1
+dev/mtd0
+dev/net/
+dev/net/tun
+dev/hdb10
+dev/shm/
+dev/ttyp1
+dev/bt_audio
+dev/dsptask8
+dev/ptyp8
+dev/hda
+dev/hdb4
+dev/ttyp5
+dev/mtdblock15
+dev/ptyp9
+dev/console
+dev/mtd3
+dev/mtdblock2
+dev/dspmem
+dev/i2c-0
+dev/hdb8
+dev/hdb14
+dev/ttyP0
+dev/ram3
+dev/dsptask0
+dev/hda14
+dev/ptyp7
+dev/mtd7
+dev/ptmx
+dev/ptyp4
+dev/mtd12
+dev/tty3
+dev/mtdblock1
+dev/i2c-3
+dev/tty1
+dev/mtd1
+dev/ttyS3
+dev/tty4
+dev/ttyS2
+dev/hda12
+dev/hda8
+dev/ttyP2
+dev/dsptask9
+dev/random
+dev/mixer
+dev/ptyp6
+dev/hda5
+dev/mtdblock12
+dev/rtc
+dev/mtd10
+dev/ttyp9
+dev/fb0
+dev/pts/
+dev/hda10
+dev/hda13
+dev/psaux
+dev/mtdblock3
+dev/dsptask3
+dev/ram
+dev/hda1
+dev/tty5
+dev/mtd5
+dev/mtdblock0
+dev/hdb5
+dev/ptyp3
+dev/watchdog
+dev/mtd11
+dev/mtdblock4
+dev/fb2
+dev/dsptask2
+dev/dsptask4
+dev/mtd9
+dev/dsptask7
+dev/battery
+dev/hda7
+dev/dsp1
+dev/mtd15
+dev/fb1
+dev/kmem
+dev/mtd4
+dev/ttyp4
+dev/tty7
+dev/ptyp1
+dev/null
+etc/
+etc/targetdefinitions.sh
+etc/hosts
+etc/protocols
+etc/bluetooth/
+etc/bluetooth/rfcomm.conf
+etc/bluetooth/hcid.conf
+etc/bluetooth/pin
+etc/rsync/
+etc/rsync/rsync.rules
+etc/bashrc
+etc/inputrc
+etc/profile
+etc/init.d/
+etc/init.d/rc.badge/
+etc/init.d/rc.badge/S93wdt
+etc/init.d/rc.badge/S10external_wd
+etc/init.d/rc.badge/S09badge
+etc/init.d/rc.badge/Sxxwlannew
+etc/init.d/rc.badge/mfg_S29marvell
+etc/init.d/rc.badge/S95aic29
+etc/init.d/rc.badge/S29marvell
+etc/init.d/rc.badge/S99udhcpc
+etc/init.d/rc.badge/S50dropbear
+etc/init.d/rc.badge/S98oled
+etc/init.d/rc.badge/S88rtc
+etc/init.d/rc.badge/S53atd
+etc/init.d/rc.badge/S97dbgled
+etc/init.d/rc.badge/S94dspgw
+etc/init.d/rc.badge/S99setarpdefaults
+etc/init.d/rc.badge/Sxxwlan
+etc/init.d/rc.badge/S40audio
+etc/init.d/rc.badge/V01badge
+etc/init.d/rc.sys/
+etc/init.d/rc.sys/S32loopback
+etc/init.d/rc.sys/S10syslogd
+etc/init.d/rc.sys/S20urandom
+etc/init.d/rc.sys/S05bscripts
+etc/init.d/rc.sys/S85ramdisk
+etc/init.d/rc.sys/V01sys
+etc/init.d/rc.sys/S96usbnet
+etc/init.d/rc.sys/S04ramdisk
+etc/init.d/rc.sys/S40network
+etc/init.d/rcS
+etc/securetty
+etc/mtab
+etc/passwd
+etc/services
+etc/ld.so.cache
+etc/hostname
+etc/group
+etc/network/
+etc/network/if-post-down.d/
+etc/network/if-up.d/
+etc/network/if-pre-up.d/
+etc/network/if-down.d/
+etc/network/interfaces
+etc/syslog.conf
+etc/inittab
+etc/random-seed
+etc/issue
+etc/shadow
+g3/
+g3/badge/
+g3/badge/data/
+g3/badge/data/profiles.txt
+g3/badge/linux/
+g3/badge/linux/BAR.txt
+g3/badge/linux/gen3a.txt
+g3/badge/bin/
+g3/badge/bin/fips_rt.out
+g3/badge/bin/start_vbl.sh
+g3/badge/bin/std_vcb.out
+g3/badge/bin/vbl.out
+g3/badge/bin/oled_message.out
+g3/badge/bin/dhcpmon.out
+g3/badge/bin/audio.out
+g3/badge/bin/btt.out
+g3/badge/bin/dspctl
+g3/badge/bin/check_n_start_watcher.sh
+g3/badge/bin/rpd.out
+g3/badge/bin/qt.out
+g3/badge/bin/rwmem.out
+g3/badge/bin/fips_wlanup.out
+g3/badge/bin/watcher.out
+g3/badge/bin/std_wlanup.out
+g3/badge/bin/std_updater.out
+g3/badge/bin/check_n_start_usb_serial.sh
+g3/badge/bin/start_vbl.out
+g3/badge/bin/std_rt.out
+g3/badge/bin/check_n_start_vbl.sh
+g3/badge/bin/setclock.out
+g3/badge/bin/get_badge_prop.sh
+g3/badge/bin/fips_b.out
+g3/badge/bin/sendlogs.sh
+g3/badge/bin/std_b.out
+g3/badge/bin/at.out
+g3/badge/bin/reinit_syssrv.out
+g3/badge/bin/check_n_start_qt.sh
+g3/badge/bin/fips_vcb.out
+g3/badge/bin/era.out
+g3/badge/bin/fips_updater.out
+g3/badge/bin/version.out
+g3/badge/lib/
+g3/badge/lib/placeholder.txt
+g3/badge/lib/fips_libcrypto.so
+g3/badge/lib/libb.so
+g3/badge/lib/fips_libcrypto.so.sig
+g3/badge/lib/libupdater.so
+g3/badge/lib/libcom.so
+g3/badge/lib/lib80211.so
+g3/badge/lib/libsecurity.so
+g3/badge/lib/libcore.so
+g3/badge/lib/std_libcrypto.so
+g3/badge/res/
+g3/badge/res/fonts/
+g3/badge/res/fonts/Home_Screen.ttf
+g3/badge/res/fonts/New_Small.ttf
+g3/badge/res/fonts/New_Big.ttf
+g3/badge/res/fonts/Menu_Value.ttf
+g3/badge/res/prompts/
+g3/badge/res/prompts/french/
+g3/badge/res/prompts/french/upload-complete.wav
+g3/badge/res/prompts/french/updating_firmware.wav
+g3/badge/res/prompts/french/busy.wav
+g3/badge/res/prompts/french/tier1_badge_error.wav
+g3/badge/res/prompts/french/low_battery.wav
+g3/badge/res/prompts/french/update_complete.wav
+g3/badge/res/prompts/french/tier2_badge_error.wav
+g3/badge/res/prompts/french/uploading-badge-diagnostics.wav
+g3/badge/res/prompts/french/searching_for_server.wav
+g3/badge/res/prompts/common/
+g3/badge/res/prompts/common/low_battery_tone.wav
+g3/badge/res/prompts/common/button_beep.wav
+g3/badge/res/prompts/common/incoming_message.wav
+g3/badge/res/prompts/common/back_in_range.wav
+g3/badge/res/prompts/common/urgent.wav
+g3/badge/res/prompts/common/out_of_range.wav
+g3/badge/res/prompts/common/new_party.wav
+g3/badge/res/prompts/common/party_left.wav
+g3/badge/res/prompts/common/release_ptt.wav
+g3/badge/res/prompts/english/
+g3/badge/res/prompts/english/upload-complete.wav
+g3/badge/res/prompts/english/updating_firmware.wav
+g3/badge/res/prompts/english/busy.wav
+g3/badge/res/prompts/english/tier1_badge_error.wav
+g3/badge/res/prompts/english/low_battery.wav
+g3/badge/res/prompts/english/update_complete.wav
+g3/badge/res/prompts/english/tier2_badge_error.wav
+g3/badge/res/prompts/english/uploading-badge-diagnostics.wav
+g3/badge/res/prompts/english/searching_for_server.wav
+g3/badge/res/icons/
+g3/badge/res/icons/french/
+g3/badge/res/icons/french/power_off.bmp
+g3/badge/res/icons/french/settings.bmp
+g3/badge/res/icons/french/return_home.bmp
+g3/badge/res/icons/french/font.bmp
+g3/badge/res/icons/french/info.bmp
+g3/badge/res/icons/french/bti.dat
+g3/badge/res/icons/french/volume.bmp
+g3/badge/res/icons/french/invert.bmp
+g3/badge/res/icons/french/handset_menuicon.bmp
+g3/badge/res/icons/french/messages.bmp
+g3/badge/res/icons/french/dnd_mode.bmp
+g3/badge/res/icons/french/groupmodestate_menuicon.bmp
+g3/badge/res/icons/common/
+g3/badge/res/icons/common/volume_2.bmp
+g3/badge/res/icons/common/unread.bmp
+g3/badge/res/icons/common/phone.bmp
+g3/badge/res/icons/common/signal_4.bmp
+g3/badge/res/icons/common/read.bmp
+g3/badge/res/icons/common/headset_mode.bmp
+g3/badge/res/icons/common/btmi.dat
+g3/badge/res/icons/common/volume_1.bmp
+g3/badge/res/icons/common/more_above_old.bmp
+g3/badge/res/icons/common/vocera.bmp
+g3/badge/res/icons/common/volume_5.bmp
+g3/badge/res/icons/common/battery_3.bmp
+g3/badge/res/icons/common/archived.bmp
+g3/badge/res/icons/common/volume_3.bmp
+g3/badge/res/icons/common/bths.dat
+g3/badge/res/icons/common/text.bmp
+g3/badge/res/icons/common/battery_1.bmp
+g3/badge/res/icons/common/signal_3.bmp
+g3/badge/res/icons/common/volume_6.bmp
+g3/badge/res/icons/common/badge.bmp
+g3/badge/res/icons/common/battery_4.bmp
+g3/badge/res/icons/common/battery_2.bmp
+g3/badge/res/icons/common/signal_0.bmp
+g3/badge/res/icons/common/signal_1.bmp
+g3/badge/res/icons/common/signal_2.bmp
+g3/badge/res/icons/common/volume_4.bmp
+g3/badge/res/icons/common/more_below.bmp
+g3/badge/res/icons/common/battery_5.bmp
+g3/badge/res/icons/common/volume_0.bmp
+g3/badge/res/icons/common/more_above.bmp
+g3/badge/res/icons/common/handset_mode.bmp
+g3/badge/res/icons/common/speaker_mode.bmp
+g3/badge/res/icons/common/more_below_old.bmp
+g3/badge/res/icons/english/
+g3/badge/res/icons/english/power_off.bmp
+g3/badge/res/icons/english/settings.bmp
+g3/badge/res/icons/english/return_home.bmp
+g3/badge/res/icons/english/font.bmp
+g3/badge/res/icons/english/info.bmp
+g3/badge/res/icons/english/bti.dat
+g3/badge/res/icons/english/volume.bmp
+g3/badge/res/icons/english/invert.bmp
+g3/badge/res/icons/english/handset_menuicon.bmp
+g3/badge/res/icons/english/messages.bmp
+g3/badge/res/icons/english/dnd_mode.bmp
+g3/badge/res/icons/english/groupmodestate_menuicon.bmp
+g3/badge/res/certificates/
+g3/badge/res/certificates/EAP-TLS/
+g3/badge/res/certificates/EAP-TLS/vi/
+g3/badge/res/certificates/EAP-TLS/vi/a_d
+g3/badge/res/certificates/EAP-TLS/vi/c_p
+g3/badge/res/certificates/EAP-TLS/vi/b_p
+g3/badge/res/certificates/PEAP/
+g3/badge/res/certificates/PEAP/placeholder.txt
+g3/badge/res/certificates/PEAP/vi/
+g3/badge/res/certificates/PEAP/vi/a_d
+g3/badge/res/certificates/PEAP/vi/c_p
+g3/badge/res/certificates/PEAP/vi/b_p
+g3/badge/res/certificates/EAP-Fast/
+g3/badge/res/certificates/EAP-Fast/placeholder.txt
+g3/badge/scripts/
+g3/badge/scripts/reinit-syssrv.sh
+g3/badge/scripts/check_n_upgrade_cramfs.sh
+g3/badge/scripts/post-rfs-upgrade.sh
+g3/badge/scripts/pre-rfs-upgrade.sh
+g3/badge/scripts/generic-bootup.sh
+home/
+home/default/
+lib/
+lib/libm-0.9.28.so
+lib/ld-uClibc.so.0
+lib/libcrypt.so.0
+lib/librt-0.9.28.so
+lib/libthread_db.so.1
+lib/libgcc_s.so
+lib/modules/
+lib/modules/2.6.16-rc3-omap1/
+lib/modules/2.6.16-rc3-omap1/modules.symbols
+lib/modules/2.6.16-rc3-omap1/modules.ccwmap
+lib/modules/2.6.16-rc3-omap1/modules.alias
+lib/modules/2.6.16-rc3-omap1/modules.isapnpmap
+lib/modules/2.6.16-rc3-omap1/build
+lib/modules/2.6.16-rc3-omap1/modules.usbmap
+lib/modules/2.6.16-rc3-omap1/modules.dep
+lib/modules/2.6.16-rc3-omap1/modules.ieee1394map
+lib/modules/2.6.16-rc3-omap1/kernel/
+lib/modules/2.6.16-rc3-omap1/kernel/fs/
+lib/modules/2.6.16-rc3-omap1/kernel/fs/nls/
+lib/modules/2.6.16-rc3-omap1/kernel/fs/nls/nls_iso8859-1.ko
+lib/modules/2.6.16-rc3-omap1/kernel/net/
+lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/
+lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/sco.ko
+lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/l2cap.ko
+lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/bluetooth.ko
+lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/rfcomm/
+lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/rfcomm/rfcomm.ko
+lib/modules/2.6.16-rc3-omap1/kernel/arch/
+lib/modules/2.6.16-rc3-omap1/kernel/arch/arm/
+lib/modules/2.6.16-rc3-omap1/kernel/arch/arm/plat-omap/
+lib/modules/2.6.16-rc3-omap1/kernel/arch/arm/plat-omap/gpio_diag.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/vocera/
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/vocera/bt_audio.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/vocera/dbg_xf.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/bluetooth/
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/bluetooth/hci_uart.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/std_marvel/
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/std_marvel/gspi8xxx.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/std_marvel/gspi.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/gspi8xxx.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/gspi.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/gspi.ko.sig
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/gspi8xxx.ko.sig
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/gadget/
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/gadget/g_ether.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/gadget/omap_udc.ko
+lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/gadget/g_serial.ko
+lib/modules/2.6.16-rc3-omap1/source
+lib/modules/2.6.16-rc3-omap1/modules.pcimap
+lib/modules/2.6.16-rc3-omap1/modules.inputmap
+lib/libuClibc-0.9.28.so
+lib/libnsl.so.0
+lib/libstdc++.so
+lib/firmware/
+lib/firmware/std_mrvl_fw/
+lib/firmware/std_mrvl_fw/helper_gspi.bin
+lib/firmware/std_mrvl_fw/gspi8688.bin
+lib/firmware/std_mrvl_fw/mfg_gspi8688.bin
+lib/firmware/fips_mrvl_fw/
+lib/firmware/fips_mrvl_fw/helper_gspi.bin
+lib/firmware/fips_mrvl_fw/gspi8688.bin.sig
+lib/firmware/fips_mrvl_fw/helper_gspi.bin.sig
+lib/firmware/fips_mrvl_fw/gspi8688.bin
+lib/firmware/fips_mrvl_fw/mfg_gspi8688.bin
+lib/libncurses.so.5.5
+lib/libbluetooth.so.1
+lib/libncurses.so.5
+lib/libdl.so.0
+lib/libz.so.1.2.3
+lib/libpthread-0.9.28.so
+lib/libresolv.so.0
+lib/libgcc_s.so.1
+lib/libbluetooth.so
+lib/libdl-0.9.28.so
+lib/libstdc++.so.6.0.2
+lib/librt.so.0
+lib/ld-uClibc-0.9.28.so
+lib/pkgconfig/
+lib/pkgconfig/bluez.pc
+lib/libm.so.0
+lib/libc.so.0
+lib/libpthread.so.0
+lib/libstdc++.so.6
+lib/libnsl-0.9.28.so
+lib/libcrypt-0.9.28.so
+lib/libz.so.1
+lib/libncurses.so
+lib/libresolv-0.9.28.so
+lib/libutil.so.0
+lib/libutil-0.9.28.so
+lib/libbluetooth.la
+lib/libbluetooth.so.1.0.25
+lib/libz.so
+lib/libthread_db-0.9.28.so
+lib/rsa_sig_verify.so
+lib/rsa_sig_verify.so.sig
+linuxrc
+mnt/
+mnt/jffs2/
+mnt/ram/
+opt/
+proc/
+root/
+root/.bashrc
+root/update-nand
+root/.bash_logout
+root/.bash_history
+root/update-ffb
+root/.bash_profile
+sbin/
+sbin/klogd
+sbin/cramfsck
+sbin/udhcpc
+sbin/ddc
+sbin/iwconfig
+sbin/hcid
+sbin/stop-ssh
+sbin/sulogin
+sbin/nand_write.out
+sbin/btgw.out
+sbin/iwlist
+sbin/mke2fs
+sbin/insmod.static
+sbin/dump-sys-hist
+sbin/halt
+sbin/reboot
+sbin/start-wland
+sbin/pseudocons.out
+sbin/swapon
+sbin/stop-usbeth
+sbin/stop-systemlog
+sbin/hciemu
+sbin/mkfs.ext2
+sbin/chrt.out
+sbin/sdpd
+sbin/start-bt
+sbin/image_updater
+sbin/disable-udhcpc
+sbin/wait-n-disable-udhcpc
+sbin/nand_dump.out
+sbin/swapoff
+sbin/fdisk
+sbin/start-usbeth
+sbin/mkfs.ext3
+sbin/iwspy
+sbin/poweroff
+sbin/stop-bt
+sbin/stop-console-ssh.sh
+sbin/modprobe
+sbin/upgrade-rfs
+sbin/depmod
+sbin/upgrade-uboot
+sbin/nand_erase.out
+sbin/start-ssh
+sbin/mkswap
+sbin/restart-wland
+sbin/hwclock
+sbin/hciconfig
+sbin/cancel-jffs2wdt
+sbin/route
+sbin/ifup
+sbin/upgrade-kernel
+sbin/mksock
+sbin/insmod
+sbin/generate-modprobe.conf
+sbin/ldconfig
+sbin/rmmod
+sbin/iwgetid
+sbin/logreboot.sh
+sbin/init
+sbin/getty
+sbin/update-wland
+sbin/write_system_history_record.out
+sbin/syslogd
+sbin/pivot_root
+sbin/stop-udhcpc
+sbin/ifconfig
+sbin/iwpriv
+sbin/stop-wland
+sbin/start-systemlog
+sbin/upgrade-badge
+sbin/upgrade-cramfs
+sbin/ifdown
+sbin/mkcramfs
+sbin/start-udhcpc
+sbin/start-console-ssh.sh
+sbin/hciattach
+sbin/stop-all-console-ssh.sh
+sbin/modinfo
+sbin/fl_date.out
+sbin/start-stop-daemon
+sbin/usbup
+sbin/upgrade-fs-using-rsync
+share/
+share/aclocal/
+share/aclocal/bluez.m4
+sys/
+tmp/
+usr/
+usr/sbin/
+usr/sbin/docfdisk
+usr/sbin/flash_erase
+usr/sbin/dropbear
+usr/sbin/flash_info
+usr/sbin/flash_unlock
+usr/sbin/nanddump
+usr/sbin/flash_lock
+usr/sbin/ftl_check
+usr/sbin/flash_eraseall
+usr/sbin/mtd_debug
+usr/sbin/udhcpd
+usr/sbin/rdate
+usr/sbin/chroot
+usr/sbin/ftl_format
+usr/sbin/doc_loadbios
+usr/sbin/nandwrite
+usr/sbin/flashcp
+usr/bin/
+usr/bin/md5sum
+usr/bin/whoami
+usr/bin/basename
+usr/bin/dropbearkey
+usr/bin/uuencode
+usr/bin/unzip
+usr/bin/id
+usr/bin/tftp
+usr/bin/lessecho
+usr/bin/awk
+usr/bin/time
+usr/bin/telnet
+usr/bin/uptime
+usr/bin/install
+usr/bin/less
+usr/bin/env
+usr/bin/rsync
+usr/bin/bzcat
+usr/bin/vlock
+usr/bin/hostid
+usr/bin/du
+usr/bin/scp
+usr/bin/gdbserver
+usr/bin/find
+usr/bin/clear
+usr/bin/uniq
+usr/bin/tee
+usr/bin/tty
+usr/bin/sort
+usr/bin/tail
+usr/bin/nslookup
+usr/bin/killall
+usr/bin/dos2unix
+usr/bin/cut
+usr/bin/test
+usr/bin/uudecode
+usr/bin/dc
+usr/bin/hexdump
+usr/bin/passwd
+usr/bin/sha1sum
+usr/bin/lesskey
+usr/bin/[
+usr/bin/head
+usr/bin/yes
+usr/bin/ssh
+usr/bin/reset
+usr/bin/strace
+usr/bin/unix2dos
+usr/bin/logger
+usr/bin/xargs
+usr/bin/expr
+usr/bin/which
+usr/bin/bunzip2
+usr/bin/wc
+usr/bin/chvt
+usr/bin/readlink
+usr/bin/dbclient
+usr/bin/bluepin
+usr/bin/free
+usr/bin/dumpleases
+usr/bin/[[
+usr/bin/fdformat
+usr/bin/top
+usr/bin/logname
+usr/bin/wget
+usr/bin/strings
+usr/bin/ldd
+usr/bin/cmp
+usr/bin/dirname
+usr/bin/openvt
+usr/bin/dropbearconvert
+usr/bin/deallocvt
+usr/share/
+usr/share/udhcpc/
+usr/share/udhcpc/default.script
+usr/share/terminfo/
+usr/share/terminfo/x/
+usr/share/terminfo/x/xterm
+usr/share/terminfo/x/xterm-xfree86
+usr/share/terminfo/x/xterm-color
+usr/share/terminfo/v/
+usr/share/terminfo/v/vt200
+usr/share/terminfo/v/vt100
+usr/share/terminfo/a/
+usr/share/terminfo/a/ansi
+usr/share/terminfo/l/
+usr/share/terminfo/l/linux
+usr/lib/
+usr/lib/terminfo
+var/
+var/spool
+var/run
+var/tmp
+var/log
+var/lib/
+var/lib/bluetooth/
+var/lib/pcmcia
+var/pcmcia
+var/lock
+var/www/
+var/www/data/
+var/www/logs/
+Running pre-rfs-upgrade script...
+** Using the destination version of upgrade-cramfs **
+Tue Dec  3 15:40:00 UTC 2013
+Calling cramfs script ...
+Tue Dec  3 15:41:09 UTC 2013
+Cramfs script done
+Tue Dec  3 15:41:10 UTC 2013
+Copying files using rsync ...
+building file list ... 
+ 0 files... 100 files... 200 files... 300 files... 400 files... 500 files... 600 files... 700 files... 800 files...811 files to consider
+delta-transmission disabled for local transfer or --whole-file
+.d..t.... ./
+.L        linuxrc -> bin/busybox
+.d        bin/
+.L        bin/addgroup -> busybox
+.L        bin/adduser -> busybox
+.L        bin/ash -> busybox
+.f        bin/bash
+.f        bin/bashbug
+.f        bin/bluepin
+.f        bin/busybox
+.L        bin/cat -> busybox
+.L        bin/chgrp -> busybox
+.L        bin/chmod -> busybox
+.L        bin/chown -> busybox
+.f        bin/ciptool
+.L        bin/cp -> busybox
+.L        bin/date -> busybox
+.L        bin/dd -> busybox
+.L        bin/delgroup -> busybox
+.L        bin/deluser -> busybox
+.L        bin/df -> busybox
+.L        bin/dmesg -> busybox
+.f        bin/dund
+.L        bin/echo -> busybox
+.L        bin/egrep -> busybox
+.L        bin/false -> busybox
+.L        bin/fgrep -> busybox
+.L        bin/getopt -> busybox
+.L        bin/grep -> busybox
+.L        bin/gunzip -> gzip
+.f        bin/gzexe
+.f        bin/gzip
+.f        bin/hcitool
+.f        bin/hidd
+.L        bin/hostname -> busybox
+.L        bin/kill -> busybox
+.f        bin/l2ping
+.f        bin/l2test
+.L        bin/ln -> busybox
+.L        bin/login -> busybox
+.L        bin/ls -> busybox
+.f        bin/lsmod
+.f        bin/lsof
+.L        bin/mkdir -> busybox
+.L        bin/mknod -> busybox
+.L        bin/mktemp -> busybox
+.L        bin/more -> busybox
+.L        bin/mount -> busybox
+.L        bin/mt -> busybox
+.L        bin/mv -> busybox
+.L        bin/netstat -> busybox
+.f        bin/pand
+.L        bin/pidof -> busybox
+.L        bin/ping -> busybox
+.L        bin/ps -> busybox
+.L        bin/pwd -> busybox
+.f        bin/rctest
+.f        bin/rfcomm
+.L        bin/rm -> busybox
+.L        bin/rmdir -> busybox
+.L        bin/run-parts -> busybox
+.f        bin/sdptool
+.L        bin/sed -> busybox
+.L        bin/sh -> bash
+.L        bin/sleep -> busybox
+.L        bin/stty -> busybox
+.L        bin/su -> busybox
+.L        bin/sync -> busybox
+.f        bin/tar
+.L        bin/touch -> busybox
+.L        bin/true -> busybox
+.L        bin/umount -> busybox
+.L        bin/uname -> busybox
+.L        bin/usleep -> busybox
+.L        bin/vi -> busybox
+.L        bin/zcat -> gzip
+.L        bin/zcmp -> zdiff
+.f        bin/zdiff
+.L        bin/zegrep -> zgrep
+.L        bin/zfgrep -> zgrep
+.f        bin/zforce
+.f        bin/zgrep
+.f        bin/zless
+.f        bin/zmore
+.f        bin/znew
+.d..t.... dev/
+.D        dev/ads1000
+cD+++++++ dev/badgeDrvr
+.D        dev/battery
+.D        dev/bt_audio
+.D        dev/cod
+.D        dev/codec
+.D..t.... dev/console
+.D        dev/dbgled
+.D        dev/dsp
+.D        dev/dsp1
+.D        dev/dspctl
+.D        dev/dsperr
+.D        dev/dspmem
+.D        dev/dsptask0
+.D        dev/dsptask1
+.D        dev/dsptask2
+.D        dev/dsptask3
+.D        dev/dsptask4
+.D        dev/dsptask5
+.D        dev/dsptask6
+.D        dev/dsptask7
+.D        dev/dsptask8
+.D        dev/dsptask9
+.D        dev/dsptwch
+.D        dev/fb0
+.D        dev/fb1
+.D        dev/fb2
+.D        dev/fb3
+.D        dev/hda
+.D        dev/hda1
+.D        dev/hda10
+.D        dev/hda11
+.D        dev/hda12
+.D        dev/hda13
+.D        dev/hda14
+.D        dev/hda2
+.D        dev/hda3
+.D        dev/hda4
+.D        dev/hda5
+.D        dev/hda6
+.D        dev/hda7
+.D        dev/hda8
+.D        dev/hda9
+.D        dev/hdb
+.D        dev/hdb1
+.D        dev/hdb10
+.D        dev/hdb11
+.D        dev/hdb12
+.D        dev/hdb13
+.D        dev/hdb14
+.D        dev/hdb2
+.D        dev/hdb3
+.D        dev/hdb4
+.D        dev/hdb5
+.D        dev/hdb6
+.D        dev/hdb7
+.D        dev/hdb8
+.D        dev/hdb9
+.D        dev/i2c-0
+.D        dev/i2c-1
+.D        dev/i2c-2
+.D        dev/i2c-3
+.D        dev/initrd
+.D        dev/kmem
+.L        dev/log -> ../tmp/log
+.D        dev/loop0
+.D        dev/loop1
+.D        dev/mem
+.D        dev/mixer
+.D        dev/mtd0
+.D        dev/mtd1
+.D        dev/mtd10
+.D        dev/mtd11
+.D        dev/mtd12
+.D        dev/mtd13
+.D        dev/mtd14
+.D        dev/mtd15
+.D        dev/mtd2
+.D        dev/mtd3
+.D        dev/mtd4
+.D        dev/mtd5
+.D        dev/mtd6
+.D        dev/mtd7
+.D        dev/mtd8
+.D        dev/mtd9
+.D        dev/mtdblock0
+.D        dev/mtdblock1
+.D        dev/mtdblock10
+.D        dev/mtdblock11
+.D        dev/mtdblock12
+.D        dev/mtdblock13
+.D        dev/mtdblock14
+.D        dev/mtdblock15
+.D        dev/mtdblock2
+.D        dev/mtdblock3
+.D        dev/mtdblock4
+.D        dev/mtdblock5
+.D        dev/mtdblock6
+.D        dev/mtdblock7
+.D        dev/mtdblock8
+.D        dev/mtdblock9
+.D        dev/null
+.D        dev/oled
+.D        dev/power_control
+.D        dev/psaux
+.D        dev/ptmx
+.D        dev/ptyp0
+.D        dev/ptyp1
+.D        dev/ptyp2
+.D        dev/ptyp3
+.D        dev/ptyp4
+.D        dev/ptyp5
+.D        dev/ptyp6
+.D        dev/ptyp7
+.D        dev/ptyp8
+.D        dev/ptyp9
+.D        dev/ram
+.D        dev/ram0
+.D        dev/ram1
+.D        dev/ram2
+.D        dev/ram3
+.D        dev/random
+.D        dev/rtc
+.D        dev/tty
+.D        dev/tty0
+.D        dev/tty1
+.D        dev/tty2
+.D        dev/tty3
+.D        dev/tty4
+.D        dev/tty5
+.D        dev/tty6
+.D        dev/tty7
+.D        dev/ttyP0
+.D        dev/ttyP1
+.D        dev/ttyP2
+.D        dev/ttyP3
+.D        dev/ttyS0
+.D        dev/ttyS1
+.D        dev/ttyS2
+.D        dev/ttyS3
+.D        dev/ttygserial
+.D        dev/ttyp0
+.D        dev/ttyp1
+.D        dev/ttyp2
+.D        dev/ttyp3
+.D        dev/ttyp4
+.D        dev/ttyp5
+.D        dev/ttyp6
+.D        dev/ttyp7
+.D        dev/ttyp8
+.D        dev/ttyp9
+.D        dev/urandom
+.D        dev/watchdog
+.D        dev/zero
+.d        dev/input/
+.D        dev/input/event0
+.D        dev/input/event1
+.D        dev/input/event2
+.D        dev/input/event3
+.D        dev/input/mice
+.D        dev/input/mouse0
+.D        dev/input/mouse1
+.D        dev/input/mouse2
+.D        dev/input/mouse3
+.d        dev/net/
+.D        dev/net/tun
+.d        dev/pts/
+.d        dev/shm/
+.d        etc/
+.f        etc/bashrc
+.f        etc/group
+.f        etc/hostname
+.f        etc/hosts
+.f        etc/inittab
+.f        etc/inputrc
+.f        etc/issue
+.f        etc/ld.so.cache
+.L        etc/mtab -> ../proc/mounts
+.f        etc/passwd
+.f        etc/profile
+.f        etc/protocols
+.f        etc/random-seed
+.f        etc/securetty
+.f        etc/services
+.f        etc/shadow
+.f        etc/syslog.conf
+.f        etc/targetdefinitions.sh
+.d        etc/bluetooth/
+.f        etc/bluetooth/hcid.conf
+.f        etc/bluetooth/pin
+.f        etc/bluetooth/rfcomm.conf
+.d        etc/init.d/
+.f        etc/init.d/rcS
+.d        etc/init.d/rc.badge/
+.f        etc/init.d/rc.badge/S09badge
+.f        etc/init.d/rc.badge/S10external_wd
+.f        etc/init.d/rc.badge/S29marvell
+.f        etc/init.d/rc.badge/S40audio
+.f        etc/init.d/rc.badge/S50dropbear
+.f        etc/init.d/rc.badge/S53atd
+.f        etc/init.d/rc.badge/S88rtc
+.f        etc/init.d/rc.badge/S93wdt
+.f        etc/init.d/rc.badge/S94dspgw
+.f        etc/init.d/rc.badge/S95aic29
+.f        etc/init.d/rc.badge/S97dbgled
+.f        etc/init.d/rc.badge/S98oled
+.f        etc/init.d/rc.badge/S99setarpdefaults
+.f        etc/init.d/rc.badge/S99udhcpc
+.f        etc/init.d/rc.badge/Sxxwlan
+.f        etc/init.d/rc.badge/Sxxwlannew
+.f        etc/init.d/rc.badge/V01badge
+.f        etc/init.d/rc.badge/mfg_S29marvell
+.d        etc/init.d/rc.sys/
+.f        etc/init.d/rc.sys/S04ramdisk
+.f        etc/init.d/rc.sys/S05bscripts
+.f        etc/init.d/rc.sys/S10syslogd
+.f        etc/init.d/rc.sys/S20urandom
+.f        etc/init.d/rc.sys/S32loopback
+.f        etc/init.d/rc.sys/S40network
+.f        etc/init.d/rc.sys/S85ramdisk
+.f        etc/init.d/rc.sys/S96usbnet
+.f        etc/init.d/rc.sys/V01sys
+.d        etc/network/
+.f        etc/network/interfaces
+.d        etc/network/if-down.d/
+.d        etc/network/if-post-down.d/
+.d        etc/network/if-pre-up.d/
+.d        etc/network/if-up.d/
+.d        etc/rsync/
+.f        etc/rsync/rsync.rules
+.d        g3/
+.d        g3/badge/
+.d..t.... g3/badge/bin/
+.f        g3/badge/bin/at.out
+.f        g3/badge/bin/audio.out
+.f        g3/badge/bin/btt.out
+.f        g3/badge/bin/check_n_start_qt.sh
+.f        g3/badge/bin/check_n_start_usb_serial.sh
+.f        g3/badge/bin/check_n_start_vbl.sh
+.f        g3/badge/bin/check_n_start_watcher.sh
+.f        g3/badge/bin/dhcpmon.out
+.f        g3/badge/bin/dspctl
+.f        g3/badge/bin/era.out
+.f        g3/badge/bin/fips_b.out
+.f        g3/badge/bin/fips_rt.out
+.f        g3/badge/bin/fips_updater.out
+.f        g3/badge/bin/fips_vcb.out
+.f        g3/badge/bin/fips_wlanup.out
+.f        g3/badge/bin/get_badge_prop.sh
+.f        g3/badge/bin/oled_message.out
+.f        g3/badge/bin/qt.out
+.f        g3/badge/bin/reinit_syssrv.out
+.f        g3/badge/bin/rpd.out
+.f        g3/badge/bin/rwmem.out
+.f        g3/badge/bin/sendlogs.sh
+.f        g3/badge/bin/setclock.out
+.f        g3/badge/bin/start_vbl.out
+.f        g3/badge/bin/start_vbl.sh
+.f        g3/badge/bin/std_b.out
+.f        g3/badge/bin/std_rt.out
+.f        g3/badge/bin/std_updater.out
+.f        g3/badge/bin/std_vcb.out
+.f        g3/badge/bin/std_wlanup.out
+.f        g3/badge/bin/vbl.out
+.f        g3/badge/bin/version.out
+.f        g3/badge/bin/watcher.out
+.d..t.... g3/badge/data/
+.f        g3/badge/data/profiles.txt
+.d..t.... g3/badge/lib/
+.f        g3/badge/lib/fips_libcrypto.so
+.f        g3/badge/lib/fips_libcrypto.so.sig
+.f        g3/badge/lib/lib80211.so
+.f        g3/badge/lib/libb.so
+.f        g3/badge/lib/libcom.so
+.f        g3/badge/lib/libcore.so
+.f        g3/badge/lib/libsecurity.so
+.f        g3/badge/lib/libupdater.so
+.f        g3/badge/lib/placeholder.txt
+.f        g3/badge/lib/std_libcrypto.so
+.d..t.... g3/badge/linux/
+.f        g3/badge/linux/BAR.txt
+.f        g3/badge/linux/gen3a.txt
+.d        g3/badge/res/
+.d        g3/badge/res/certificates/
+.d        g3/badge/res/certificates/EAP-Fast/
+.f        g3/badge/res/certificates/EAP-Fast/placeholder.txt
+.d        g3/badge/res/certificates/EAP-TLS/
+.d        g3/badge/res/certificates/EAP-TLS/vi/
+.f        g3/badge/res/certificates/EAP-TLS/vi/a_d
+.f        g3/badge/res/certificates/EAP-TLS/vi/b_p
+.f        g3/badge/res/certificates/EAP-TLS/vi/c_p
+.d        g3/badge/res/certificates/PEAP/
+.f        g3/badge/res/certificates/PEAP/placeholder.txt
+.d        g3/badge/res/certificates/PEAP/vi/
+.f        g3/badge/res/certificates/PEAP/vi/a_d
+.f        g3/badge/res/certificates/PEAP/vi/b_p
+.f        g3/badge/res/certificates/PEAP/vi/c_p
+.d        g3/badge/res/fonts/
+.f        g3/badge/res/fonts/Home_Screen.ttf
+.f        g3/badge/res/fonts/Menu_Value.ttf
+.f        g3/badge/res/fonts/New_Big.ttf
+.f        g3/badge/res/fonts/New_Small.ttf
+.d        g3/badge/res/icons/
+.d        g3/badge/res/icons/common/
+.f        g3/badge/res/icons/common/archived.bmp
+.f        g3/badge/res/icons/common/badge.bmp
+.f        g3/badge/res/icons/common/battery_1.bmp
+.f        g3/badge/res/icons/common/battery_2.bmp
+.f        g3/badge/res/icons/common/battery_3.bmp
+.f        g3/badge/res/icons/common/battery_4.bmp
+.f        g3/badge/res/icons/common/battery_5.bmp
+.f        g3/badge/res/icons/common/bths.dat
+.f        g3/badge/res/icons/common/btmi.dat
+.f        g3/badge/res/icons/common/handset_mode.bmp
+.f        g3/badge/res/icons/common/headset_mode.bmp
+.f        g3/badge/res/icons/common/more_above.bmp
+.f        g3/badge/res/icons/common/more_above_old.bmp
+.f        g3/badge/res/icons/common/more_below.bmp
+.f        g3/badge/res/icons/common/more_below_old.bmp
+.f        g3/badge/res/icons/common/phone.bmp
+.f        g3/badge/res/icons/common/read.bmp
+.f        g3/badge/res/icons/common/signal_0.bmp
+.f        g3/badge/res/icons/common/signal_1.bmp
+.f        g3/badge/res/icons/common/signal_2.bmp
+.f        g3/badge/res/icons/common/signal_3.bmp
+.f        g3/badge/res/icons/common/signal_4.bmp
+.f        g3/badge/res/icons/common/speaker_mode.bmp
+.f        g3/badge/res/icons/common/text.bmp
+.f        g3/badge/res/icons/common/unread.bmp
+.f        g3/badge/res/icons/common/vocera.bmp
+.f        g3/badge/res/icons/common/volume_0.bmp
+.f        g3/badge/res/icons/common/volume_1.bmp
+.f        g3/badge/res/icons/common/volume_2.bmp
+.f        g3/badge/res/icons/common/volume_3.bmp
+.f        g3/badge/res/icons/common/volume_4.bmp
+.f        g3/badge/res/icons/common/volume_5.bmp
+.f        g3/badge/res/icons/common/volume_6.bmp
+.d        g3/badge/res/icons/english/
+.f        g3/badge/res/icons/english/bti.dat
+.f        g3/badge/res/icons/english/dnd_mode.bmp
+.f        g3/badge/res/icons/english/font.bmp
+.f        g3/badge/res/icons/english/groupmodestate_menuicon.bmp
+.f        g3/badge/res/icons/english/handset_menuicon.bmp
+.f        g3/badge/res/icons/english/info.bmp
+.f        g3/badge/res/icons/english/invert.bmp
+.f        g3/badge/res/icons/english/messages.bmp
+.f        g3/badge/res/icons/english/power_off.bmp
+.f        g3/badge/res/icons/english/return_home.bmp
+.f        g3/badge/res/icons/english/settings.bmp
+.f        g3/badge/res/icons/english/volume.bmp
+.d        g3/badge/res/icons/french/
+.f        g3/badge/res/icons/french/bti.dat
+.f        g3/badge/res/icons/french/dnd_mode.bmp
+.f        g3/badge/res/icons/french/font.bmp
+.f        g3/badge/res/icons/french/groupmodestate_menuicon.bmp
+.f        g3/badge/res/icons/french/handset_menuicon.bmp
+.f        g3/badge/res/icons/french/info.bmp
+.f        g3/badge/res/icons/french/invert.bmp
+.f        g3/badge/res/icons/french/messages.bmp
+.f        g3/badge/res/icons/french/power_off.bmp
+.f        g3/badge/res/icons/french/return_home.bmp
+.f        g3/badge/res/icons/french/settings.bmp
+.f        g3/badge/res/icons/french/volume.bmp
+.d        g3/badge/res/prompts/
+.d        g3/badge/res/prompts/common/
+.f        g3/badge/res/prompts/common/back_in_range.wav
+.f        g3/badge/res/prompts/common/button_beep.wav
+.f        g3/badge/res/prompts/common/incoming_message.wav
+.f        g3/badge/res/prompts/common/low_battery_tone.wav
+.f        g3/badge/res/prompts/common/new_party.wav
+.f        g3/badge/res/prompts/common/out_of_range.wav
+.f        g3/badge/res/prompts/common/party_left.wav
+.f        g3/badge/res/prompts/common/release_ptt.wav
+.f        g3/badge/res/prompts/common/urgent.wav
+.d        g3/badge/res/prompts/english/
+.f        g3/badge/res/prompts/english/busy.wav
+.f        g3/badge/res/prompts/english/low_battery.wav
+.f        g3/badge/res/prompts/english/searching_for_server.wav
+.f        g3/badge/res/prompts/english/tier1_badge_error.wav
+.f        g3/badge/res/prompts/english/tier2_badge_error.wav
+.f        g3/badge/res/prompts/english/update_complete.wav
+.f        g3/badge/res/prompts/english/updating_firmware.wav
+.f        g3/badge/res/prompts/english/upload-complete.wav
+.f        g3/badge/res/prompts/english/uploading-badge-diagnostics.wav
+.d        g3/badge/res/prompts/french/
+.f        g3/badge/res/prompts/french/busy.wav
+.f        g3/badge/res/prompts/french/low_battery.wav
+.f        g3/badge/res/prompts/french/searching_for_server.wav
+.f        g3/badge/res/prompts/french/tier1_badge_error.wav
+.f        g3/badge/res/prompts/french/tier2_badge_error.wav
+.f        g3/badge/res/prompts/french/update_complete.wav
+.f        g3/badge/res/prompts/french/updating_firmware.wav
+.f        g3/badge/res/prompts/french/upload-complete.wav
+.f        g3/badge/res/prompts/french/uploading-badge-diagnostics.wav
+.d..t.... g3/badge/scripts/
+>f+++++++ g3/badge/scripts/check_n_upgrade_cramfs.sh
+        1659 100%    0.00kB/s    0:00:00        1659 100%    0.00kB/s    0:00:00 (xfer#1, to-check=329/811)
+.f        g3/badge/scripts/generic-bootup.sh
+.f        g3/badge/scripts/post-rfs-upgrade.sh
+.f        g3/badge/scripts/pre-rfs-upgrade.sh
+.f        g3/badge/scripts/reinit-syssrv.sh
+.d        home/
+.d        home/default/
+.d        lib/
+.f        lib/ld-uClibc-0.9.28.so
+.L        lib/ld-uClibc.so.0 -> ld-uClibc-0.9.28.so
+.f        lib/libbluetooth.la
+.L        lib/libbluetooth.so -> libbluetooth.so.1.0.25
+.L        lib/libbluetooth.so.1 -> libbluetooth.so.1.0.25
+.f        lib/libbluetooth.so.1.0.25
+.L        lib/libc.so.0 -> libuClibc-0.9.28.so
+.f        lib/libcrypt-0.9.28.so
+.L        lib/libcrypt.so.0 -> libcrypt-0.9.28.so
+.f        lib/libdl-0.9.28.so
+.L        lib/libdl.so.0 -> libdl-0.9.28.so
+.L        lib/libgcc_s.so -> libgcc_s.so.1
+.f        lib/libgcc_s.so.1
+.f        lib/libm-0.9.28.so
+.L        lib/libm.so.0 -> libm-0.9.28.so
+.L        lib/libncurses.so -> libncurses.so.5
+.L        lib/libncurses.so.5 -> libncurses.so.5.5
+.f        lib/libncurses.so.5.5
+.f        lib/libnsl-0.9.28.so
+.L        lib/libnsl.so.0 -> libnsl-0.9.28.so
+.f        lib/libpthread-0.9.28.so
+.L        lib/libpthread.so.0 -> libpthread-0.9.28.so
+.f        lib/libresolv-0.9.28.so
+.L        lib/libresolv.so.0 -> libresolv-0.9.28.so
+.f        lib/librt-0.9.28.so
+.L        lib/librt.so.0 -> librt-0.9.28.so
+.L        lib/libstdc++.so -> libstdc++.so.6.0.2
+.L        lib/libstdc++.so.6 -> libstdc++.so.6.0.2
+.f        lib/libstdc++.so.6.0.2
+.f        lib/libthread_db-0.9.28.so
+.L        lib/libthread_db.so.1 -> libthread_db-0.9.28.so
+.f        lib/libuClibc-0.9.28.so
+.f        lib/libutil-0.9.28.so
+.L        lib/libutil.so.0 -> libutil-0.9.28.so
+.L        lib/libz.so -> libz.so.1.2.3
+.L        lib/libz.so.1 -> libz.so.1.2.3
+.f        lib/libz.so.1.2.3
+.f        lib/rsa_sig_verify.so
+.f        lib/rsa_sig_verify.so.sig
+.d..t.... lib/firmware/
+.d..t.... lib/firmware/fips_mrvl_fw/
+.f        lib/firmware/fips_mrvl_fw/gspi8688.bin
+.f        lib/firmware/fips_mrvl_fw/gspi8688.bin.sig
+.f        lib/firmware/fips_mrvl_fw/helper_gspi.bin
+.f        lib/firmware/fips_mrvl_fw/helper_gspi.bin.sig
+.f        lib/firmware/fips_mrvl_fw/mfg_gspi8688.bin
+.d        lib/firmware/std_mrvl_fw/
+.f        lib/firmware/std_mrvl_fw/gspi8688.bin
+.f        lib/firmware/std_mrvl_fw/helper_gspi.bin
+.f        lib/firmware/std_mrvl_fw/mfg_gspi8688.bin
+.d        lib/modules/
+.d        lib/modules/2.6.16-rc3-omap1/
+.L        lib/modules/2.6.16-rc3-omap1/build -> /home/bldusr/arm/g3/os/linux-omap-2.6.16-rc3
+.f        lib/modules/2.6.16-rc3-omap1/modules.alias
+.f        lib/modules/2.6.16-rc3-omap1/modules.ccwmap
+.f        lib/modules/2.6.16-rc3-omap1/modules.dep
+.f        lib/modules/2.6.16-rc3-omap1/modules.ieee1394map
+.f        lib/modules/2.6.16-rc3-omap1/modules.inputmap
+.f        lib/modules/2.6.16-rc3-omap1/modules.isapnpmap
+.f        lib/modules/2.6.16-rc3-omap1/modules.pcimap
+.f        lib/modules/2.6.16-rc3-omap1/modules.symbols
+.f        lib/modules/2.6.16-rc3-omap1/modules.usbmap
+.L        lib/modules/2.6.16-rc3-omap1/source -> /home/bldusr/arm/g3/os/linux-omap-2.6.16-rc3
+.d        lib/modules/2.6.16-rc3-omap1/kernel/
+.d        lib/modules/2.6.16-rc3-omap1/kernel/arch/
+.d        lib/modules/2.6.16-rc3-omap1/kernel/arch/arm/
+.d        lib/modules/2.6.16-rc3-omap1/kernel/arch/arm/plat-omap/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/arch/arm/plat-omap/gpio_diag.ko
+.d        lib/modules/2.6.16-rc3-omap1/kernel/drivers/
+.d        lib/modules/2.6.16-rc3-omap1/kernel/drivers/bluetooth/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/bluetooth/hci_uart.ko
+.d..t.... lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/gspi.ko
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/gspi.ko.sig
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/gspi8xxx.ko
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/fips_marvel/gspi8xxx.ko.sig
+.d        lib/modules/2.6.16-rc3-omap1/kernel/drivers/std_marvel/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/std_marvel/gspi.ko
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/std_marvel/gspi8xxx.ko
+.d        lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/
+.d        lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/gadget/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/gadget/g_ether.ko
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/gadget/g_serial.ko
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/usb/gadget/omap_udc.ko
+.d        lib/modules/2.6.16-rc3-omap1/kernel/drivers/vocera/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/vocera/bt_audio.ko
+.f        lib/modules/2.6.16-rc3-omap1/kernel/drivers/vocera/dbg_xf.ko
+.d        lib/modules/2.6.16-rc3-omap1/kernel/fs/
+.d        lib/modules/2.6.16-rc3-omap1/kernel/fs/nls/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/fs/nls/nls_iso8859-1.ko
+.d        lib/modules/2.6.16-rc3-omap1/kernel/net/
+.d        lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/bluetooth.ko
+.f        lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/l2cap.ko
+.f        lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/sco.ko
+.d        lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/rfcomm/
+.f        lib/modules/2.6.16-rc3-omap1/kernel/net/bluetooth/rfcomm/rfcomm.ko
+.d        lib/pkgconfig/
+.f        lib/pkgconfig/bluez.pc
+.d        mnt/
+.d        mnt/jffs2/
+.d..t.... mnt/ram/
+.d        opt/
+.d        proc/
+.d        root/
+.f        root/.bash_history
+.f        root/.bash_logout
+.f        root/.bash_profile
+.f        root/.bashrc
+.f        root/update-ffb
+.f        root/update-nand
+.d        sbin/
+.f        sbin/btgw.out
+.f        sbin/cancel-jffs2wdt
+.f        sbin/chrt.out
+.f        sbin/cramfsck
+.L        sbin/ddc -> disable-udhcpc
+.f        sbin/depmod
+.f        sbin/disable-udhcpc
+.f        sbin/dump-sys-hist
+.L        sbin/fdisk -> ../bin/busybox
+.f        sbin/fl_date.out
+.f        sbin/generate-modprobe.conf
+.L        sbin/getty -> ../bin/busybox
+.L        sbin/halt -> ../bin/busybox
+.f        sbin/hciattach
+.f        sbin/hciconfig
+.f        sbin/hcid
+.f        sbin/hciemu
+.L        sbin/hwclock -> ../bin/busybox
+.L        sbin/ifconfig -> ../bin/busybox
+.L        sbin/ifdown -> ../bin/busybox
+.L        sbin/ifup -> ../bin/busybox
+.f        sbin/image_updater
+.L        sbin/init -> ../bin/busybox
+.f        sbin/insmod
+.f        sbin/insmod.static
+.f        sbin/iwconfig
+.L        sbin/iwgetid -> iwconfig
+.L        sbin/iwlist -> iwconfig
+.L        sbin/iwpriv -> iwconfig
+.L        sbin/iwspy -> iwconfig
+.L        sbin/klogd -> ../bin/busybox
+.f        sbin/ldconfig
+.f        sbin/logreboot.sh
+.f        sbin/mkcramfs
+.L        sbin/mke2fs -> ../bin/busybox
+.L        sbin/mkfs.ext2 -> ../bin/busybox
+.L        sbin/mkfs.ext3 -> ../bin/busybox
+.f        sbin/mksock
+.L        sbin/mkswap -> ../bin/busybox
+.f        sbin/modinfo
+.f        sbin/modprobe
+.f        sbin/nand_dump.out
+.f        sbin/nand_erase.out
+.f        sbin/nand_write.out
+.L        sbin/pivot_root -> ../bin/busybox
+.L        sbin/poweroff -> ../bin/busybox
+.f        sbin/pseudocons.out
+.L        sbin/reboot -> ../bin/busybox
+.f        sbin/restart-wland
+.f        sbin/rmmod
+.L        sbin/route -> ../bin/busybox
+.f        sbin/sdpd
+.f        sbin/start-bt
+.f        sbin/start-console-ssh.sh
+.f        sbin/start-ssh
+.L        sbin/start-stop-daemon -> ../bin/busybox
+.f        sbin/start-systemlog
+.f        sbin/start-udhcpc
+.f        sbin/start-usbeth
+.f        sbin/start-wland
+.f        sbin/stop-all-console-ssh.sh
+.f        sbin/stop-bt
+.f        sbin/stop-console-ssh.sh
+.f        sbin/stop-ssh
+.f        sbin/stop-systemlog
+.f        sbin/stop-udhcpc
+.f        sbin/stop-usbeth
+.f        sbin/stop-wland
+.L        sbin/sulogin -> ../bin/busybox
+.L        sbin/swapoff -> ../bin/busybox
+.L        sbin/swapon -> ../bin/busybox
+.L        sbin/syslogd -> ../bin/busybox
+.L        sbin/udhcpc -> ../bin/busybox
+.f        sbin/update-wland
+.f        sbin/upgrade-badge
+.f..t.... sbin/upgrade-cramfs
+.f        sbin/upgrade-fs-using-rsync
+.f        sbin/upgrade-kernel
+.f        sbin/upgrade-rfs
+.f        sbin/upgrade-uboot
+.f        sbin/usbup
+.f        sbin/wait-n-disable-udhcpc
+.f        sbin/write_system_history_record.out
+.d        share/
+.d        share/aclocal/
+.f        share/aclocal/bluez.m4
+.d        sys/
+.d..t.... tmp/
+.d        usr/
+.d        usr/bin/
+.L        usr/bin/[ -> ../../bin/busybox
+.L        usr/bin/[[ -> ../../bin/busybox
+.L        usr/bin/awk -> ../../bin/busybox
+.L        usr/bin/basename -> ../../bin/busybox
+.f        usr/bin/bluepin
+.L        usr/bin/bunzip2 -> ../../bin/busybox
+.L        usr/bin/bzcat -> ../../bin/busybox
+.L        usr/bin/chvt -> ../../bin/busybox
+.L        usr/bin/clear -> ../../bin/busybox
+.L        usr/bin/cmp -> ../../bin/busybox
+.L        usr/bin/cut -> ../../bin/busybox
+.L        usr/bin/dbclient -> ../sbin/dropbear
+.L        usr/bin/dc -> ../../bin/busybox
+.L        usr/bin/deallocvt -> ../../bin/busybox
+.L        usr/bin/dirname -> ../../bin/busybox
+.L        usr/bin/dos2unix -> ../../bin/busybox
+.L        usr/bin/dropbearconvert -> ../sbin/dropbear
+.L        usr/bin/dropbearkey -> ../sbin/dropbear
+.L        usr/bin/du -> ../../bin/busybox
+.L        usr/bin/dumpleases -> ../../bin/busybox
+.L        usr/bin/env -> ../../bin/busybox
+.L        usr/bin/expr -> ../../bin/busybox
+.L        usr/bin/fdformat -> ../../bin/busybox
+.L        usr/bin/find -> ../../bin/busybox
+.L        usr/bin/free -> ../../bin/busybox
+.f        usr/bin/gdbserver
+.L        usr/bin/head -> ../../bin/busybox
+.L        usr/bin/hexdump -> ../../bin/busybox
+.L        usr/bin/hostid -> ../../bin/busybox
+.L        usr/bin/id -> ../../bin/busybox
+.L        usr/bin/install -> ../../bin/busybox
+.L        usr/bin/killall -> ../../bin/busybox
+.f        usr/bin/ldd
+.f        usr/bin/less
+.f        usr/bin/lessecho
+.f        usr/bin/lesskey
+.L        usr/bin/logger -> ../../bin/busybox
+.L        usr/bin/logname -> ../../bin/busybox
+.L        usr/bin/md5sum -> ../../bin/busybox
+.L        usr/bin/nslookup -> ../../bin/busybox
+.L        usr/bin/openvt -> ../../bin/busybox
+.L        usr/bin/passwd -> ../../bin/busybox
+.L        usr/bin/readlink -> ../../bin/busybox
+.L        usr/bin/reset -> ../../bin/busybox
+.f        usr/bin/rsync
+.L        usr/bin/scp -> ../sbin/dropbear
+.L        usr/bin/sha1sum -> ../../bin/busybox
+.L        usr/bin/sort -> ../../bin/busybox
+.L        usr/bin/ssh -> ../sbin/dropbear
+.f        usr/bin/strace
+.L        usr/bin/strings -> ../../bin/busybox
+.L        usr/bin/tail -> ../../bin/busybox
+.L        usr/bin/tee -> ../../bin/busybox
+.L        usr/bin/telnet -> ../../bin/busybox
+.L        usr/bin/test -> ../../bin/busybox
+.L        usr/bin/tftp -> ../../bin/busybox
+.L        usr/bin/time -> ../../bin/busybox
+.L        usr/bin/top -> ../../bin/busybox
+.L        usr/bin/tty -> ../../bin/busybox
+.L        usr/bin/uniq -> ../../bin/busybox
+.L        usr/bin/unix2dos -> ../../bin/busybox
+.L        usr/bin/unzip -> ../../bin/busybox
+.L        usr/bin/uptime -> ../../bin/busybox
+.L        usr/bin/uudecode -> ../../bin/busybox
+.L        usr/bin/uuencode -> ../../bin/busybox
+.L        usr/bin/vlock -> ../../bin/busybox
+.L        usr/bin/wc -> ../../bin/busybox
+.L        usr/bin/wget -> ../../bin/busybox
+.L        usr/bin/which -> ../../bin/busybox
+.L        usr/bin/whoami -> ../../bin/busybox
+.L        usr/bin/xargs -> ../../bin/busybox
+.L        usr/bin/yes -> ../../bin/busybox
+.d        usr/lib/
+.L        usr/lib/terminfo -> ../usr/share/terminfo
+.d        usr/sbin/
+.L        usr/sbin/chroot -> ../../bin/busybox
+.f        usr/sbin/doc_loadbios
+.f        usr/sbin/docfdisk
+.f        usr/sbin/dropbear
+.f        usr/sbin/flash_erase
+.f        usr/sbin/flash_eraseall
+.f        usr/sbin/flash_info
+.f        usr/sbin/flash_lock
+.f        usr/sbin/flash_unlock
+.f        usr/sbin/flashcp
+.f        usr/sbin/ftl_check
+.f        usr/sbin/ftl_format
+.f        usr/sbin/mtd_debug
+.f        usr/sbin/nanddump
+.f        usr/sbin/nandwrite
+.L        usr/sbin/rdate -> ../../bin/busybox
+.L        usr/sbin/udhcpd -> ../../bin/busybox
+.d        usr/share/
+.d        usr/share/terminfo/
+.d        usr/share/terminfo/a/
+.f        usr/share/terminfo/a/ansi
+.d        usr/share/terminfo/l/
+.f        usr/share/terminfo/l/linux
+.d        usr/share/terminfo/v/
+.f        usr/share/terminfo/v/vt100
+.f        usr/share/terminfo/v/vt200
+.d        usr/share/terminfo/x/
+.f        usr/share/terminfo/x/xterm
+.f        usr/share/terminfo/x/xterm-color
+.f        usr/share/terminfo/x/xterm-xfree86
+.d        usr/share/udhcpc/
+.f        usr/share/udhcpc/default.script
+.d        var/
+.L        var/lock -> ../tmp
+.L        var/log -> ../tmp
+.L        var/pcmcia -> ../tmp
+.L        var/run -> ../tmp
+.L        var/spool -> ../tmp
+.L        var/tmp -> ../tmp
+.d        var/lib/
+.L        var/lib/pcmcia -> ../../tmp
+.d        var/lib/bluetooth/
+.d        var/www/
+.d        var/www/data/
+.d        var/www/logs/
+total: matches=0  hash_hits=0  false_alarms=0 data=1659
+deleting in .
+[generator] protecting directory dev because of pattern dev/***
+[generator] protecting file dev/cod because of pattern dev/***
+[generator] protecting file dev/fb0 because of pattern dev/***
+[generator] protecting file dev/fb1 because of pattern dev/***
+[generator] protecting file dev/fb2 because of pattern dev/***
+[generator] protecting file dev/fb3 because of pattern dev/***
+[generator] protecting file dev/dsp because of pattern dev/***
+[generator] protecting file dev/hda because of pattern dev/***
+[generator] protecting file dev/hdb because of pattern dev/***
+[generator] protecting file dev/log because of pattern dev/***
+[generator] protecting file dev/mem because of pattern dev/***
+[generator] protecting directory dev/net because of pattern dev/***
+[generator] protecting directory dev/pts because of pattern dev/***
+[generator] protecting file dev/ram because of pattern dev/***
+[generator] protecting directory dev/shm because of pattern dev/***
+[generator] protecting file dev/rtc because of pattern dev/***
+[generator] protecting file dev/tty because of pattern dev/***
+[generator] protecting file dev/dsp1 because of pattern dev/***
+[generator] protecting file dev/hda1 because of pattern dev/***
+[generator] protecting file dev/hda2 because of pattern dev/***
+[generator] protecting file dev/hda3 because of pattern dev/***
+[generator] protecting file dev/hda4 because of pattern dev/***
+[generator] protecting file dev/hda5 because of pattern dev/***
+[generator] protecting file dev/hda6 because of pattern dev/***
+[generator] protecting file dev/hda7 because of pattern dev/***
+[generator] protecting file dev/hda8 because of pattern dev/***
+[generator] protecting file dev/hda9 because of pattern dev/***
+[generator] protecting file dev/hdb1 because of pattern dev/***
+[generator] protecting file dev/hdb2 because of pattern dev/***
+[generator] protecting file dev/hdb3 because of pattern dev/***
+[generator] protecting file dev/hdb4 because of pattern dev/***
+[generator] protecting file dev/hdb5 because of pattern dev/***
+[generator] protecting file dev/hdb6 because of pattern dev/***
+[generator] protecting file dev/hdb7 because of pattern dev/***
+[generator] protecting file dev/hdb8 because of pattern dev/***
+[generator] protecting file dev/hdb9 because of pattern dev/***
+[generator] protecting file dev/kmem because of pattern dev/***
+[generator] protecting file dev/mtd0 because of pattern dev/***
+[generator] protecting file dev/mtd1 because of pattern dev/***
+[generator] protecting file dev/mtd2 because of pattern dev/***
+[generator] protecting file dev/mtd3 because of pattern dev/***
+[generator] protecting file dev/mtd4 because of pattern dev/***
+[generator] protecting file dev/mtd5 because of pattern dev/***
+[generator] protecting file dev/mtd6 because of pattern dev/***
+[generator] protecting file dev/mtd7 because of pattern dev/***
+[generator] protecting file dev/mtd8 because of pattern dev/***
+[generator] protecting file dev/mtd9 because of pattern dev/***
+[generator] protecting file dev/null because of pattern dev/***
+[generator] protecting file dev/oled because of pattern dev/***
+[generator] protecting file dev/ptmx because of pattern dev/***
+[generator] protecting file dev/ram0 because of pattern dev/***
+[generator] protecting file dev/ram1 because of pattern dev/***
+[generator] protecting file dev/ram2 because of pattern dev/***
+[generator] protecting file dev/ram3 because of pattern dev/***
+[generator] protecting file dev/tty0 because of pattern dev/***
+[generator] protecting file dev/tty1 because of pattern dev/***
+[generator] protecting file dev/tty2 because of pattern dev/***
+[generator] protecting file dev/tty3 because of pattern dev/***
+[generator] protecting file dev/tty4 because of pattern dev/***
+[generator] protecting file dev/tty5 because of pattern dev/***
+[generator] protecting file dev/tty6 because of pattern dev/***
+[generator] protecting file dev/tty7 because of pattern dev/***
+[generator] protecting file dev/zero because of pattern dev/***
+[generator] protecting file dev/console because of pattern dev/***
+[generator] protecting file dev/codec because of pattern dev/***
+[generator] protecting file dev/i2c-0 because of pattern dev/***
+[generator] protecting file dev/i2c-1 because of pattern dev/***
+[generator] protecting file dev/i2c-2 because of pattern dev/***
+[generator] protecting file dev/i2c-3 because of pattern dev/***
+[generator] protecting file dev/hda10 because of pattern dev/***
+[generator] protecting file dev/hda11 because of pattern dev/***
+[generator] protecting file dev/hda12 because of pattern dev/***
+[generator] protecting file dev/hda13 because of pattern dev/***
+[generator] protecting file dev/hda14 because of pattern dev/***
+[generator] protecting file dev/hdb10 because of pattern dev/***
+[generator] protecting file dev/hdb11 because of pattern dev/***
+[generator] protecting file dev/hdb12 because of pattern dev/***
+[generator] protecting file dev/hdb13 because of pattern dev/***
+[generator] protecting file dev/hdb14 because of pattern dev/***
+[generator] protecting directory dev/input because of pattern dev/***
+[generator] protecting file dev/loop0 because of pattern dev/***
+[generator] protecting file dev/loop1 because of pattern dev/***
+[generator] protecting file dev/mixer because of pattern dev/***
+[generator] protecting file dev/mtd10 because of pattern dev/***
+[generator] protecting file dev/mtd11 because of pattern dev/***
+[generator] protecting file dev/mtd12 because of pattern dev/***
+[generator] protecting file dev/mtd13 because of pattern dev/***
+[generator] protecting file dev/mtd14 because of pattern dev/***
+[generator] protecting file dev/mtd15 because of pattern dev/***
+[generator] protecting file dev/psaux because of pattern dev/***
+[generator] protecting file dev/ptyp0 because of pattern dev/***
+[generator] protecting file dev/ptyp1 because of pattern dev/***
+[generator] protecting file dev/ptyp2 because of pattern dev/***
+[generator] protecting file dev/ptyp3 because of pattern dev/***
+[generator] protecting file dev/ptyp4 because of pattern dev/***
+[generator] protecting file dev/ptyp5 because of pattern dev/***
+[generator] protecting file dev/ptyp6 because of pattern dev/***
+[generator] protecting file dev/ptyp7 because of pattern dev/***
+[generator] protecting file dev/ptyp8 because of pattern dev/***
+[generator] protecting file dev/ptyp9 because of pattern dev/***
+[generator] protecting file dev/ttyP0 because of pattern dev/***
+[generator] protecting file dev/ttyP1 because of pattern dev/***
+[generator] protecting file dev/ttyP2 because of pattern dev/***
+[generator] protecting file dev/ttyP3 because of pattern dev/***
+[generator] protecting file dev/ttyS0 because of pattern dev/***
+[generator] protecting file dev/ttyS1 because of pattern dev/***
+[generator] protecting file dev/ttyS2 because of pattern dev/***
+[generator] protecting file dev/ttyS3 because of pattern dev/***
+[generator] protecting file dev/ttyp0 because of pattern dev/***
+[generator] protecting file dev/ttyp1 because of pattern dev/***
+[generator] protecting file dev/ttyp2 because of pattern dev/***
+[generator] protecting file dev/ttyp3 because of pattern dev/***
+[generator] protecting file dev/ttyp4 because of pattern dev/***
+[generator] protecting file dev/ttyp5 because of pattern dev/***
+[generator] protecting file dev/ttyp6 because of pattern dev/***
+[generator] protecting file dev/ttyp7 because of pattern dev/***
+[generator] protecting file dev/ttyp8 because of pattern dev/***
+[generator] protecting file dev/ttyp9 because of pattern dev/***
+[generator] protecting directory dev/dsptask because of pattern dev/***
+[generator] protecting file dev/dsptwch because of pattern dev/***
+[generator] protecting file dev/external_wd0 because of pattern dev/***
+[generator] protecting file dev/badgeDrvr0 because of pattern dev/***
+[generator] protecting file dev/mtdblock10 because of pattern dev/***
+[generator] protecting file dev/mtdblock11 because of pattern dev/***
+[generator] protecting file dev/mtdblock12 because of pattern dev/***
+[generator] protecting file dev/mtdblock13 because of pattern dev/***
+[generator] protecting file dev/mtdblock14 because of pattern dev/***
+[generator] protecting file dev/mtdblock15 because of pattern dev/***
+[generator] protecting file dev/watchdog because of pattern dev/***
+[generator] protecting file dev/urandom because of pattern dev/***
+[generator] protecting file dev/dsptask0 because of pattern dev/***
+[generator] protecting file dev/dsptask1 because of pattern dev/***
+[generator] protecting file dev/dsptask2 because of pattern dev/***
+[generator] protecting file dev/dsptask3 because of pattern dev/***
+[generator] protecting file dev/dsptask4 because of pattern dev/***
+[generator] protecting file dev/dsptask5 because of pattern dev/***
+[generator] protecting file dev/dsptask6 because of pattern dev/***
+[generator] protecting file dev/dsptask7 because of pattern dev/***
+[generator] protecting file dev/dsptask8 because of pattern dev/***
+[generator] protecting file dev/dsptask9 because of pattern dev/***
+[generator] protecting file dev/external_wd because of pattern dev/***
+[generator] protecting file dev/bt_audio because of pattern dev/***
+[generator] protecting file dev/dbgled because of pattern dev/***
+[generator] protecting file dev/dspctl because of pattern dev/***
+[generator] protecting file dev/dsperr because of pattern dev/***
+[generator] protecting file dev/dspmem because of pattern dev/***
+[generator] protecting file dev/mtdblock0 because of pattern dev/***
+[generator] protecting file dev/mtdblock1 because of pattern dev/***
+[generator] protecting file dev/mtdblock2 because of pattern dev/***
+[generator] protecting file dev/mtdblock3 because of pattern dev/***
+[generator] protecting file dev/mtdblock4 because of pattern dev/***
+[generator] protecting file dev/mtdblock5 because of pattern dev/***
+[generator] protecting file dev/mtdblock6 because of pattern dev/***
+[generator] protecting file dev/mtdblock7 because of pattern dev/***
+[generator] protecting file dev/mtdblock8 because of pattern dev/***
+[generator] protecting file dev/mtdblock9 because of pattern dev/***
+[generator] protecting file dev/power_control because of pattern dev/***
+[generator] protecting file dev/initrd because of pattern dev/***
+[generator] protecting file dev/ads1000 because of pattern dev/***
+[generator] protecting file dev/ttygserial because of pattern dev/***
+[generator] protecting file dev/random because of pattern dev/***
+[generator] protecting file dev/battery because of pattern dev/***
+[generator] protecting file dev/badgeDrvr because of pattern dev/***
+[generator] protecting file dev/input/mice because of pattern dev/***
+[generator] protecting file dev/input/event0 because of pattern dev/***
+[generator] protecting file dev/input/event1 because of pattern dev/***
+[generator] protecting file dev/input/event2 because of pattern dev/***
+[generator] protecting file dev/input/event3 because of pattern dev/***
+[generator] protecting file dev/input/mouse0 because of pattern dev/***
+[generator] protecting file dev/input/mouse1 because of pattern dev/***
+[generator] protecting file dev/input/mouse2 because of pattern dev/***
+[generator] protecting file dev/input/mouse3 because of pattern dev/***
+[generator] protecting file dev/net/tun because of pattern dev/***
+[generator] protecting file etc/random-seed because of pattern etc/random-seed
+[generator] protecting file etc/resolv.conf because of pattern etc/resolv.conf
+[generator] protecting file etc/rsync/rsync.rules because of pattern etc/rsync/rsync.rules
+[generator] protecting file g3/badge/bin/b.out because of pattern g3/badge/bin/b.out
+[generator] protecting file g3/badge/bin/wlanup.out because of pattern g3/badge/bin/wlanup.out
+[generator] protecting file g3/badge/bin/vcb.out because of pattern g3/badge/bin/vcb.out
+[generator] protecting file g3/badge/bin/updater.out because of pattern g3/badge/bin/updater.out
+[generator] protecting file g3/badge/bin/qt.out because of pattern g3/badge/bin/qt.out
+[generator] protecting file g3/badge/bin/rt.out because of pattern g3/badge/bin/rt.out
+[generator] protecting file g3/badge/bin/btt.out because of pattern g3/badge/bin/btt.out
+[generator] protecting file g3/badge/data/badge.properties.server because of pattern g3/badge/data/badge.properties*
+[generator] protecting file g3/badge/data/0047.updater.133.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/0050.badge.171.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/log.txt.old because of pattern g3/badge/data/log.txt.old
+[generator] protecting file g3/badge/data/badge.properties.bak because of pattern g3/badge/data/badge.properties*
+[generator] protecting file g3/badge/data/badge.properties.old because of pattern g3/badge/data/badge.properties*
+[generator] protecting file g3/badge/data/upgrade_block0_bootloader.log because of pattern g3/badge/data/upgrade_*
+[generator] protecting file g3/badge/data/hardware.properties because of pattern g3/badge/data/hardware.properties*
+[generator] protecting file g3/badge/data/0048.updater.133.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/0044.updater.133.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/0052.badge.171.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/settings.st because of pattern g3/badge/data/*.st
+[generator] protecting file g3/badge/data/upgrade_rfs.log because of pattern g3/badge/data/upgrade_*
+[generator] protecting file g3/badge/data/upgrade_primary_bootloader.log because of pattern g3/badge/data/upgrade_*
+[generator] protecting file g3/badge/data/messages.st because of pattern g3/badge/data/*.st
+[generator] protecting file g3/badge/data/reinit-syssrv.txt because of pattern g3/badge/data/reinit-syssrv.txt
+[generator] protecting file g3/badge/data/0045.updater.133.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/log.txt because of pattern g3/badge/data/log.txt
+[generator] protecting file g3/badge/data/chk_n_rcvr_prim_n_sec_blks.log because of pattern g3/badge/data/chk_n_rcvr_prim_n_sec_blks.log
+[generator] protecting file g3/badge/data/hardware.properties.default because of pattern g3/badge/data/hardware.properties*
+[generator] protecting file g3/badge/data/check_n_upgrade_cramfs.log because of pattern g3/badge/data/check_n_upgrade_cramfs.log
+[generator] protecting file g3/badge/data/upgrade_secondary_kernel.log because of pattern g3/badge/data/upgrade_*
+[generator] protecting file g3/badge/data/0049.badge.133.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/0051.badge.171.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/badge.properties because of pattern g3/badge/data/badge.properties*
+[generator] protecting file g3/badge/data/upgrade_primary_kernel.log because of pattern g3/badge/data/upgrade_*
+[generator] protecting file g3/badge/data/tb.raw because of pattern g3/badge/data/tb.raw
+[generator] protecting file g3/badge/data/0046.updater.133.erbin because of pattern g3/badge/data/*.erbin
+[generator] protecting file g3/badge/data/subnetcache.st because of pattern g3/badge/data/*.st
+[generator] protecting file g3/badge/data/badge.properties.default because of pattern g3/badge/data/badge.properties*
+[generator] protecting file g3/badge/data/upgrade_secondary_bootloader.log because of pattern g3/badge/data/upgrade_*
+[generator] protecting file g3/badge/data/upgrade_cramfs.log because of pattern g3/badge/data/upgrade_*
+*deleting g3/badge/data/filelist.txt
+[generator] protecting file g3/badge/lib/libcrypto.so.sig because of pattern g3/badge/lib/libcrypto.so.sig
+[generator] protecting file g3/badge/lib/libcrypto.so because of pattern g3/badge/lib/libcrypto.so
+[generator] protecting file g3/badge/lib/placeholder.txt because of pattern g3/badge/lib/placeholder.txt
+[generator] protecting file g3/badge/lib/fips_libcrypto.so.sig because of pattern g3/badge/lib/fips_libcrypto.so.sig
+[generator] protecting file g3/badge/linux/rootfs.arm_nofpu.tar.gz.new because of pattern g3/badge/linux/rootfs.arm_nofpu.tar.gz.new
+[generator] protecting file g3/badge/linux/boot_blocks.bin.new because of pattern g3/badge/linux/boot_blocks.bin.new
+[generator] protecting file g3/badge/linux/uImage.new because of pattern g3/badge/linux/uImage.new
+[generator] protecting directory g3/badge/res/certificates because of pattern g3/badge/res/certificates/***
+[generator] protecting directory g3/badge/res/certificates/PEAP because of pattern g3/badge/res/certificates/***
+[generator] protecting directory g3/badge/res/certificates/EAP-TLS because of pattern g3/badge/res/certificates/***
+[generator] protecting directory g3/badge/res/certificates/EAP-Fast because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/res/certificates/EAP-Fast/placeholder.txt because of pattern g3/badge/res/certificates/***
+[generator] protecting directory g3/badge/res/certificates/EAP-TLS/vi because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/res/certificates/EAP-TLS/vi/a_d because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/res/certificates/EAP-TLS/vi/b_p because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/res/certificates/EAP-TLS/vi/c_p because of pattern g3/badge/res/certificates/***
+[generator] protecting directory g3/badge/res/certificates/PEAP/vi because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/res/certificates/PEAP/placeholder.txt because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/res/certificates/PEAP/vi/a_d because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/res/certificates/PEAP/vi/b_p because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/res/certificates/PEAP/vi/c_p because of pattern g3/badge/res/certificates/***
+[generator] protecting file g3/badge/scripts/generic-bootup.sh because of pattern g3/badge/scripts/generic-bootup.sh
+[generator] protecting file g3/badge/scripts/post-rfs-upgrade.sh because of pattern g3/badge/scripts/post-rfs-upgrade.sh
+[generator] protecting file g3/badge/scripts/pre-rfs-upgrade.sh because of pattern g3/badge/scripts/pre-rfs-upgrade.sh
+[generator] protecting file g3/badge/scripts/failsafe_rfs_upgrade because of pattern g3/badge/scripts/failsafe_rfs_upgrade
+*deleting lib/firmware/mrvl
+[generator] protecting file lib/modules/2.6.16-rc3-omap1/kernel/drivers/marvel because of pattern lib/modules/2.6.16-rc3-omap1/kernel/drivers/marvel
+[generator] protecting file tmp/filelist.txt because of pattern tmp/filelist.txt
+[generator] protecting file tmp/config.txt because of pattern tmp/config.txt
+*deleting tmp/resolv.conf
+
+sent 31427 bytes  received 4902 bytes  2906.32 bytes/sec
+total size is 12920269  speedup is 355.65
+Running post-rfs-upgrade script...
+Tue Dec  3 15:41:22 UTC 2013
+Done.

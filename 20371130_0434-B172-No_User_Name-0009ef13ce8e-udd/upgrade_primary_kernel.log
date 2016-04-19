@@ -1,0 +1,11 @@
+
+
+Primary_Kernel Image       : /g3/badge/linux/uImage.new
+Primary_Kernel Block Base  : 5
+Primary_Kernel Block Count : 16
+Primary_Kernel upgrade log : /g3/badge/data/upgrade_primary_kernel.log
+Primary_Kernel upgraded at : Tue Dec 3 15:39:49 UTC 2013
+
+blockBase:blockCount  = 5:16
+
+Done.

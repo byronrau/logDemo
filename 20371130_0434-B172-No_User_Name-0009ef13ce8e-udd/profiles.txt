@@ -1,0 +1,170 @@
+Profile	Aries
+{
+	SSID					Aries
+	EncryptionType			WEP128
+	AuthenticationType		Open
+	WEPKey1					<wk1>
+	WEPKeySlot				1
+	PreSharedKey			<pk1>
+	SubnetRoaming			true
+	BroadcastUsesIGMP		true
+	UserName				planet
+	Password				<pw1>
+}
+
+Profile	Taurus
+{
+	SSID					Taurus
+	EncryptionType			TKIP-WPA
+	AuthenticationType		WPA-PSK
+	WEPKey1					<wk1>
+	WEPKeySlot				1
+	PreSharedKey			<pk1>
+	SubnetRoaming			true
+	BroadcastUsesIGMP		true
+	UserName				planet
+	Password				<pw1>
+}
+
+Profile	green
+{
+	SSID					green
+	EncryptionType			WEP128
+	AuthenticationType		Open
+	WEPKey1					<wk2>
+	WEPKeySlot				1
+	SubnetRoaming			true
+	BroadcastUsesIGMP		true
+}
+
+Profile	defaults
+{
+	UserCanTerminate		true
+	MfgInProcess 			false
+	InstallDone	 			true
+	ClosedMenus	 			false
+	ServerIPAddr	 		10.98.2.208,10.98.2.209
+}
+
+Profile	EngDefaults
+{
+	UserCanTerminate		true
+	MfgInProcess 			false
+	InstallDone	 			true
+	ClosedMenus	 			false
+	DeepSleep	 			true
+	EnableConsoleLog		true
+	EnableLSLog				true
+	EnableUSBEth			true
+	EnableSSH				true
+	ServerIPAddr	 		10.98.2.208,10.98.2.209
+}
+
+PropertyValues	SSID
+{
+	vocera							// Open Open
+	vconfig
+	vdemo
+	vdata
+	battery
+	green
+	Taurus
+	Aries							// WEP 128
+	Gemini
+	Cancer
+	Leo
+	Virgo
+	Libra
+	Scorpio
+	Sagittarius
+	Capricorn
+	Aquarius
+	Pisces
+}
+
+# ServerIPAddr values are shared by both ServerIPAddr and UpdaterIPAddr badge properties.
+PropertyValues	ServerIPAddr
+{
+	10.37.43.14
+	10.37.43.21
+    10.37.43.22
+    10.37.43.23
+    10.37.43.24
+    10.37.43.25
+	10.37.43.30						// FW QA
+	10.37.43.51						// FW VS
+	10.37.43.52						// FW VS
+	10.37.43.53						// FW VS
+    10.37.43.57                     // FW Stress 1
+    10.37.43.58                     // FW Stress 2
+    10.37.43.67                     // FW Stress 3
+    10.37.43.68                     // FW Stress 4
+	10.37.43.70
+	10.37.43.71
+	10.37.43.72
+	10.37.43.75
+	10.37.43.101					// Tech Pubs server
+	10.37.43.102					// Tech Pubs server
+	10.37.43.103					// Tech Pubs server
+	10.37.43.104					// Tech Pubs server
+	10.37.43.105					// Tech Pubs server
+	10.37.43.106					// Tech Pubs server
+    10.37.43.111
+
+	10.37.44.1						// QA Lab
+	10.37.44.2						// QA Lab
+	10.37.44.3						// QA Lab
+	10.37.44.4						// QA Lab
+	10.37.44.5						// QA Lab
+	10.37.44.6						// QA Lab
+	10.37.44.7						// QA Lab
+	10.37.44.8						// QA Lab
+	10.37.44.9						// QA Lab
+	10.37.44.10						// QA Lab
+	10.37.44.11						// QA Lab
+	10.37.44.12						// QA Lab
+	10.37.44.13						// QA Lab
+	10.37.44.14						// QA Lab
+	10.37.44.15						// QA Lab
+
+	10.37.46.8
+
+	10.98.2.11						// ???
+	10.98.2.12						// ???
+	10.98.2.13						// ???
+	10.98.2.14
+	10.98.2.30						// VServer (prev. release)
+	10.98.2.46
+	10.98.2.44
+	10.98.2.46
+	10.98.2.200
+	10.98.2.201
+	10.98.2.203
+	10.98.2.204
+	10.98.2.208
+	10.98.2.209
+
+	192.168.0.2
+	192.168.1.109
+	192.168.1.110
+}
+
+PropertyValues BadgeIPAddr
+{
+	10.98.2.10
+	10.98.2.15
+	10.98.2.16
+	10.98.2.17
+	10.98.2.18
+	10.98.2.19
+	10.98.2.20
+	10.98.2.21
+	10.98.2.22
+	10.98.2.23
+	10.98.2.24
+
+	192.168.2.201
+	192.168.2.202
+}
+
+

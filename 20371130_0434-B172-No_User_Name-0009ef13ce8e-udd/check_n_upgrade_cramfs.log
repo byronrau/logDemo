@@ -1,0 +1,6 @@
+
+Thu Jan  1 00:00:10 UTC 1970
+Checking the bld present in cramfs...
+Build present in cramfs is:  172 
+Build present in jffs2 is :  172 
+They are same!
