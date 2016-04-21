@@ -213,7 +213,7 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
         var obj = {
           x: Date.parse(ping.time),
           title: 'D',
-          text: ping.line.split(' ').slice(5).join(' ')
+          text: ping.line.split(' ').slice(2).join(' ')
         }
         dataArr.push(obj);
       });
@@ -294,7 +294,7 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
   $scope.acks();
   $scope.loglines();
   $scope.assocs();
-  $scope.disassocs();
   $scope.lowsnr();
+  $scope.disassocs();
 
 }]);
