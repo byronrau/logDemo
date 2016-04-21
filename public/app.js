@@ -61,6 +61,13 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
         align: 'right'
       }
     },
+    plotOptions:{
+      series:{
+        dataGrouping: {
+          enabled:false
+        }
+      }
+    },
     series: [],
     title: {
         text: 'Badge'
@@ -116,9 +123,10 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
     $http.get('/read', {
     }).then(function(resp) {
       var dataArr = [];
-      console.log('resp', resp);
+      // console.log('resp', resp);
       resp.data.forEach(function(ping){
-        var tuple = [Date.parse(ping.time), ping.val];
+        // var tuple = [Date.parse(ping.time), ping.val];
+        var tuple = [moment(ping.time, 'MM/DD/YY HH:mm:ss:SSS').valueOf(), ping.val];
         dataArr.push(tuple);
       });
       $scope.chartConfig.series.push ({
@@ -146,7 +154,8 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
       var dataArr = [];
       // console.log('resp', resp);
       resp.data.forEach(function(ping){
-        var tuple = [Date.parse(ping.time), ping.val];
+        // var tuple = [Date.parse(ping.time), ping.val];
+        var tuple = [moment(ping.time, 'MM/DD/YY HH:mm:ss:SSS').valueOf(), ping.val];
         dataArr.push(tuple);
       });
       $scope.chartConfig.series.push ({
@@ -176,7 +185,8 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
       // console.log('resp', resp);
       resp.data.forEach(function(ping){
         var obj = {
-          x: Date.parse(ping.time),
+          // x: Date.parse(ping.time)
+          x: moment(ping.time, 'MM/DD/YY HH:mm:ss:SSS').valueOf(),
           title: 'A',
           text: ping.line.split(' ').slice(5).join(' ')
         }
@@ -208,10 +218,13 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
     $http.get('/disassocs', {
     }).then(function(resp) {
       var dataArr = [];
-      // console.log('resp', resp);
+      console.log('disassocs', resp);
       resp.data.forEach(function(ping){
+        // console.log('Date',Date.parse(ping.time));
+        // console.log('Moment',moment(ping.time, 'MM/DD/YY HH:mm:ss:SSS').valueOf());
         var obj = {
-          x: Date.parse(ping.time),
+          // x: Date.parse(ping.time),
+          x: moment(ping.time, 'MM/DD/YY HH:mm:ss:SSS').valueOf(),
           title: 'D',
           text: ping.line.split(' ').slice(2).join(' ')
         }
@@ -249,7 +262,8 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
       var dataArr = [];
       // console.log('resp', resp);
       resp.data.forEach(function(ping){
-        var tuple = [Date.parse(ping.time), ping.val];
+        // var tuple = [Date.parse(ping.time), ping.val];
+        var tuple = [moment(ping.time, 'MM/DD/YY HH:mm:ss:SSS').valueOf(), ping.val];
         dataArr.push(tuple);
       });
       $scope.chartConfig.series.push ({
@@ -278,7 +292,9 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
     }).then(function(resp) {
       $scope.loglines = resp.data;
       $scope.loglines.forEach(function(line){
-        line.utc = Date.parse(line.time).toString().slice(0,-3);
+        // line.utc = Date.parse(line.time).toString().slice(0,-3);
+        line.utc = moment(line.time, 'MM/DD/YY HH:mm:ss:SSS').valueOf().toString().slice(0,-3);
+
       });
 
       console.log('loglines', $scope.loglines);
