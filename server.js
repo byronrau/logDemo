@@ -76,6 +76,28 @@ app.get('/assocs', function(req, res){
   });
 });
 
+app.get('/disassocs', function(req, res){
+  var results =[];
+  var lineReader = require('readline').createInterface({
+    input: require('fs').createReadStream('1.txt')
+  });
+
+  lineReader.on('line', function (line) {
+    var obj = {};
+    if(line.match(' disassociation event')){
+      // console.log('Line from file:', line);
+      var lineArr = line.split(' ');
+      obj.time = lineArr[0] + ' ' + lineArr[1];
+      obj.val = 5;
+      obj.line = lineArr.slice(2).join(' ');
+      results.push(obj);
+    }
+  });
+  lineReader.on('close', function(){
+    res.send(results);
+  });
+});
+
 app.get('/lowsnr', function(req, res){
   var results =[];
   var lineReader = require('readline').createInterface({

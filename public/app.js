@@ -203,6 +203,45 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
     });
   }
 
+  $scope.disassocs = function() {
+    $scope.loading = true;
+    $http.get('/disassocs', {
+    }).then(function(resp) {
+      var dataArr = [];
+      // console.log('resp', resp);
+      resp.data.forEach(function(ping){
+        var obj = {
+          x: Date.parse(ping.time),
+          title: 'D',
+          text: ping.line.split(' ').slice(5).join(' ')
+        }
+        dataArr.push(obj);
+      });
+      $scope.chartConfig.series.push ({
+        type: 'flags',
+        name: 'Assocs',
+        data: dataArr,
+        point: {
+          events: {
+            click: function () {
+              $scope.scollToLog(this.x);
+            }
+          }
+        },
+        onSeries: 3,
+        shape: 'squarepin',
+        width: 16,
+          style: {
+            color: 'red'
+          },
+      });
+      // console.log('dataArr', dataArr);
+    }, function(err){
+      alert('Error getting data, please try again.')
+      $scope.loading = false;
+    });
+  }
+
   $scope.lowsnr = function() {
     $scope.loading = true;
     $http.get('/lowsnr', {
@@ -255,6 +294,7 @@ app.controller('ntCtrl', ['$scope', '$http', '$document', function($scope, $http
   $scope.acks();
   $scope.loglines();
   $scope.assocs();
+  $scope.disassocs();
   $scope.lowsnr();
 
 }]);
